@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2024-11-04T23:00:13"
+    "last_modified": "2024-11-05T12:00:14"
   },
   "schedule": [
     {
@@ -398,7 +398,8 @@
       ],
       "Semester II": [
         "Trevor Erik CARLSON",
-        "Grp L01:  - E-Learn_C",
+        "Grp L01: Wed 10:00-12:00 LT16",
+        "- E-Learn_C",
         "Exam: 05 MAY 2025 17:00-19:00"
       ]
     },
