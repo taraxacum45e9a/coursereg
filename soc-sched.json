@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2024-11-11T12:00:13"
+    "last_modified": "2024-11-11T23:00:11"
   },
   "schedule": [
     {
@@ -2148,20 +2148,6 @@
       ]
     },
     {
-      "Course Code": "CS4268",
-      "Course Title": [
-        "Quantum Computing",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "-"
-      ],
-      "Semester II": [
-        "Divesh AGGARWAL",
-        "Grp L1: Thu 12:00-14:00 COM1-VCRM"
-      ]
-    },
-    {
       "Course Code": "CS4269",
       "Course Title": [
         "Fundamentals of Logic in Computer Science",
@@ -3806,20 +3792,6 @@
       "Semester II": [
         "Thomas CHEVRIER",
         "Grp L1: Tue 18:30-20:30 COM1-0204"
-      ]
-    },
-    {
-      "Course Code": "IS5010",
-      "Course Title": [
-        "AI Ethics and Governance",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "-"
-      ],
-      "Semester II": [
-        "KWONG Yuk Wah",
-        "Grp L1: Fri 18:30-20:30"
       ]
     },
     {
