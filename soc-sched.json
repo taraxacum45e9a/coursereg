@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2024-11-15T12:00:14"
+    "last_modified": "2024-11-15T23:00:12"
   },
   "schedule": [
     {
@@ -855,8 +855,8 @@
         "Eldon CHUNG",
         "Grp L1: Mon 16:00-18:00 LT11",
         "Wed 13:00-14:00 LT11",
-        "Grp L2: Mon 16:00-18:00",
-        "Wed 13:00-14:00",
+        "Grp L2: Mon 14:00-16:00 UT-AUD1",
+        "Wed 14:00-15:00 LT11",
         "Exam: 26 APR 2025 13:00-15:00"
       ]
     },
@@ -3183,7 +3183,7 @@
         "-"
       ],
       "Semester II": [
-        "Grp L1: Thu 14:00-16:00 BIZ2-0404"
+        "Grp L1: Thu 14:00-16:00 BIZ2-0202"
       ]
     },
     {
