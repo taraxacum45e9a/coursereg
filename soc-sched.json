@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2024-11-22T12:00:14"
+    "last_modified": "2024-11-22T23:00:11"
   },
   "schedule": [
     {
@@ -3103,8 +3103,7 @@
         "-"
       ],
       "Semester II": [
-        "External teaching staff",
-        "Grp L1: Fri 18:00-21:00 COM4SR31"
+        "External teaching staff"
       ]
     },
     {
@@ -3132,7 +3131,7 @@
       ],
       "Semester II": [
         "Shashank Shekhar TRIPATHI",
-        "Grp L1: Tue 18:00-21:00"
+        "Grp L1: Tue 18:00-21:00 LT14"
       ]
     },
     {
