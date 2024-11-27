@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2024-11-27T12:00:13"
+    "last_modified": "2024-11-27T23:00:12"
   },
   "schedule": [
     {
@@ -1844,7 +1844,7 @@
       "Semester II": [
         "Ambuj VARSHNEY",
         "WANG Jingxian",
-        "Grp L1: Fri 18:30-20:30 LT13",
+        "Grp L1: Tue 18:30-20:30 LT8",
         "Exam: 05 MAY 2025 09:00-11:00"
       ]
     },
@@ -2615,7 +2615,7 @@
       "Semester II": [
         "Ambuj VARSHNEY",
         "WANG Jingxian",
-        "Grp L1: Fri 18:30-20:30 LT13",
+        "Grp L1: Tue 18:30-20:30 LT8",
         "Exam: 05 MAY 2025 09:00-11:00"
       ]
     },
@@ -3094,19 +3094,6 @@
       ]
     },
     {
-      "Course Code": "FT5008",
-      "Course Title": [
-        "Contemporary Topics in Blockchain Applications",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "-"
-      ],
-      "Semester II": [
-        "External teaching staff"
-      ]
-    },
-    {
       "Course Code": "FT5009",
       "Course Title": [
         "Contemporary Topics in Financial Data Analytics",
@@ -3147,6 +3134,21 @@
       ],
       "Semester II": [
         "-"
+      ]
+    },
+    {
+      "Course Code": "IFS4101",
+      "Course Title": [
+        "Legal Aspects of Information Security",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "External teaching staff",
+        "Grp L1: Tue 15:00-18:00 SR_LT19",
+        "Exam: 06 MAY 2025 17:00-19:00"
       ]
     },
     {
