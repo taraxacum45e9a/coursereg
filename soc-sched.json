@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2024-12-07T12:00:14"
+    "last_modified": "2024-12-09T12:00:14"
   },
   "schedule": [
     {
@@ -237,6 +237,21 @@
       ],
       "Semester II": [
         "-"
+      ]
+    },
+    {
+      "Course Code": "BT4221",
+      "Course Title": [
+        "Big Data Techniques and Technologies",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "YEO Wee Kiang",
+        "Grp L1: Fri 12:00-15:00 LT15",
+        "Exam: 28 APR 2025 09:00-11:00"
       ]
     },
     {
