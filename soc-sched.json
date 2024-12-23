@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2024-12-20T12:00:14"
+    "last_modified": "2024-12-23T14:00:12"
   },
   "schedule": [
     {
@@ -1471,7 +1471,6 @@
       ],
       "Semester II": [
         "CHAN Chee Yong",
-        "LU Yao",
         "Grp L1: Fri 10:00-12:00 LT8",
         "Exam: 26 APR 2025 09:00-11:00"
       ]
@@ -1845,7 +1844,7 @@
         "-"
       ],
       "Semester II": [
-        "Stephane BRESSAN",
+        "LU Yao",
         "Grp L1: Fri 18:30-20:30 LT15"
       ]
     },
@@ -2604,20 +2603,6 @@
       "Semester II": [
         "Bimlesh WADHWA",
         "Grp L1: Thu 18:30-20:30 LT18"
-      ]
-    },
-    {
-      "Course Code": "CS5421",
-      "Course Title": [
-        "Database Applications Design and Tuning",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "-"
-      ],
-      "Semester II": [
-        "Stephane BRESSAN",
-        "Grp L1: Fri 18:30-20:30 LT15"
       ]
     },
     {
@@ -3985,7 +3970,7 @@
         "-"
       ],
       "Semester II": [
-        "Stephane BRESSAN",
+        "Adi Yoga Sidi PRABAWA",
         "Grp L1: Tue 12:00-14:00 LT18"
       ]
     },
