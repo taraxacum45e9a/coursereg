@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2025-01-03T12:00:13"
+    "last_modified": "2025-01-04T12:00:13"
   },
   "schedule": [
     {
@@ -1357,14 +1357,8 @@
       ],
       "Semester II": [
         "Ganesh NEELAKANTA IYER",
-        "Grp L1: Tue 10:00-12:00 LT17",
-        "Tue 14:00-16:00 LT17",
-        "Grp L2: Tue 10:00-12:00 LT17",
-        "Tue 14:00-16:00 LT17",
-        "Grp L3: Tue 10:00-12:00 LT17",
-        "Tue 14:00-16:00 LT17",
-        "Grp L4: Tue 10:00-12:00 LT17",
-        "Tue 14:00-16:00 LT17"
+        "Grp L1: Tue 14:00-16:00 LT17",
+        "Tue 10:00-12:00 LT17"
       ]
     },
     {
@@ -3148,7 +3142,7 @@
         "-"
       ],
       "Semester II": [
-        "External teaching staff",
+        "Zaid Hamzah",
         "Grp L1: Tue 15:00-18:00 SR_LT19",
         "Exam: 06 MAY 2025 17:00-19:00"
       ]
