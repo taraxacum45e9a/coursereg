@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2025-01-04T12:00:13"
+    "last_modified": "2025-01-05T23:00:12"
   },
   "schedule": [
     {
@@ -786,7 +786,7 @@
         "Henry CHIA Wai Kit",
         "CHIN Wei Ngan",
         "Grp L1: Mon 12:00-14:00 LT11",
-        "Grp L2: Tue 12:00-14:00 LT16",
+        "Grp L2: Tue 12:00-14:00 LT19",
         "Exam: 30 APR 2025 13:00-15:00"
       ]
     },
@@ -1357,8 +1357,8 @@
       ],
       "Semester II": [
         "Ganesh NEELAKANTA IYER",
-        "Grp L1: Tue 14:00-16:00 LT17",
-        "Tue 10:00-12:00 LT17"
+        "Grp L1: Tue 14:00-16:00 COM3-01-22",
+        "Tue 10:00-12:00 COM3-01-22"
       ]
     },
     {
@@ -1390,7 +1390,7 @@
       ],
       "Semester II": [
         "Cristina CARBUNARU",
-        "Grp L1: Tue 12:00-14:00 LT19",
+        "Grp L1: Tue 12:00-14:00 LT16",
         "Exam: 05 MAY 2025 13:00-15:00"
       ]
     },
@@ -2082,8 +2082,8 @@
       ],
       "Semester II": [
         "LOW Kok Lim",
-        "Grp L1: Mon 14:00-16:00 LT14",
-        "Fri 16:00-17:00 LT18",
+        "Grp L1: Mon 14:00-16:00 LT15",
+        "Fri 16:00-17:00 LT15",
         "Exam: 03 MAY 2025 09:00-11:00"
       ]
     },
@@ -3635,7 +3635,7 @@
       ],
       "Semester II": [
         "LEE Boon Kee",
-        "Grp L1: Mon 14:00-16:00 COM1-0212",
+        "Grp L1: Mon 14:00-16:00 LT14",
         "Exam: 03 MAY 2025 09:00-11:00"
       ]
     },
@@ -3665,7 +3665,7 @@
       ],
       "Semester II": [
         "LI Xiaofan",
-        "Grp L1: Fri 14:00-16:00 LT14"
+        "Grp L1: Fri 14:00-16:00 LT18"
       ]
     },
     {
