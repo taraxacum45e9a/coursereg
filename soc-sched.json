@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2025-01-06T23:00:12"
+    "last_modified": "2025-01-07T23:00:12"
   },
   "schedule": [
     {
@@ -283,7 +283,7 @@
       ],
       "Semester II": [
         "Rudy SETIONO",
-        "Grp L1: Tue 09:00-12:00",
+        "Grp L1: Tue 09:00-12:00 COM1-0204",
         "Exam: 06 MAY 2025 17:00-19:00"
       ]
     },
@@ -1123,9 +1123,6 @@
         "Grp LG05: Mon 15:00-18:00 COM2-0108",
         "Thu 08:00-09:00 COM3-01-20",
         "Fri 16:00-18:00 UT-AUD2",
-        "Grp LG06: Tue 09:00-12:00 COM2-0108",
-        "Wed 11:00-12:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
         "Grp LG07: Tue 09:00-12:00 BIZ2-0301",
         "Wed 09:00-10:00 COM3-01-20",
         "Fri 16:00-18:00 UT-AUD2",
@@ -1146,9 +1143,6 @@
         "Fri 16:00-18:00 UT-AUD2",
         "Grp LG13: Wed 12:00-15:00 BIZ2-0301",
         "Thu 12:00-13:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
-        "Grp LG14: Wed 10:00-11:00 COM3-01-20",
-        "Thu 09:00-12:00 COM2-0108",
         "Fri 16:00-18:00 UT-AUD2",
         "Grp LG15: Thu 09:00-10:00 COM3-01-20",
         "Fri 09:00-12:00 COM2-0108",
@@ -1673,7 +1667,7 @@
       ],
       "Semester II": [
         "ZHAO Jin",
-        "Grp L1: Fri 12:00-14:00 LT18",
+        "Grp L1: Fri 12:00-14:00 COM1-VCRM",
         "Exam: 06 MAY 2025 09:00-11:00"
       ]
     },
@@ -3143,7 +3137,7 @@
       ],
       "Semester II": [
         "Zaid Hamzah",
-        "Grp L1: Tue 15:00-18:00 SR_LT19",
+        "Grp L1: Tue 15:00-18:00 COM4SR31",
         "Exam: 06 MAY 2025 17:00-19:00"
       ]
     },
@@ -3920,7 +3914,7 @@
       ],
       "Semester II": [
         "QIAO Dandan",
-        "Grp L1: Thu 15:00-18:00 COM1-0209"
+        "Grp L1: Thu 15:00-18:00 COM3-B1-10"
       ]
     },
     {
