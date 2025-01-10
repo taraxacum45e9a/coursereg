@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2025-01-09T12:00:14"
+    "last_modified": "2025-01-10T12:00:14"
   },
   "schedule": [
     {
@@ -1351,8 +1351,7 @@
       ],
       "Semester II": [
         "Ganesh NEELAKANTA IYER",
-        "Grp L1: Tue 14:00-16:00 COM3-01-22",
-        "Tue 10:00-12:00 COM3-01-22"
+        "Grp L1: Tue 10:00-12:00 COM3-01-22"
       ]
     },
     {
