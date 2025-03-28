@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2025-03-21T23:00:12"
+    "last_modified": "2025-03-28T12:00:13"
   },
   "schedule": [
     {
@@ -12,14 +12,14 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Sharon TAN Swee Lin",
-        "SOW Jin Sze",
+        "TAN Swee Lin, Sharon",
+        "SOW Jin Sze, Samantha",
         "Grp L1: Tue 12:00-14:00 LT8",
         "Exam: 27 NOV 2024 13:00-15:30"
       ],
       "Semester II": [
-        "Sharon TAN Swee Lin",
-        "SOW Jin Sze",
+        "TAN Swee Lin, Sharon",
+        "SOW Jin Sze, Samantha",
         "Grp L1: Thu 16:00-18:00 LT16",
         "Exam: 06 MAY 2025 13:00-15:30"
       ]
@@ -48,11 +48,11 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Danny POO Chiang Choon",
+        "POO Chiang Choon, Danny",
         "Grp L1: Mon 10:00-12:00 LT16"
       ],
       "Semester II": [
-        "Danny POO Chiang Choon",
+        "POO Chiang Choon, Danny",
         "Grp L1: Mon 10:00-12:00 LT11"
       ]
     },
@@ -111,7 +111,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Rudy SETIONO",
+        "SETIONO, Rudy",
         "Grp L1: Mon 14:00-16:00 COM4SR32",
         "Exam: 04 DEC 2024 13:00-15:00"
       ],
@@ -170,7 +170,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Praneeth Shalinda Adikari A. A.",
+        "Shalinda ADIKARI",
         "Grp L1: Mon 09:00-12:00 COM1-0212"
       ],
       "Semester II": [
@@ -187,7 +187,7 @@
         "-"
       ],
       "Semester II": [
-        "Freddy LIM Jie",
+        "LIM Jie, Freddy",
         "Grp L1: Thu 12:00-14:00 LT12",
         "Exam: 07 MAY 2025 13:00-15:00"
       ]
@@ -199,16 +199,16 @@
         "Units = 8"
       ],
       "Semester I": [
-        "Rudy SETIONO",
-        "Praneeth Shalinda Adikari A. A.",
+        "SETIONO, Rudy",
+        "Shalinda ADIKARI",
         "LEK Hsiang Hui",
         "Prakash Chandra SUKHWAL",
         "Grp L1: Fri 15:00-18:00 LT15"
       ],
       "Semester II": [
-        "Sharon TAN Swee Lin",
-        "Praneeth Shalinda Adikari A. A.",
-        "Frank XING Zhutian",
+        "TAN Swee Lin, Sharon",
+        "Shalinda ADIKARI",
+        "Frank XING",
         "Prakash Chandra SUKHWAL",
         "Grp L1: Wed 11:00-14:00 LT17"
       ]
@@ -264,11 +264,11 @@
         "Units = 4"
       ],
       "Semester I": [
-        "WANG Qiuhong",
+        "WANG QIUHONG",
         "Grp L1: Fri 09:00-12:00 LT19"
       ],
       "Semester II": [
-        "WANG Qiuhong",
+        "WANG QIUHONG",
         "Grp L1: Thu 09:00-12:00 LT18"
       ]
     },
@@ -282,7 +282,7 @@
         "-"
       ],
       "Semester II": [
-        "Rudy SETIONO",
+        "SETIONO, Rudy",
         "Grp L1: Tue 09:00-12:00 COM1-0204",
         "Exam: 06 MAY 2025 17:00-19:00"
       ]
@@ -322,7 +322,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Stephane BRESSAN",
+        "BRESSAN, Stephane",
         "Grp L1: Wed 18:30-20:30 LT16"
       ],
       "Semester II": [
@@ -397,7 +397,7 @@
       ],
       "Semester II": [
         "Boyd ANDERSON",
-        "Colin TAN Keng Yan",
+        "TAN Keng Yan, Colin",
         "Sriram SAMI",
         "Grp L01:  -"
       ]
@@ -409,12 +409,12 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Colin TAN Keng Yan",
+        "TAN Keng Yan, Colin",
         "Grp L01:  - E-Learn_C",
         "Exam: 04 DEC 2024 13:00-15:00"
       ],
       "Semester II": [
-        "Trevor Erik CARLSON",
+        "Trevor E. CARLSON",
         "Grp L01: Wed 10:00-12:00 LT15",
         "Exam: 05 MAY 2025 17:00-19:00"
       ]
@@ -489,7 +489,7 @@
         "-"
       ],
       "Semester II": [
-        "Victor NG Teck Wei",
+        "Victor NG",
         "Grp L1: Mon 18:30-21:30 LT9"
       ]
     },
@@ -550,7 +550,7 @@
         "Units = 2"
       ],
       "Semester I": [
-        "Victor NG Teck Wei",
+        "Victor NG",
         "Grp L1: Wed 10:00-12:00 LT11"
       ],
       "Semester II": [
@@ -604,7 +604,7 @@
       ],
       "Semester I": [
         "OOI Wei Tsang",
-        "Eric HAN Liang Wee",
+        "HAN Liang Wee Eric",
         "Eldon CHUNG",
         "Grp S1: Mon 16:00-18:00 LT8",
         "Exam: 25 NOV 2024 13:00-15:00"
@@ -623,7 +623,7 @@
       ],
       "Semester I": [
         "LEONG Wai Kay",
-        "HU Conghui",
+        "Conghui HU",
         "Grp L1: Wed 10:00-12:00 LT8",
         "Exam: 25 NOV 2024 13:00-15:00"
       ],
@@ -639,16 +639,16 @@
       ],
       "Semester I": [
         "KHOO Siau Cheng",
-        "Alan CHENG Holun",
-        "Henry CHIA Wai Kit",
+        "CHENG Holun",
+        "CHIA Wai Kit, Henry",
         "Grp S1: Mon 16:00-18:00 LT7",
         "Grp S2: Tue 16:00-18:00 LT7",
         "Exam: 26 NOV 2024 09:00-11:00"
       ],
       "Semester II": [
         "ZHOU Lifeng",
-        "Alan CHENG Holun",
-        "HU Conghui",
+        "CHENG Holun",
+        "Conghui HU",
         "Grp S1: Mon 14:00-16:00 LT7",
         "Grp S2: Mon 14:00-16:00 E-Learn_C",
         "Exam: 02 MAY 2025 14:30-16:30"
@@ -676,15 +676,15 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Nitya LAKSHMANAN",
-        "Daren LER Shan Wen",
+        "Nitya.Lakshmanan",
+        "Daren LER",
         "Ashish Deepak DANDEKAR",
         "Grp L1: Wed 08:00-10:00 LT27",
         "Exam: 25 NOV 2024 13:00-15:00"
       ],
       "Semester II": [
         "Ashish Deepak DANDEKAR",
-        "Daren LER Shan Wen",
+        "Daren LER",
         "Adi Yoga Sidi PRABAWA",
         "Grp L1: Wed 08:00-10:00 LT27",
         "Exam: 29 APR 2025 17:00-19:00"
@@ -716,7 +716,7 @@
         "LOW Kok Lim",
         "Boyd ANDERSON",
         "Sanka RASNAYAKA",
-        "Martin HENZ",
+        "HENZ, Martin J",
         "Grp L1: Wed 10:00-12:00 E-Learn_C",
         "Fri 10:00-12:00 E-Learn_C",
         "Exam: 25 NOV 2024 13:00-15:00"
@@ -753,7 +753,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Aaron TAN Tuck Choy",
+        "TAN Tuck Choy",
         "Ashish Deepak DANDEKAR",
         "CHIN Wei Ngan",
         "Maciej Lukasz OBREMSKI",
@@ -765,7 +765,7 @@
         "Exam: 29 NOV 2024 14:30-16:30"
       ],
       "Semester II": [
-        "TAY Yong Chiang",
+        "Y.C. TAY",
         "Grp L1: Wed 14:00-15:00 LT19",
         "Thu 12:00-14:00 LT19",
         "Exam: 02 MAY 2025 14:30-16:30"
@@ -778,12 +778,12 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Henry CHIA Wai Kit",
+        "CHIA Wai Kit, Henry",
         "Grp L1: Mon 12:00-14:00 LT8",
         "Exam: 02 DEC 2024 17:00-19:00"
       ],
       "Semester II": [
-        "Henry CHIA Wai Kit",
+        "CHIA Wai Kit, Henry",
         "CHIN Wei Ngan",
         "Grp L1: Mon 12:00-14:00 LT11",
         "Grp L2: Tue 12:00-14:00 LT19",
@@ -841,13 +841,13 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Alan CHENG Holun",
+        "CHENG Holun",
         "Grp L1: Wed 10:00-12:00 LT17",
         "Thu 09:00-10:00 LT17",
         "Exam: 27 NOV 2024 17:00-19:00"
       ],
       "Semester II": [
-        "Alan CHENG Holun",
+        "CHENG Holun",
         "Grp L1: Tue 12:00-14:00 LT15",
         "Wed 12:00-13:00 LT16",
         "Exam: 26 APR 2025 13:00-15:00"
@@ -866,8 +866,8 @@
         "Exam: 27 NOV 2024 17:00-19:00"
       ],
       "Semester II": [
-        "Ben LEONG Wing Lup",
-        "SHAO Lin",
+        "LEONG Wing Lup, Ben",
+        "Lin SHAO",
         "Muhammad Rizki Aulia Rahman MAULANA",
         "Diptarka CHAKRABORTY",
         "Eldon CHUNG",
@@ -885,15 +885,15 @@
         "Units = 4"
       ],
       "Semester I": [
-        "WONG Weng Fai",
-        "Aaron TAN Tuck Choy",
+        "Weng-Fai WONG",
+        "TAN Tuck Choy",
         "Anandha GOPALAN",
         "Grp L1: Tue 16:00-18:00 LT11",
         "Grp L2: Tue 16:00-18:00 E-Learn_C",
         "Exam: 28 NOV 2024 17:00-19:00"
       ],
       "Semester II": [
-        "Aaron TAN Tuck Choy",
+        "TAN Tuck Choy",
         "Prabhu NATARAJAN",
         "Grp L1: Mon 10:00-12:00 LT8",
         "Grp L2: Mon 10:00-12:00 E-Learn_C",
@@ -967,16 +967,16 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Stephane BRESSAN",
-        "Christian Von Der WETH",
+        "BRESSAN, Stephane",
+        "Christian Von Der Weth",
         "Adi Yoga Sidi PRABAWA",
         "Grp L1: Tue 12:00-14:00 LT11",
         "Exam: 26 NOV 2024 13:00-15:00"
       ],
       "Semester II": [
-        "XIAO Xiaokui",
+        "Xiaokui XIAO",
         "Adi Yoga Sidi PRABAWA",
-        "JIANG Kan",
+        "JIANG KAN",
         "Grp L1: Mon 12:00-14:00 UT-AUD1",
         "Exam: 29 APR 2025 13:00-15:00"
       ]
@@ -990,13 +990,13 @@
       "Semester I": [
         "Damith Chatura RAJAPAKSE",
         "Prabhu NATARAJAN",
-        "Michael David ADAMS",
+        "Michael D. ADAMS",
         "Grp L1: Fri 16:00-18:00 UT-AUD2",
         "Exam: 26 NOV 2024 17:00-18:30"
       ],
       "Semester II": [
         "Damith Chatura RAJAPAKSE",
-        "Eric HAN Liang Wee",
+        "HAN Liang Wee Eric",
         "Ganesh NEELAKANTA IYER",
         "Grp L1: Fri 16:00-18:00 E-Learn_C",
         "Exam: 30 APR 2025 17:00-19:00"
@@ -1024,7 +1024,7 @@
       "Semester I": [
         "Damith Chatura RAJAPAKSE",
         "Prabhu NATARAJAN",
-        "Michael David ADAMS",
+        "Michael D. ADAMS",
         "Grp LG01: Mon 09:00-12:00 BIZ2-0404",
         "Wed 09:00-10:00 COM3-01-20",
         "Fri 16:00-18:00 UT-AUD2",
@@ -1107,7 +1107,7 @@
       ],
       "Semester II": [
         "Damith Chatura RAJAPAKSE",
-        "Eric HAN Liang Wee",
+        "HAN Liang Wee Eric",
         "Ganesh NEELAKANTA IYER",
         "Grp LG02: Mon 09:00-12:00 COM2-0108",
         "Thu 14:00-15:00 COM3-01-20",
@@ -1173,7 +1173,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Martin HENZ",
+        "HENZ, Martin J",
         "Grp L1: Thu 12:00-14:00 LT16",
         "Exam: 23 NOV 2024 13:00-15:00"
       ],
@@ -1209,13 +1209,13 @@
         "Units = 4"
       ],
       "Semester I": [
-        "LI Jialin",
-        "Colin TAN Keng Yan",
+        "Jialin LI",
+        "TAN Keng Yan, Colin",
         "Grp L1: Wed 12:00-14:00 LT11",
         "Exam: 28 NOV 2024 17:00-19:00"
       ],
       "Semester II": [
-        "Colin TAN Keng Yan",
+        "TAN Keng Yan, Colin",
         "Anandha GOPALAN",
         "Grp L1: Wed 10:00-12:00 LT11",
         "Grp L2: Wed 10:00-12:00 E-Learn_C",
@@ -1229,12 +1229,12 @@
         "Units = 4"
       ],
       "Semester I": [
-        "CHANG Ee Chien",
+        "CHANG Ee-Chien",
         "Grp L1: Thu 14:00-16:00 LT8",
         "Exam: 03 DEC 2024 09:00-11:00"
       ],
       "Semester II": [
-        "Nitya LAKSHMANAN",
+        "Nitya.Lakshmanan",
         "Grp L1: Thu 10:00-12:00 LT8",
         "Exam: 05 MAY 2025 17:00-19:00"
       ]
@@ -1262,16 +1262,16 @@
       ],
       "Semester I": [
         "Muhammad Rizki Aulia Rahman MAULANA",
-        "Frank Patrick REBENTROST",
-        "HU Conghui",
-        "Eric HAN Liang Wee",
+        "Patrick REBENTROST",
+        "Conghui HU",
+        "HAN Liang Wee Eric",
         "Grp L1: Mon 16:00-18:00 UT-AUD2",
         "Exam: 27 NOV 2024 13:00-15:00"
       ],
       "Semester II": [
         "Muhammad Rizki Aulia Rahman MAULANA",
-        "HU Conghui",
-        "Frank Patrick REBENTROST",
+        "Conghui HU",
+        "Patrick REBENTROST",
         "Grp L1: Tue 16:00-18:00 UT-AUD2",
         "Grp L2: Tue 10:00-12:00 LT11",
         "Exam: 05 MAY 2025 09:00-11:00"
@@ -1316,7 +1316,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Wynne HSU",
+        "HSU, Wynne",
         "Grp L1: Thu 09:00-11:00 SR_LT19"
       ],
       "Semester II": [
@@ -1468,15 +1468,15 @@
       ],
       "Semester I": [
         "Steven HALIM",
-        "CHANG Yi-Jun",
+        "Yi-Jun CHANG",
         "Grp L1: Tue 10:00-12:00 LT11",
         "Grp L2: Tue 10:00-12:00 E-Learn_C",
         "Exam: 29 NOV 2024 14:30-17:00"
       ],
       "Semester II": [
-        "Sanjay JAIN",
+        "JAIN, Sanjay",
         "Warut SUKSOMPONG",
-        "Eric HAN Liang Wee",
+        "HAN Liang Wee Eric",
         "Grp L1: Thu 14:00-16:00 LT11",
         "Grp L2: Thu 14:00-16:00 E-Learn_C",
         "Exam: 28 APR 2025 09:00-11:00"
@@ -1489,7 +1489,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Sanjay JAIN",
+        "JAIN, Sanjay",
         "Grp L1: Fri 10:00-12:00 LT18",
         "Exam: 02 DEC 2024 13:00-15:00"
       ],
@@ -1521,7 +1521,7 @@
         "-"
       ],
       "Semester II": [
-        "Olivier Gerard Henri Marie DANVY",
+        "Olivier DANVY",
         "Grp L1: Fri 12:00-14:00 LT17"
       ]
     },
@@ -1563,7 +1563,7 @@
       ],
       "Semester I": [
         "Boyd ANDERSON",
-        "WANG Jingxian",
+        "Jingxian WANG",
         "Grp L1: Wed 13:00-15:00 LT15"
       ],
       "Semester II": [
@@ -1622,12 +1622,12 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Daren LER Shan Wen",
+        "Daren LER",
         "Grp L1: Wed 10:00-12:00 LT16",
         "Exam: 03 DEC 2024 09:00-11:00"
       ],
       "Semester II": [
-        "Daren LER Shan Wen",
+        "Daren LER",
         "Grp L1: Mon 10:00-12:00 LT18",
         "Exam: 07 MAY 2025 17:00-19:00"
       ]
@@ -1640,7 +1640,7 @@
       ],
       "Semester I": [
         "Brian LIM Youliang",
-        "Eric HAN Liang Wee",
+        "HAN Liang Wee Eric",
         "Grp L1: Mon 12:00-14:00 LT19",
         "Thu 11:00-12:00 LT19",
         "Exam: 25 NOV 2024 09:00-11:00"
@@ -1750,7 +1750,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "JIANG Kan",
+        "JIANG KAN",
         "Grp L1: Thu 09:00-12:00 LT15"
       ],
       "Semester II": [
@@ -1782,7 +1782,7 @@
         "-"
       ],
       "Semester II": [
-        "Martin HENZ",
+        "HENZ, Martin J",
         "Grp L1: Thu 14:00-16:00 LT12"
       ]
     },
@@ -1844,7 +1844,7 @@
       ],
       "Semester II": [
         "Ambuj VARSHNEY",
-        "WANG Jingxian",
+        "Jingxian WANG",
         "Grp L1: Tue 18:30-20:30 LT8",
         "Exam: 05 MAY 2025 09:00-11:00"
       ]
@@ -1856,7 +1856,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Trevor Erik CARLSON",
+        "Trevor E. CARLSON",
         "Grp L1: Tue 14:00-16:00 LT19"
       ],
       "Semester II": [
@@ -1885,7 +1885,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Bryan HOOI Kuen Yew",
+        "Bryan HOOI Kuen-Yew",
         "AI Xin",
         "Grp L1: Fri 18:30-20:30 LT11",
         "Exam: 27 NOV 2024 09:00-11:00"
@@ -1904,7 +1904,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Richard MA Tianbai",
+        "MA Tianbai, Richard",
         "Grp L1: Fri 12:00-14:00 LT17",
         "Exam: 04 DEC 2024 09:00-11:00"
       ],
@@ -1992,7 +1992,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Roland YAP Hock Chuan",
+        "YAP Hock Chuan, Roland",
         "Grp L1: Tue 18:30-20:30 LT16",
         "Exam: 25 NOV 2024 09:00-11:00"
       ],
@@ -2090,8 +2090,8 @@
         "Exam: 04 DEC 2024 17:00-18:30"
       ],
       "Semester II": [
-        "KAN Min Yen",
-        "Christian Von Der WETH",
+        "KAN Min-Yen",
+        "Christian Von Der Weth",
         "Grp L1: Fri 09:00-12:00 LT19",
         "Grp L2: Mon 18:30-21:30 LT8",
         "Exam: 29 APR 2025 09:00-11:00"
@@ -2161,7 +2161,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "SHAO Lin",
+        "Lin SHAO",
         "Grp L1: Tue 18:30-20:30 LT9"
       ],
       "Semester II": [
@@ -2236,7 +2236,7 @@
         "Grp L1: Thu 18:30-20:30 LT10"
       ],
       "Semester II": [
-        "LI Jialin",
+        "Jialin LI",
         "Grp L1: Thu 18:30-20:30 LT19"
       ]
     },
@@ -2261,7 +2261,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Christian Von Der WETH",
+        "Christian Von Der Weth",
         "Grp L1: Fri 18:30-20:30 LT17"
       ],
       "Semester II": [
@@ -2294,7 +2294,7 @@
         "-"
       ],
       "Semester II": [
-        "Frank Christian STEPHAN",
+        "STEPHAN, Frank Christian",
         "Grp L1: Mon 18:30-20:30 SR_LT19",
         "Exam: 06 MAY 2025 17:00-19:00"
       ]
@@ -2323,7 +2323,7 @@
         "-"
       ],
       "Semester II": [
-        "Gary TAN Soon Huat",
+        "TAN Soon Huat, Gary",
         "Grp L1: Wed 18:30-20:30 COM3-01-23",
         "Exam: 06 MAY 2025 09:00-11:00"
       ]
@@ -2377,11 +2377,11 @@
         "Units = 4"
       ],
       "Semester I": [
-        "YOU Yang",
+        "Yang YOU",
         "Grp L1: Tue 18:30-20:30 COM1-0206"
       ],
       "Semester II": [
-        "Xavier Roger Gilbert BRESSON",
+        "BRESSON Xavier",
         "Grp L1: Mon 18:30-20:30 LT13"
       ]
     },
@@ -2395,7 +2395,7 @@
         "-"
       ],
       "Semester II": [
-        "Christian Von Der WETH",
+        "Christian Von Der Weth",
         "Grp L1: Wed 18:30-20:30 LT9"
       ]
     },
@@ -2409,7 +2409,7 @@
         "-"
       ],
       "Semester II": [
-        "WONG Weng Fai",
+        "Weng-Fai WONG",
         "Grp L1: Mon 18:30-20:30 LT19",
         "Exam: 05 MAY 2025 17:00-19:00"
       ]
@@ -2424,8 +2424,8 @@
         "-"
       ],
       "Semester II": [
-        "YOU Yang",
-        "Michael SHIEH Qizhe",
+        "Yang YOU",
+        "Michael Shieh",
         "Grp L1: Fri 18:30-20:30 LT19"
       ]
     },
@@ -2453,7 +2453,7 @@
         "-"
       ],
       "Semester II": [
-        "Jonathan SCARLETT",
+        "Jonathan Mark SCARLETT",
         "Grp L1: Fri 18:30-21:30 LT14",
         "Exam: 06 MAY 2025 17:00-19:00"
       ]
@@ -2465,7 +2465,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Xavier Roger Gilbert BRESSON",
+        "BRESSON Xavier",
         "Grp L1: Wed 18:30-20:30 LT19",
         "Exam: 25 NOV 2024 17:00-19:00"
       ],
@@ -2494,7 +2494,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "XIAO Xiaokui",
+        "Xiaokui XIAO",
         "Grp L1: Wed 18:30-20:30 LT17",
         "Exam: 29 NOV 2024 09:00-11:00"
       ],
@@ -2512,7 +2512,7 @@
         "-"
       ],
       "Semester II": [
-        "CHANG Yi-Jun",
+        "Yi-Jun CHANG",
         "Grp L1: Wed 18:30-20:30 COM3-01-21"
       ]
     },
@@ -2526,7 +2526,7 @@
         "-"
       ],
       "Semester II": [
-        "Terence SIM Mong Cheng",
+        "Mong Cheng, Terence SIM",
         "Grp L1: Wed 18:30-20:30 COM1-VCRM"
       ]
     },
@@ -2568,11 +2568,11 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Anthony TUNG Kum Hoe",
+        "TUNG Kum Hoe Anthony",
         "Grp L1: Mon 18:30-20:30 LT19"
       ],
       "Semester II": [
-        "LEE Mong Li",
+        "LEE Mong Li, Janice",
         "Grp L1: Mon 18:30-20:30 COM1-0206"
       ]
     },
@@ -2601,7 +2601,7 @@
       ],
       "Semester II": [
         "Ambuj VARSHNEY",
-        "WANG Jingxian",
+        "Jingxian WANG",
         "Grp L1: Tue 18:30-20:30 LT8",
         "Exam: 05 MAY 2025 09:00-11:00"
       ]
@@ -2628,7 +2628,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Bryan HOOI Kuen Yew",
+        "Bryan HOOI Kuen-Yew",
         "AI Xin",
         "Grp L1: Fri 18:30-20:30 LT11",
         "Exam: 27 NOV 2024 09:00-11:00"
@@ -2661,7 +2661,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Roland YAP Hock Chuan",
+        "YAP Hock Chuan, Roland",
         "Grp L1: Tue 18:30-20:30 LT16",
         "Exam: 25 NOV 2024 09:00-11:00"
       ],
@@ -2736,7 +2736,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "SHAO Lin",
+        "Lin SHAO",
         "Grp L1: Tue 18:30-20:30 LT9"
       ],
       "Semester II": [
@@ -2795,7 +2795,7 @@
         "-"
       ],
       "Semester II": [
-        "Richard MA Tianbai",
+        "MA Tianbai, Richard",
         "Grp L1: Tue 14:00-16:00 COM1-VCRM"
       ]
     },
@@ -2894,7 +2894,7 @@
         "-"
       ],
       "Semester II": [
-        "Anthony TUNG Kum Hoe",
+        "TUNG Kum Hoe Anthony",
         "Grp L1: Thu 10:00-12:00 COM1-VCRM"
       ]
     },
@@ -2908,7 +2908,7 @@
         "-"
       ],
       "Semester II": [
-        "ZHANG Yang",
+        "Yang ZHANG",
         "Grp L1: Mon 16:00-18:00 COM1-VCRM"
       ]
     },
@@ -3003,7 +3003,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Michael SHIEH Qizhe",
+        "Michael Shieh",
         "Grp L1: Tue 10:00-12:00 COM1-VCRM"
       ],
       "Semester II": [
@@ -3017,7 +3017,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Victor NG Teck Wei",
+        "Victor NG",
         "Grp L1: Wed 18:30-21:30 COM3-01-23"
       ],
       "Semester II": [
@@ -3076,7 +3076,7 @@
         "-"
       ],
       "Semester II": [
-        "HUANG Ke-Wei",
+        "HUANG Ke Wei",
         "Grp L1: Mon 18:00-21:00 COM4SR32"
       ]
     },
@@ -3148,7 +3148,7 @@
         "-"
       ],
       "Semester II": [
-        "Norman Hugh ANDERSON",
+        "Hugh ANDERSON",
         "Grp L1: Thu 14:00-16:00 COM1-0210"
       ]
     },
@@ -3159,7 +3159,7 @@
         "Units = 8"
       ],
       "Semester I": [
-        "Nitya LAKSHMANAN",
+        "Nitya.Lakshmanan",
         "Grp L1: Mon 12:00-14:00 SR_LT19"
       ],
       "Semester II": [
@@ -3331,7 +3331,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Frank XING Zhutian",
+        "Frank XING",
         "Grp L1: Fri 12:00-14:00 LT18"
       ],
       "Semester II": [
@@ -3361,7 +3361,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Kisenchand Nathumal RANAI",
+        "Kisenchand Nathumal Ranai",
         "Grp L1: Thu 09:00-11:00 COM1-0212",
         "Exam: 03 DEC 2024 09:00-11:00"
       ],
@@ -3394,7 +3394,7 @@
         "-"
       ],
       "Semester II": [
-        "Victor NG Teck Wei",
+        "Victor NG",
         "Grp L1: Thu 09:00-12:00 COM1-0212"
       ]
     },
@@ -3408,7 +3408,7 @@
         "-"
       ],
       "Semester II": [
-        "Praneeth Shalinda Adikari A. A.",
+        "Shalinda ADIKARI",
         "Grp L1: Thu 09:00-11:00 COM3-01-23"
       ]
     },
@@ -3495,7 +3495,7 @@
         "-"
       ],
       "Semester II": [
-        "WANG Qiuhong",
+        "WANG QIUHONG",
         "Grp L1: Tue 09:00-12:00 COM4SR31",
         "Exam: 05 MAY 2025 09:00-11:00"
       ]
@@ -3536,7 +3536,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "WANG Qiuhong",
+        "WANG QIUHONG",
         "Grp L1: Tue 14:00-16:00 COM1-0204",
         "Exam: 03 DEC 2024 17:00-19:00"
       ],
@@ -3714,7 +3714,7 @@
         "-"
       ],
       "Semester II": [
-        "Suranga Chandima NANAYAKKARA",
+        "Suranga NANAYAKKARA",
         "Grp L1: Thu 18:30-20:30 COM1-0212"
       ]
     },
@@ -3742,7 +3742,7 @@
         "-"
       ],
       "Semester II": [
-        "Vincent LOY JITCHEN",
+        "Vincent LOY Jitchen",
         "Grp L1: Tue 18:30-20:30 LT9"
       ]
     },
@@ -3767,7 +3767,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Francis YEOH",
+        "Francis YEOH Song Chian",
         "Grp L1: Fri 18:30-20:30 LT14"
       ],
       "Semester II": [
@@ -3827,7 +3827,7 @@
         "-"
       ],
       "Semester II": [
-        "Rudy SETIONO",
+        "SETIONO, Rudy",
         "Grp L1: Wed 18:30-20:30 COM1-0212"
       ]
     },
@@ -3922,7 +3922,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Vaibhav RAJAN",
+        "VAIBHAV Rajan",
         "Grp L1: Mon 15:00-18:00 COM1-VCRM"
       ],
       "Semester II": [
@@ -3967,7 +3967,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Ben LEONG Wing Lup",
+        "LEONG Wing Lup, Ben",
         "Grp L1: Wed 18:30-20:30 COM1-VCRM"
       ],
       "Semester II": [
