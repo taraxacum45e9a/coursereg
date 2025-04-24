@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2025-04-21T23:00:12"
+    "last_modified": "2025-04-24T23:00:12"
   },
   "schedule": [
     {
@@ -1509,6 +1509,19 @@
       "Semester II": [
         "Steven HALIM",
         "Grp L1: Mon 17:00-22:00 COM1-B109"
+      ]
+    },
+    {
+      "Course Code": "CS3233R",
+      "Course Title": [
+        "Competitive Programming",
+        "Units = 1"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Grp L1:  -"
       ]
     },
     {
