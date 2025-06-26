@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2025-06-24T23:00:14"
+    "last_modified": "2025-06-26T12:00:19"
   },
   "schedule": [
     {
@@ -4003,6 +4003,19 @@
         "Anand Mohan RAMCHAND",
         "Grp L1: Wed 10:00-12:00 LT19",
         "Exam: 07 MAY 2025 13:00-15:00"
+      ]
+    },
+    {
+      "Course Code": "TS1003",
+      "Course Title": [
+        "Introduction to Computational Thinking and Problem Solving (CTPS) - Special",
+        "Units = -"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Daren LER"
       ]
     }
   ]
