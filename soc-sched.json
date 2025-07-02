@@ -1,8 +1,8 @@
 {
   "meta": {
-    "Semester I": "5 Aug - 7 Dec 2024",
-    "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2025-07-01T12:00:20"
+    "Semester I": "4 Aug - 6 Dec 2025",
+    "Semester II": "12 Jan - 9 May 2026",
+    "last_modified": "2025-07-02T16:00:17"
   },
   "schedule": [
     {
@@ -14,14 +14,14 @@
       "Semester I": [
         "TAN Swee Lin, Sharon",
         "SOW Jin Sze, Samantha",
-        "Grp L1: Tue 12:00-14:00 LT8",
-        "Exam: 27 NOV 2024 13:00-15:30"
+        "Grp L1: Tue 12:00-14:00 LT11",
+        "Exam: 24 NOV 2025 09:00-11:30"
       ],
       "Semester II": [
         "TAN Swee Lin, Sharon",
         "SOW Jin Sze, Samantha",
         "Grp L1: Thu 16:00-18:00 LT16",
-        "Exam: 06 MAY 2025 13:00-15:30"
+        "Exam: 30 APR 2026 13:00-15:30"
       ]
     },
     {
@@ -31,14 +31,15 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Varun KARAMSHETTY",
+        "LIM Jie, Freddy",
+        "Vikas Deep",
         "Grp L1: Tue 14:00-16:00 LT17",
-        "Exam: 27 NOV 2024 13:00-15:00"
+        "Exam: 27 NOV 2025 09:00-11:00"
       ],
       "Semester II": [
-        "Nakyung KYUNG",
-        "Grp L1: Wed 09:00-11:00 LT17",
-        "Exam: 30 APR 2025 17:00-19:00"
+        "Oleh Stupak",
+        "Grp L1: Wed 09:00-11:00 I3-AUD",
+        "Exam: 04 MAY 2026 17:00-19:00"
       ]
     },
     {
@@ -49,11 +50,11 @@
       ],
       "Semester I": [
         "POO Chiang Choon, Danny",
-        "Grp L1: Mon 10:00-12:00 LT16"
+        "Grp L1: Mon 10:00-12:00 LT19"
       ],
       "Semester II": [
         "POO Chiang Choon, Danny",
-        "Grp L1: Mon 10:00-12:00 LT11"
+        "Grp L1: Mon 10:00-12:00 I3-AUD"
       ]
     },
     {
@@ -68,7 +69,7 @@
       "Semester II": [
         "NG Teck Khim",
         "Grp L1: Tue 16:00-18:00 LT15",
-        "Exam: 26 APR 2025 09:00-11:00"
+        "Exam: 28 APR 2026 13:00-15:00"
       ]
     },
     {
@@ -79,13 +80,11 @@
       ],
       "Semester I": [
         "JIN Chen",
-        "Grp L1: Wed 12:00-14:00 COM1-0212",
-        "Exam: 29 NOV 2024 14:30-16:30"
+        "Grp L1: Wed 12:00-14:00 LT14",
+        "Exam: 25 NOV 2025 17:00-19:00"
       ],
       "Semester II": [
-        "Aditya KARANAM",
-        "Grp L1: Mon 16:00-18:00 LT15",
-        "Exam: 05 MAY 2025 09:00-11:00"
+        "-"
       ]
     },
     {
@@ -96,11 +95,11 @@
       ],
       "Semester I": [
         "Shashank Shekhar TRIPATHI",
-        "Grp L1: Tue 15:00-18:00 LT18"
+        "Grp L1: Tue 15:00-18:00 COM1-0212"
       ],
       "Semester II": [
         "Shashank Shekhar TRIPATHI",
-        "Grp L1: Fri 09:30-12:30 UTSRC-LT50",
+        "Grp L1: Fri 09:30-12:30 LT17",
         "Grp L2: Fri 15:00-18:00 LT17"
       ]
     },
@@ -113,7 +112,7 @@
       "Semester I": [
         "SETIONO, Rudy",
         "Grp L1: Mon 14:00-16:00 COM4SR32",
-        "Exam: 04 DEC 2024 13:00-15:00"
+        "Exam: 22 NOV 2025 09:00-11:00"
       ],
       "Semester II": [
         "-"
@@ -128,7 +127,7 @@
       "Semester I": [
         "ZHAO Rui",
         "ZHAO Yiliang",
-        "Grp L1: Fri 18:30-21:30 LT16"
+        "Grp L1: Thu 18:30-21:30 LT16"
       ],
       "Semester II": [
         "-"
@@ -142,8 +141,8 @@
       ],
       "Semester I": [
         "Stanley KOK",
-        "Grp L1: Fri 12:00-14:00 LT16",
-        "Exam: 02 DEC 2024 13:00-15:00"
+        "Grp L1: Fri 12:00-14:00 LT15",
+        "Exam: 01 DEC 2025 13:00-15:00"
       ],
       "Semester II": [
         "-"
@@ -156,11 +155,11 @@
         "Units = 4"
       ],
       "Semester I": [
-        "QIAO Dandan",
-        "Grp L1: Thu 14:00-16:00 COM4SR31"
+        "-"
       ],
       "Semester II": [
-        "-"
+        "QIAO Dandan",
+        "Grp L1: Mon 12:00-14:00 COM1-0204"
       ]
     },
     {
@@ -171,7 +170,7 @@
       ],
       "Semester I": [
         "Shalinda ADIKARI",
-        "Grp L1: Mon 09:00-12:00 COM1-0212"
+        "Grp L1: Thu 09:00-12:00 COM4SR31"
       ],
       "Semester II": [
         "-"
@@ -188,8 +187,8 @@
       ],
       "Semester II": [
         "LIM Jie, Freddy",
-        "Grp L1: Thu 12:00-14:00 LT12",
-        "Exam: 07 MAY 2025 13:00-15:00"
+        "Grp L1: Mon 16:00-18:00 LT15",
+        "Exam: 02 MAY 2026 09:00-11:00"
       ]
     },
     {
@@ -199,18 +198,15 @@
         "Units = 8"
       ],
       "Semester I": [
-        "SETIONO, Rudy",
         "Shalinda ADIKARI",
-        "LEK Hsiang Hui",
-        "Prakash Chandra SUKHWAL",
-        "Grp L1: Fri 15:00-18:00 LT15"
+        "SETIONO, Rudy",
+        "Varun KARAMSHETTY",
+        "Grp L1: Thu 15:00-18:00 LT15"
       ],
       "Semester II": [
         "TAN Swee Lin, Sharon",
         "Shalinda ADIKARI",
-        "Frank XING",
-        "Prakash Chandra SUKHWAL",
-        "Grp L1: Wed 11:00-14:00 LT17"
+        "Grp L1: Wed 11:00-14:00 LT18"
       ]
     },
     {
@@ -223,8 +219,8 @@
         "-"
       ],
       "Semester II": [
-        "Vivek Sundar MAGESH",
-        "Grp L1: Thu 15:00-18:00 LT15"
+        "Vivek Magesh",
+        "Grp L1: Thu 15:00-18:00 COM1-0204"
       ]
     },
     {
@@ -236,7 +232,7 @@
       "Semester I": [
         "ZHAI Yingda",
         "Grp L1: Tue 09:00-12:00 LT18",
-        "Exam: 28 NOV 2024 13:00-15:00"
+        "Exam: 02 DEC 2025 13:00-15:00"
       ],
       "Semester II": [
         "-"
@@ -254,7 +250,7 @@
       "Semester II": [
         "YEO Wee Kiang",
         "Grp L1: Fri 12:00-15:00 LT15",
-        "Exam: 28 APR 2025 09:00-11:00"
+        "Exam: 27 APR 2026 13:00-15:00"
       ]
     },
     {
@@ -269,7 +265,7 @@
       ],
       "Semester II": [
         "WANG QIUHONG",
-        "Grp L1: Thu 09:00-12:00 LT18"
+        "Grp L1: Thu 12:00-15:00 LT18"
       ]
     },
     {
@@ -284,7 +280,7 @@
       "Semester II": [
         "SETIONO, Rudy",
         "Grp L1: Tue 09:00-12:00 COM1-0204",
-        "Exam: 06 MAY 2025 17:00-19:00"
+        "Exam: 25 APR 2026 13:00-15:00"
       ]
     },
     {
@@ -295,7 +291,7 @@
       ],
       "Semester I": [
         "CHEN Nan",
-        "Grp L1: Wed 09:00-12:00 COM1-VCRM"
+        "Grp L1: Thu 12:00-15:00 COM4SR31"
       ],
       "Semester II": [
         "-"
@@ -312,7 +308,8 @@
       ],
       "Semester II": [
         "TAN Wee Kek",
-        "Grp L1: Wed 18:30-21:30 LT16"
+        "Grp L1: Thu 09:00-12:00 LT18",
+        "Exam: 05 MAY 2026 13:00-15:00"
       ]
     },
     {
@@ -322,8 +319,9 @@
         "Units = 4"
       ],
       "Semester I": [
-        "BRESSAN, Stephane",
-        "Grp L1: Wed 18:30-20:30 LT16"
+        "LEE Mong Li, Janice",
+        "Adi Yoga Sidi PRABAWA",
+        "Grp L1: Wed 18:30-20:30 LT9"
       ],
       "Semester II": [
         "-"
@@ -354,7 +352,7 @@
       ],
       "Semester II": [
         "YEO Wee Kiang",
-        "Grp L1: Mon 14:00-16:00 LT16",
+        "Grp L1: Mon 14:00-16:00 LT8",
         "Grp L2: Mon 18:30-20:30 LT15"
       ]
     },
@@ -410,13 +408,13 @@
       ],
       "Semester I": [
         "TAN Keng Yan, Colin",
-        "Grp L01:  - E-Learn_C",
-        "Exam: 04 DEC 2024 13:00-15:00"
+        "Grp L01: Thu 10:00-12:00 LT18",
+        "Exam: 01 DEC 2025 13:00-15:00"
       ],
       "Semester II": [
         "Trevor E. CARLSON",
         "Grp L01: Wed 10:00-12:00 LT15",
-        "Exam: 05 MAY 2025 17:00-19:00"
+        "Exam: 29 APR 2026 09:00-11:00"
       ]
     },
     {
@@ -426,14 +424,13 @@
         "Units = 8"
       ],
       "Semester I": [
-        "PEH Li Shiuan",
         "Jithin VACHERY",
-        "Grp L1: Thu 09:00-12:00 COM3-01-19",
-        "Grp L2: Thu 09:00-12:00"
+        "PEH Li Shiuan",
+        "Grp L1: Thu 09:00-12:00 COM3-01-19"
       ],
       "Semester II": [
-        "PEH Li Shiuan",
         "Jithin VACHERY",
+        "PEH Li Shiuan",
         "Grp L1: Tue 09:00-12:00 COM3-01-19",
         "Grp L2: Tue 14:00-17:00 COM3-01-19"
       ]
@@ -444,12 +441,8 @@
         "Learning with Generative AI Tools",
         "Units = 2"
       ],
-      "Semester I": [
-        "Grp L1:  - E-Learn_C"
-      ],
-      "Semester II": [
-        "Grp L1:  - E-Learn_C"
-      ]
+      "Semester I": [],
+      "Semester II": []
     },
     {
       "Course Code": "CP2106",
@@ -459,20 +452,6 @@
       ],
       "Semester I": [
         "ZHAO Jin",
-        "Grp L1:  -"
-      ],
-      "Semester II": [
-        "-"
-      ]
-    },
-    {
-      "Course Code": "CP2107",
-      "Course Title": [
-        "Independent Introduction to CS Research (Odyssey)",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "Bimlesh WADHWA",
         "Grp L1:  -"
       ],
       "Semester II": [
@@ -494,55 +473,18 @@
       ]
     },
     {
-      "Course Code": "CP3106",
+      "Course Code": "CP3100",
       "Course Title": [
-        "Independent Project",
+        "Information Systems and Analytics Research Methodology",
         "Units = 4"
       ],
       "Semester I": [
-        "Grp L1:  -"
+        "External teaching staff",
+        "Grp L1: Wed 12:00-15:00 COM4SR31"
       ],
       "Semester II": [
-        "Grp L1:  -"
+        "-"
       ]
-    },
-    {
-      "Course Code": "CP3108A",
-      "Course Title": [
-        "Independent Work",
-        "Units = 2"
-      ],
-      "Semester I": [
-        "Grp L1:  -"
-      ],
-      "Semester II": [
-        "Grp L1:  -"
-      ]
-    },
-    {
-      "Course Code": "CP3108B",
-      "Course Title": [
-        "Independent Work",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "Grp L1:  -"
-      ],
-      "Semester II": [
-        "Bimlesh WADHWA",
-        "Grp L1:  -"
-      ]
-    },
-    {
-      "Course Code": "CP3111",
-      "Course Title": [
-        "Independent Project II",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "Grp L1:  -"
-      ],
-      "Semester II": []
     },
     {
       "Course Code": "CP3201",
@@ -552,49 +494,10 @@
       ],
       "Semester I": [
         "Victor NG",
-        "Grp L1: Wed 10:00-12:00 LT11"
+        "Grp L1: Wed 10:00-12:00 LT16"
       ],
       "Semester II": [
         "-"
-      ]
-    },
-    {
-      "Course Code": "CP3209",
-      "Course Title": [
-        "Undergraduate Research Project in Computing",
-        "Units = 8"
-      ],
-      "Semester I": [
-        "Grp L1:  -"
-      ],
-      "Semester II": [
-        "Grp L1:  -"
-      ]
-    },
-    {
-      "Course Code": "CP3209R",
-      "Course Title": [
-        "Undergraduate Research Project in Computing (REx)",
-        "Units = 0"
-      ],
-      "Semester I": [
-        "Grp L1:  -"
-      ],
-      "Semester II": [
-        "Grp L1:  -"
-      ]
-    },
-    {
-      "Course Code": "CP3880",
-      "Course Title": [
-        "Advanced Technology Attachment Programme",
-        "Units = 12"
-      ],
-      "Semester I": [
-        "Grp L1:  -"
-      ],
-      "Semester II": [
-        "Grp L1:  -"
       ]
     },
     {
@@ -604,16 +507,15 @@
         "Units = 4"
       ],
       "Semester I": [
-        "OOI Wei Tsang",
-        "HAN Liang Wee Eric",
         "Eldon CHUNG",
-        "Grp S1: Mon 16:00-18:00 LT8",
-        "Exam: 25 NOV 2024 13:00-15:00"
+        "Sriram SAMI",
+        "Grp S1: Mon 16:00-18:00 UT-AUD1",
+        "Exam: 25 NOV 2025 13:00-15:00"
       ],
       "Semester II": [
         "ZHAO Jin",
-        "Grp S1: Tue 10:00-12:00 COM4-02-01",
-        "Exam: 29 APR 2025 17:00-19:00"
+        "Grp S1: Tue 10:00-12:00 LT18",
+        "Exam: 29 APR 2026 09:00-11:00"
       ]
     },
     {
@@ -625,11 +527,13 @@
       "Semester I": [
         "LEONG Wai Kay",
         "Conghui HU",
-        "Grp L1: Wed 10:00-12:00 LT8",
-        "Exam: 25 NOV 2024 13:00-15:00"
+        "Grp L1: Wed 10:00-12:00 UT-AUD2",
+        "Exam: 25 NOV 2025 13:00-15:00"
       ],
       "Semester II": [
-        "-"
+        "Conghui HU",
+        "Grp L1: Wed 10:00-12:00 COM1-0204",
+        "Exam: 29 APR 2026 09:00-11:00"
       ]
     },
     {
@@ -640,34 +544,19 @@
       ],
       "Semester I": [
         "KHOO Siau Cheng",
-        "CHENG Holun",
         "CHIA Wai Kit, Henry",
+        "LOW Kok Lim",
+        "Muhammad Rizki Aulia Rahman MAULANA",
         "Grp S1: Mon 16:00-18:00 LT7",
         "Grp S2: Tue 16:00-18:00 LT7",
-        "Exam: 26 NOV 2024 09:00-11:00"
+        "Exam: 24 NOV 2025 09:00-11:00"
       ],
       "Semester II": [
         "ZHOU Lifeng",
         "CHENG Holun",
-        "Conghui HU",
         "Grp S1: Mon 14:00-16:00 LT7",
         "Grp S2: Mon 14:00-16:00 E-Learn_C",
-        "Exam: 02 MAY 2025 14:30-16:30"
-      ]
-    },
-    {
-      "Course Code": "CS1010J",
-      "Course Title": [
-        "Programming Methodology",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "ZHOU Lifeng",
-        "Grp L1: Tue 14:00-16:00 LT10",
-        "Exam: 25 NOV 2024 13:00-15:00"
-      ],
-      "Semester II": [
-        "-"
+        "Exam: 04 MAY 2026 09:00-11:00"
       ]
     },
     {
@@ -678,17 +567,15 @@
       ],
       "Semester I": [
         "Nitya.Lakshmanan",
-        "Daren LER",
         "Ashish Deepak DANDEKAR",
         "Grp L1: Wed 08:00-10:00 LT27",
-        "Exam: 25 NOV 2024 13:00-15:00"
+        "Exam: 25 NOV 2025 13:00-15:00"
       ],
       "Semester II": [
         "Ashish Deepak DANDEKAR",
-        "Daren LER",
-        "Adi Yoga Sidi PRABAWA",
+        "Amirhassan MONAJEMI",
         "Grp L1: Wed 08:00-10:00 LT27",
-        "Exam: 29 APR 2025 17:00-19:00"
+        "Exam: 29 APR 2026 09:00-11:00"
       ]
     },
     {
@@ -714,18 +601,17 @@
         "Units = 4"
       ],
       "Semester I": [
-        "LOW Kok Lim",
+        "HENZ, Martin J",
         "Boyd ANDERSON",
         "Sanka RASNAYAKA",
-        "HENZ, Martin J",
         "Grp L1: Wed 10:00-12:00 E-Learn_C",
         "Fri 10:00-12:00 E-Learn_C",
-        "Exam: 25 NOV 2024 13:00-15:00"
+        "Exam: 25 NOV 2025 13:00-15:00"
       ],
       "Semester II": [
         "LOW Kok Lim",
         "Grp L1: Wed 12:00-14:00 COM1-0212",
-        "Exam: 29 APR 2025 17:00-19:00"
+        "Exam: 29 APR 2026 09:00-11:00"
       ]
     },
     {
@@ -735,16 +621,14 @@
         "Units = 4"
       ],
       "Semester I": [
-        "WONG Tin Lok",
         "Grp S1: Wed 12:00-14:00 UT-AUD1",
         "Fri 12:00-13:00 UT-AUD1",
-        "Exam: 29 NOV 2024 14:30-16:30"
+        "Exam: 28 NOV 2025 14:30-16:30"
       ],
       "Semester II": [
-        "WONG Tin Lok",
-        "Grp S1: Wed 14:00-15:00 UT-AUD1",
-        "Thu 12:00-14:00 UT-AUD1",
-        "Exam: 02 MAY 2025 14:30-16:30"
+        "Grp S1: Wed 14:00-15:00 UT-AUD2",
+        "Thu 12:00-14:00 UT-AUD2",
+        "Exam: 04 MAY 2026 13:00-15:00"
       ]
     },
     {
@@ -756,20 +640,20 @@
       "Semester I": [
         "TAN Tuck Choy",
         "Ashish Deepak DANDEKAR",
-        "CHIN Wei Ngan",
         "Maciej Lukasz OBREMSKI",
         "Eldon CHUNG",
+        "STEPHAN, Frank Christian",
         "Grp L1: Thu 12:00-14:00 LT11",
-        "Fri 15:00-16:00 UT-AUD2",
+        "Fri 13:00-14:00 UT-AUD1",
         "Grp L2: Thu 12:00-14:00 E-Learn_C",
-        "Fri 15:00-16:00 E-Learn_C",
-        "Exam: 29 NOV 2024 14:30-16:30"
+        "Fri 13:00-14:00 E-Learn_C",
+        "Exam: 28 NOV 2025 14:30-16:30"
       ],
       "Semester II": [
         "Y.C. TAY",
         "Grp L1: Wed 14:00-15:00 LT19",
         "Thu 12:00-14:00 LT19",
-        "Exam: 02 MAY 2025 14:30-16:30"
+        "Exam: 04 MAY 2026 13:00-15:00"
       ]
     },
     {
@@ -780,15 +664,15 @@
       ],
       "Semester I": [
         "CHIA Wai Kit, Henry",
-        "Grp L1: Mon 12:00-14:00 LT8",
-        "Exam: 02 DEC 2024 17:00-19:00"
+        "Grp L1: Mon 12:00-14:00 I3-AUD",
+        "Exam: 26 NOV 2025 13:00-15:00"
       ],
       "Semester II": [
         "CHIA Wai Kit, Henry",
         "CHIN Wei Ngan",
-        "Grp L1: Mon 12:00-14:00 LT11",
+        "Grp L1: Mon 12:00-14:00 COM1-0206",
         "Grp L2: Tue 12:00-14:00 LT19",
-        "Exam: 30 APR 2025 13:00-15:00"
+        "Exam: 29 APR 2026 13:00-15:00"
       ]
     },
     {
@@ -800,15 +684,14 @@
       "Semester I": [
         "Adi Yoga Sidi PRABAWA",
         "Grp L1: Mon 12:00-14:00 LT16",
-        "Exam: 02 DEC 2024 17:00-19:00"
+        "Exam: 26 NOV 2025 13:00-15:00"
       ],
       "Semester II": [
         "OOI Wei Tsang",
         "Boyd ANDERSON",
         "Ashish Deepak DANDEKAR",
-        "Enzio KAM Hai Hong",
         "Grp L1: Mon 12:00-14:00 E-Learn_C",
-        "Exam: 30 APR 2025 13:00-15:00"
+        "Exam: 29 APR 2026 13:00-15:00"
       ]
     },
     {
@@ -819,20 +702,19 @@
       ],
       "Semester I": [
         "Roger ZIMMERMANN",
-        "Anandha GOPALAN",
         "Sanka RASNAYAKA",
+        "LOW Kok Lim",
         "Grp L1: Wed 10:00-12:00 E-Learn_C",
         "Thu 09:00-10:00 E-Learn_C",
-        "Exam: 27 NOV 2024 17:00-19:00"
+        "Exam: 27 NOV 2025 13:00-15:00"
       ],
       "Semester II": [
         "Sanka RASNAYAKA",
         "Roger ZIMMERMANN",
         "Rajendra Prasad SIRIGINA",
-        "CHONG Ket Fah",
         "Grp L1: Mon 16:00-18:00 E-Learn_C",
         "Wed 13:00-14:00 E-Learn_C",
-        "Exam: 26 APR 2025 13:00-15:00"
+        "Exam: 25 APR 2026 13:00-15:00"
       ]
     },
     {
@@ -845,13 +727,13 @@
         "CHENG Holun",
         "Grp L1: Wed 10:00-12:00 LT17",
         "Thu 09:00-10:00 LT17",
-        "Exam: 27 NOV 2024 17:00-19:00"
+        "Exam: 27 NOV 2025 13:00-15:00"
       ],
       "Semester II": [
-        "CHENG Holun",
+        "Steven HALIM",
         "Grp L1: Tue 12:00-14:00 LT15",
-        "Wed 12:00-13:00 LT16",
-        "Exam: 26 APR 2025 13:00-15:00"
+        "Wed 12:00-13:00 LT15",
+        "Exam: 25 APR 2026 13:00-15:00"
       ]
     },
     {
@@ -864,19 +746,18 @@
         "Steven HALIM",
         "Grp L1: Wed 10:00-12:00 LT19",
         "Thu 09:00-10:00 LT19",
-        "Exam: 27 NOV 2024 17:00-19:00"
+        "Exam: 27 NOV 2025 13:00-15:00"
       ],
       "Semester II": [
         "LEONG Wing Lup, Ben",
-        "Lin SHAO",
-        "Muhammad Rizki Aulia Rahman MAULANA",
-        "Diptarka CHAKRABORTY",
         "Eldon CHUNG",
+        "Diptarka CHAKRABORTY",
+        "Lin SHAO",
         "Grp L1: Mon 16:00-18:00 LT11",
-        "Wed 13:00-14:00 LT11",
-        "Grp L2: Mon 14:00-16:00 UT-AUD1",
+        "Wed 13:00-14:00 UT-AUD2",
+        "Grp L2: Mon 14:00-16:00 LT11",
         "Wed 14:00-15:00 LT11",
-        "Exam: 26 APR 2025 13:00-15:00"
+        "Exam: 25 APR 2026 13:00-15:00"
       ]
     },
     {
@@ -887,18 +768,17 @@
       ],
       "Semester I": [
         "Weng-Fai WONG",
-        "TAN Tuck Choy",
         "Anandha GOPALAN",
-        "Grp L1: Tue 16:00-18:00 LT11",
+        "TAN Tuck Choy",
+        "Grp L1: Tue 16:00-18:00 UT-AUD2",
         "Grp L2: Tue 16:00-18:00 E-Learn_C",
-        "Exam: 28 NOV 2024 17:00-19:00"
+        "Exam: 25 NOV 2025 09:00-11:00"
       ],
       "Semester II": [
         "TAN Tuck Choy",
         "Prabhu NATARAJAN",
-        "Grp L1: Mon 10:00-12:00 LT8",
-        "Grp L2: Mon 10:00-12:00 E-Learn_C",
-        "Exam: 03 MAY 2025 09:00-11:00"
+        "Grp L1: Mon 10:00-12:00 UT-AUD2",
+        "Exam: 30 APR 2026 13:00-15:00"
       ]
     },
     {
@@ -908,7 +788,6 @@
         "Units = 4"
       ],
       "Semester I": [
-        "CELC Lecturers",
         "Grp SG01:  -",
         "Grp SG02:  -",
         "Grp SG03:  -",
@@ -934,10 +813,11 @@
         "Grp SG23:  -",
         "Grp SG24:  -",
         "Grp SG25:  -",
-        "Grp SG26:  -"
+        "Grp SG26:  -",
+        "Grp SG27:  -",
+        "Grp SG28:  -"
       ],
       "Semester II": [
-        "CELC Lecturers",
         "Grp SG01:  -",
         "Grp SG02:  -",
         "Grp SG03:  -",
@@ -968,18 +848,17 @@
         "Units = 4"
       ],
       "Semester I": [
-        "BRESSAN, Stephane",
         "Christian Von Der Weth",
         "Adi Yoga Sidi PRABAWA",
-        "Grp L1: Tue 12:00-14:00 LT11",
-        "Exam: 26 NOV 2024 13:00-15:00"
+        "Grp L1: Tue 12:00-14:00 LT8",
+        "Exam: 26 NOV 2025 09:00-11:00"
       ],
       "Semester II": [
         "Xiaokui XIAO",
+        "Bryan HOOI Kuen-Yew",
         "Adi Yoga Sidi PRABAWA",
-        "JIANG KAN",
-        "Grp L1: Mon 12:00-14:00 UT-AUD1",
-        "Exam: 29 APR 2025 13:00-15:00"
+        "Grp L1: Mon 12:00-14:00 I3-AUD",
+        "Exam: 28 APR 2026 09:00-11:00"
       ]
     },
     {
@@ -990,30 +869,15 @@
       ],
       "Semester I": [
         "Damith Chatura RAJAPAKSE",
-        "Prabhu NATARAJAN",
         "Michael D. ADAMS",
-        "Grp L1: Fri 16:00-18:00 UT-AUD2",
-        "Exam: 26 NOV 2024 17:00-18:30"
+        "Grp L1: Fri 16:00-18:00 I3-AUD",
+        "Exam: 29 NOV 2025 09:00-11:00"
       ],
       "Semester II": [
         "Damith Chatura RAJAPAKSE",
-        "HAN Liang Wee Eric",
         "Ganesh NEELAKANTA IYER",
-        "Grp L1: Fri 16:00-18:00 E-Learn_C",
-        "Exam: 30 APR 2025 17:00-19:00"
-      ]
-    },
-    {
-      "Course Code": "CS2103R",
-      "Course Title": [
-        "Software Engineering",
-        "Units = 1"
-      ],
-      "Semester I": [
-        "Grp L1:  -"
-      ],
-      "Semester II": [
-        "Grp L1:  -"
+        "Grp L1: Fri 16:00-18:00 I3-AUD",
+        "Exam: 04 MAY 2026 09:00-11:00"
       ]
     },
     {
@@ -1024,147 +888,154 @@
       ],
       "Semester I": [
         "Damith Chatura RAJAPAKSE",
-        "Prabhu NATARAJAN",
         "Michael D. ADAMS",
-        "Grp LG01: Mon 09:00-12:00 BIZ2-0404",
+        "Grp LG01: Mon 09:00-12:00 BIZ2-0301",
         "Wed 09:00-10:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
+        "Fri 16:00-18:00 I3-AUD",
         "Grp LG02: Mon 09:00-12:00 COM2-0108",
         "Thu 13:00-14:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
-        "Grp LG03: Mon 12:00-15:00 BIZ2-0404",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG03: Mon 12:00-15:00 BIZ2-0301",
         "Wed 08:00-09:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
+        "Fri 16:00-18:00 I3-AUD",
         "Grp LG04: Mon 12:00-15:00 COM2-0108",
         "Wed 10:00-11:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
-        "Grp LG05: Mon 15:00-18:00 BIZ2-0404",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG05: Mon 15:00-18:00 BIZ2-0301",
         "Thu 12:00-13:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
+        "Fri 16:00-18:00 I3-AUD",
         "Grp LG06: Mon 15:00-18:00 COM2-0108",
         "Fri 08:00-09:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
+        "Fri 16:00-18:00 I3-AUD",
         "Grp LG07: Tue 09:00-12:00 COM2-0108",
         "Wed 11:00-12:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
-        "Grp LG08: Tue 09:00-12:00 BIZ2-0404",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG08: Tue 09:00-12:00 BIZ2-0301",
         "Wed 13:00-14:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
+        "Fri 16:00-18:00 I3-AUD",
         "Grp LG09: Tue 12:00-15:00 COM2-0108",
         "Fri 10:00-11:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
-        "Grp LG10: Tue 12:00-15:00 BIZ2-0404",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG10: Tue 12:00-15:00 BIZ2-0301",
         "Thu 09:00-10:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
+        "Fri 16:00-18:00 I3-AUD",
         "Grp LG11: Tue 15:00-18:00 COM2-0108",
         "Thu 17:00-18:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
-        "Grp LG12: Tue 15:00-18:00 BIZ2-0404",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG12: Tue 15:00-18:00 BIZ2-0301",
         "Thu 08:00-09:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
-        "Grp LG13: Wed 09:00-12:00 BIZ2-0404",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG13: Wed 09:00-12:00 BIZ2-0301",
         "Fri 13:00-14:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
+        "Fri 16:00-18:00 I3-AUD",
         "Grp LG14: Wed 09:00-12:00 COM2-0108",
         "Fri 14:00-15:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
+        "Fri 16:00-18:00 I3-AUD",
         "Grp LG15: Wed 12:00-15:00 COM2-0108",
         "Thu 11:00-12:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
-        "Grp LG16: Thu 09:00-12:00 BIZ2-0404",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG16: Thu 09:00-12:00 BIZ2-0301",
         "Fri 11:00-12:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
+        "Fri 16:00-18:00 I3-AUD",
         "Grp LG17: Thu 09:00-12:00 COM2-0108",
         "Fri 15:00-16:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
-        "Grp LG18: Thu 12:00-15:00 BIZ2-0404",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG18: Thu 12:00-15:00 BIZ2-0301",
         "Fri 09:00-10:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
+        "Fri 16:00-18:00 I3-AUD",
         "Grp LG19: Thu 12:00-15:00 COM2-0108",
         "Fri 12:00-13:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
+        "Fri 16:00-18:00 I3-AUD",
         "Grp LG20: Wed 12:00-13:00 COM3-01-20",
-        "Thu 15:00-18:00 BIZ2-0404",
-        "Fri 16:00-18:00 UT-AUD2",
+        "Thu 15:00-18:00 BIZ2-0301",
+        "Fri 16:00-18:00 I3-AUD",
         "Grp LG21: Thu 10:00-11:00 COM3-01-20",
         "Thu 15:00-18:00 COM2-0108",
-        "Fri 16:00-18:00 UT-AUD2",
+        "Fri 16:00-18:00 I3-AUD",
         "Grp LG22: Thu 14:00-15:00 COM3-01-20",
         "Fri 09:00-12:00 COM2-0108",
-        "Fri 16:00-18:00 UT-AUD2",
+        "Fri 16:00-18:00 I3-AUD",
         "Grp LG23: Wed 14:00-15:00 COM3-01-20",
-        "Fri 09:00-12:00 BIZ2-0404",
-        "Fri 16:00-18:00 UT-AUD2",
+        "Fri 09:00-12:00 BIZ2-0301",
+        "Fri 16:00-18:00 I3-AUD",
         "Grp LG24: Thu 15:00-16:00 COM3-01-20",
         "Fri 12:00-15:00 COM2-0108",
-        "Fri 16:00-18:00 UT-AUD2",
+        "Fri 16:00-18:00 I3-AUD",
         "Grp LG25: Thu 16:00-17:00 COM3-01-20",
-        "Fri 12:00-15:00 BIZ2-0404",
-        "Fri 16:00-18:00 UT-AUD2",
-        "Grp LG26: Wed 12:00-15:00 BIZ2-0404",
+        "Fri 12:00-15:00 BIZ2-0301",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG26: Wed 12:00-15:00 BIZ2-0301",
         "Fri 14:00-15:00 COM1-0210",
-        "Fri 16:00-18:00 UT-AUD2",
-        "Exam: 26 NOV 2024 17:00-18:30"
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG27: Mon 12:00-15:00 BIZ2-0303",
+        "Fri 15:00-16:00 COM1-0210",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG28: Thu 12:00-15:00 BIZ2-0303",
+        "Fri 08:00-09:00 COM1-0210",
+        "Fri 16:00-18:00 I3-AUD",
+        "Exam: 29 NOV 2025 09:00-11:00"
       ],
       "Semester II": [
         "Damith Chatura RAJAPAKSE",
-        "HAN Liang Wee Eric",
         "Ganesh NEELAKANTA IYER",
-        "Grp LG02: Mon 09:00-12:00 COM2-0108",
+        "Grp LG01: Mon 09:00-12:00 COM2-0108",
+        "Wed 08:00-09:00 COM3-01-20",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG02: Mon 09:00-12:00",
         "Thu 14:00-15:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
+        "Fri 16:00-18:00 I3-AUD",
         "Grp LG03: Mon 12:00-15:00 COM2-0108",
         "Wed 13:00-14:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
-        "Grp LG04: Mon 12:00-15:00 BIZ2-0301",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG04: Mon 12:00-15:00",
         "Thu 15:00-16:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
+        "Fri 16:00-18:00 I3-AUD",
         "Grp LG05: Mon 15:00-18:00 COM2-0108",
         "Thu 08:00-09:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
-        "Grp LG07: Tue 09:00-12:00 BIZ2-0301",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG06: Tue 09:00-12:00 COM2-0108",
+        "Wed 11:00-12:00 COM3-01-20",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG07: Tue 09:00-12:00",
         "Wed 09:00-10:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
+        "Fri 16:00-18:00 I3-AUD",
         "Grp LG08: Tue 12:00-15:00 COM2-0108",
         "Wed 12:00-13:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
-        "Grp LG09: Tue 15:00-18:00 BIZ2-0301",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG09: Tue 15:00-18:00",
         "Fri 12:00-13:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
+        "Fri 16:00-18:00 I3-AUD",
         "Grp LG10: Tue 15:00-18:00 COM2-0108",
         "Thu 16:00-17:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
+        "Fri 16:00-18:00 I3-AUD",
         "Grp LG11: Wed 09:00-12:00 COM2-0108",
         "Thu 10:00-11:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
+        "Fri 16:00-18:00 I3-AUD",
         "Grp LG12: Wed 12:00-15:00 COM2-0108",
         "Thu 11:00-12:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
-        "Grp LG13: Wed 12:00-15:00 BIZ2-0301",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG13: Wed 12:00-15:00",
         "Thu 12:00-13:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG14: Wed 10:00-11:00 COM3-01-20",
+        "Thu 09:00-12:00 COM2-0108",
+        "Fri 16:00-18:00 I3-AUD",
         "Grp LG15: Thu 09:00-10:00 COM3-01-20",
         "Fri 09:00-12:00 COM2-0108",
-        "Fri 16:00-18:00 UT-AUD2",
+        "Fri 16:00-18:00 I3-AUD",
         "Grp LG16: Thu 13:00-14:00 COM3-01-20",
         "Fri 12:00-15:00 COM2-0108",
-        "Fri 16:00-18:00 UT-AUD2",
+        "Fri 16:00-18:00 I3-AUD",
         "Grp LG17: Thu 17:00-18:00 COM3-01-20",
-        "Fri 12:00-15:00 BIZ2-0301",
-        "Fri 16:00-18:00 UT-AUD2",
+        "Fri 12:00-15:00",
+        "Fri 16:00-18:00 I3-AUD",
         "Grp LG18: Thu 12:00-15:00 COM2-0108",
         "Fri 13:00-14:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
-        "Grp LG19: Thu 09:00-12:00 BIZ2-0301",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG19: Thu 09:00-12:00",
         "Fri 11:00-12:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
-        "Grp LG20: Thu 15:00-18:00 BIZ2-0301",
-        "Fri 14:00-15:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
-        "Grp LG21: Thu 12:00-15:00 BIZ2-0301",
-        "Fri 10:00-11:00 COM3-01-20",
-        "Fri 16:00-18:00 UT-AUD2",
-        "Exam: 30 APR 2025 17:00-19:00"
+        "Fri 16:00-18:00 I3-AUD",
+        "Exam: 04 MAY 2026 09:00-11:00"
       ]
     },
     {
@@ -1174,9 +1045,9 @@
         "Units = 4"
       ],
       "Semester I": [
-        "HENZ, Martin J",
-        "Grp L1: Thu 12:00-14:00 LT16",
-        "Exam: 23 NOV 2024 13:00-15:00"
+        "Olivier DANVY",
+        "Grp L1: Thu 12:00-14:00 LT18",
+        "Exam: 01 DEC 2025 13:00-15:00"
       ],
       "Semester II": [
         "-"
@@ -1194,13 +1065,14 @@
         "LEONG Wai Kay",
         "Grp L1: Mon 14:00-16:00 LT11",
         "Grp L2: Mon 14:00-16:00 E-Learn_C",
-        "Exam: 23 NOV 2024 09:00-11:00"
+        "Exam: 28 NOV 2025 09:00-11:00"
       ],
       "Semester II": [
         "LEONG Wai Kay",
         "Jithin VACHERY",
         "Grp L1: Fri 14:00-16:00 UT-AUD2",
-        "Exam: 28 APR 2025 13:00-15:00"
+        "Grp L2: Fri 14:00-16:00 E-Learn_C",
+        "Exam: 02 MAY 2026 09:00-11:00"
       ]
     },
     {
@@ -1212,15 +1084,16 @@
       "Semester I": [
         "Jialin LI",
         "TAN Keng Yan, Colin",
-        "Grp L1: Wed 12:00-14:00 LT11",
-        "Exam: 28 NOV 2024 17:00-19:00"
+        "Grp L1: Wed 12:00-14:00 UT-AUD2",
+        "Exam: 26 NOV 2025 17:00-19:00"
       ],
       "Semester II": [
         "TAN Keng Yan, Colin",
         "Anandha GOPALAN",
-        "Grp L1: Wed 10:00-12:00 LT11",
+        "SOO Yuen Jien",
+        "Grp L1: Wed 10:00-12:00 UT-AUD2",
         "Grp L2: Wed 10:00-12:00 E-Learn_C",
-        "Exam: 02 MAY 2025 09:00-11:00"
+        "Exam: 30 APR 2026 13:00-15:00"
       ]
     },
     {
@@ -1231,13 +1104,16 @@
       ],
       "Semester I": [
         "CHANG Ee-Chien",
+        "Nitya.Lakshmanan",
         "Grp L1: Thu 14:00-16:00 LT8",
-        "Exam: 03 DEC 2024 09:00-11:00"
+        "Grp L2: Thu 14:00-16:00 E-Learn_C",
+        "Exam: 27 NOV 2025 09:00-11:00"
       ],
       "Semester II": [
         "Nitya.Lakshmanan",
         "Grp L1: Thu 10:00-12:00 LT8",
-        "Exam: 05 MAY 2025 17:00-19:00"
+        "Grp L2: Thu 10:00-12:00 E-Learn_C",
+        "Exam: 30 APR 2026 17:00-19:00"
       ]
     },
     {
@@ -1252,7 +1128,7 @@
       "Semester II": [
         "NG Teck Khim",
         "Grp L1: Tue 10:00-12:00 LT15",
-        "Exam: 06 MAY 2025 13:00-15:00"
+        "Exam: 04 MAY 2026 17:00-19:00"
       ]
     },
     {
@@ -1265,17 +1141,16 @@
         "Muhammad Rizki Aulia Rahman MAULANA",
         "Patrick REBENTROST",
         "Conghui HU",
-        "HAN Liang Wee Eric",
         "Grp L1: Mon 16:00-18:00 UT-AUD2",
-        "Exam: 27 NOV 2024 13:00-15:00"
+        "Exam: 01 DEC 2025 09:00-11:00"
       ],
       "Semester II": [
         "Muhammad Rizki Aulia Rahman MAULANA",
-        "Conghui HU",
         "Patrick REBENTROST",
-        "Grp L1: Tue 16:00-18:00 UT-AUD2",
-        "Grp L2: Tue 10:00-12:00 LT11",
-        "Exam: 05 MAY 2025 09:00-11:00"
+        "Conghui HU",
+        "Grp L1: Tue 16:00-18:00 LT17",
+        "Grp L2: Tue 10:00-12:00 LT17",
+        "Exam: 02 MAY 2026 13:00-15:00"
       ]
     },
     {
@@ -1286,13 +1161,13 @@
       ],
       "Semester I": [
         "Akshay NARAYAN",
-        "Grp L1: Fri 16:00-18:00 LT16",
-        "Exam: 03 DEC 2024 17:00-18:30"
+        "Grp L1: Fri 16:00-18:00 LT9",
+        "Exam: 02 DEC 2025 09:00-10:30"
       ],
       "Semester II": [
         "Akshay NARAYAN",
-        "Grp L1: Fri 16:00-18:00 LT16",
-        "Exam: 30 APR 2025 17:00-18:30"
+        "Grp L1: Fri 16:00-18:00 LT9",
+        "Exam: 04 MAY 2026 09:00-10:30"
       ]
     },
     {
@@ -1304,7 +1179,23 @@
       "Semester I": [
         "WONG Lim Soon",
         "Grp L1: Thu 10:00-12:00 COM1-VCRM",
-        "Exam: 03 DEC 2024 17:00-19:00"
+        "Exam: 22 NOV 2025 09:00-11:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Course Code": "CS2251",
+      "Course Title": [
+        "Optimization and Regression",
+        "Units = -"
+      ],
+      "Semester I": [
+        "Divesh AGGARWAL",
+        "Maciej Lukasz OBREMSKI",
+        "Grp L1: Fri 09:00-12:00 COM1-0212",
+        "Exam: 01 DEC 2025 17:00-19:00"
       ],
       "Semester II": [
         "-"
@@ -1332,25 +1223,10 @@
       ],
       "Semester I": [
         "Anand BHOJAN",
-        "Grp L1: Tue 14:00-16:00 LT8"
+        "Grp L1: Tue 14:00-16:00 LT13"
       ],
       "Semester II": [
         "-"
-      ]
-    },
-    {
-      "Course Code": "CS3203",
-      "Course Title": [
-        "Software Engineering Project",
-        "Units = 8"
-      ],
-      "Semester I": [
-        "Ganesh NEELAKANTA IYER",
-        "Grp L1: Tue 12:00-14:00 COM3-B1-10"
-      ],
-      "Semester II": [
-        "Ganesh NEELAKANTA IYER",
-        "Grp L1: Tue 10:00-12:00 COM3-01-22"
       ]
     },
     {
@@ -1361,14 +1237,13 @@
       ],
       "Semester I": [
         "Cristina CARBUNARU",
-        "Sriram SAMI",
         "Grp L1: Mon 14:00-16:00 LT15",
-        "Exam: 30 NOV 2024 13:00-15:00"
+        "Exam: 01 DEC 2025 09:00-11:00"
       ],
       "Semester II": [
         "Sriram SAMI",
         "Grp L1: Thu 16:00-18:00 LT19",
-        "Exam: 06 MAY 2025 09:00-11:00"
+        "Exam: 28 APR 2026 13:00-15:00"
       ]
     },
     {
@@ -1383,7 +1258,7 @@
       "Semester II": [
         "Cristina CARBUNARU",
         "Grp L1: Tue 12:00-14:00 LT16",
-        "Exam: 05 MAY 2025 13:00-15:00"
+        "Exam: 05 MAY 2026 13:00-15:00"
       ]
     },
     {
@@ -1398,21 +1273,7 @@
       "Semester II": [
         "Manuel RIGGER",
         "Grp L1: Mon 14:00-17:00 LT18",
-        "Exam: 08 MAY 2025 09:00-11:00"
-      ]
-    },
-    {
-      "Course Code": "CS3216",
-      "Course Title": [
-        "Software Product Engineering for Digital Markets",
-        "Units = 5"
-      ],
-      "Semester I": [
-        "SOO Yuen Jien",
-        "Grp L1: Mon 18:30-20:30 COM1-VCRM"
-      ],
-      "Semester II": [
-        "-"
+        "Exam: 29 APR 2026 09:00-11:00"
       ]
     },
     {
@@ -1439,11 +1300,14 @@
       "Semester I": [
         "Bimlesh WADHWA",
         "Akshay NARAYAN",
-        "Grp L1: Thu 14:00-16:00 LT16",
-        "Exam: 02 DEC 2024 17:00-18:30"
+        "Grp L1: Thu 14:00-16:00 LT17",
+        "Exam: 01 DEC 2025 13:00-14:30"
       ],
       "Semester II": [
-        "-"
+        "Bimlesh WADHWA",
+        "Akshay NARAYAN",
+        "Grp L1: Thu 14:00-16:00 I3-AUD",
+        "Exam: 28 APR 2026 17:00-19:00"
       ]
     },
     {
@@ -1453,12 +1317,14 @@
         "Units = 4"
       ],
       "Semester I": [
-        "-"
+        "CHAN Chee Yong",
+        "Grp L1: Tue 12:00-14:00 LT15",
+        "Exam: 25 NOV 2025 17:00-19:00"
       ],
       "Semester II": [
         "CHAN Chee Yong",
-        "Grp L1: Fri 10:00-12:00 LT8",
-        "Exam: 26 APR 2025 09:00-11:00"
+        "Grp L1: Fri 10:00-12:00 LT15",
+        "Exam: 25 APR 2026 13:00-15:00"
       ]
     },
     {
@@ -1468,19 +1334,19 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Steven HALIM",
         "Yi-Jun CHANG",
+        "Prashant Nalini VASUDEVAN",
+        "Steven HALIM",
         "Grp L1: Tue 10:00-12:00 LT11",
         "Grp L2: Tue 10:00-12:00 E-Learn_C",
-        "Exam: 29 NOV 2024 14:30-17:00"
+        "Exam: 25 NOV 2025 09:00-11:30"
       ],
       "Semester II": [
         "JAIN, Sanjay",
         "Warut SUKSOMPONG",
-        "HAN Liang Wee Eric",
+        "CHEN Yu",
         "Grp L1: Thu 14:00-16:00 LT11",
-        "Grp L2: Thu 14:00-16:00 E-Learn_C",
-        "Exam: 28 APR 2025 09:00-11:00"
+        "Exam: 30 APR 2026 09:00-11:00"
       ]
     },
     {
@@ -1492,7 +1358,7 @@
       "Semester I": [
         "JAIN, Sanjay",
         "Grp L1: Fri 10:00-12:00 LT18",
-        "Exam: 02 DEC 2024 13:00-15:00"
+        "Exam: 26 NOV 2025 13:00-15:00"
       ],
       "Semester II": [
         "-"
@@ -1513,19 +1379,6 @@
       ]
     },
     {
-      "Course Code": "CS3233R",
-      "Course Title": [
-        "Competitive Programming",
-        "Units = 1"
-      ],
-      "Semester I": [
-        "-"
-      ],
-      "Semester II": [
-        "Grp L1:  -"
-      ]
-    },
-    {
       "Course Code": "CS3234",
       "Course Title": [
         "Logic for Proofs and Programs",
@@ -1535,8 +1388,8 @@
         "-"
       ],
       "Semester II": [
-        "Olivier DANVY",
-        "Grp L1: Fri 12:00-14:00 LT17"
+        "Abhik ROYCHOUDHURY",
+        "Grp L1: Fri 12:00-14:00 COM1-0212"
       ]
     },
     {
@@ -1546,8 +1399,9 @@
         "Units = 4"
       ],
       "Semester I": [
+        "ZHANG Jiaheng",
         "Prateek SAXENA",
-        "Grp L1: Thu 12:00-14:00 LT9"
+        "Grp L1: Thu 12:00-14:00 LT16"
       ],
       "Semester II": [
         "ZHANG Jiaheng",
@@ -1564,9 +1418,9 @@
         "-"
       ],
       "Semester II": [
-        "Rahul JAIN",
-        "Grp L1: Mon 14:00-16:00 UTSRC-LT53",
-        "Exam: 06 MAY 2025 09:00-11:00"
+        "Jonathan Mark SCARLETT",
+        "Grp L1: Mon 14:00-16:00 LT12",
+        "Exam: 25 APR 2026 09:00-11:00"
       ]
     },
     {
@@ -1606,9 +1460,9 @@
         "Units = 4"
       ],
       "Semester I": [
-        "LOW Kok Lim",
-        "Grp L1: Fri 14:00-16:00 LT9",
-        "Exam: 30 NOV 2024 13:00-15:00"
+        "CHENG Holun",
+        "Grp L1: Fri 14:00-16:00 LT16",
+        "Exam: 01 DEC 2025 17:00-19:00"
       ],
       "Semester II": [
         "-"
@@ -1626,7 +1480,7 @@
       "Semester II": [
         "HUANG Zhiyong",
         "Grp L1: Fri 14:00-16:00 COM4SR31",
-        "Exam: 29 APR 2025 13:00-15:00"
+        "Exam: 05 MAY 2026 09:00-11:00"
       ]
     },
     {
@@ -1637,13 +1491,13 @@
       ],
       "Semester I": [
         "Daren LER",
-        "Grp L1: Wed 10:00-12:00 LT16",
-        "Exam: 03 DEC 2024 09:00-11:00"
+        "Grp L1: Wed 10:00-12:00 UTSRC-LT51",
+        "Exam: 01 DEC 2025 13:00-15:00"
       ],
       "Semester II": [
         "Daren LER",
         "Grp L1: Mon 10:00-12:00 LT18",
-        "Exam: 07 MAY 2025 17:00-19:00"
+        "Exam: 04 MAY 2026 17:00-19:00"
       ]
     },
     {
@@ -1657,14 +1511,14 @@
         "HAN Liang Wee Eric",
         "Grp L1: Mon 12:00-14:00 LT19",
         "Thu 11:00-12:00 LT19",
-        "Exam: 25 NOV 2024 09:00-11:00"
+        "Exam: 27 NOV 2025 17:00-19:00"
       ],
       "Semester II": [
         "LEE Wee Sun",
         "WANG Ye",
         "Grp L1: Mon 14:00-16:00 LT19",
-        "Thu 12:00-13:00 LT9",
-        "Exam: 02 MAY 2025 14:30-16:30"
+        "Thu 12:00-13:00 LT16",
+        "Exam: 30 APR 2026 17:00-19:00"
       ]
     },
     {
@@ -1678,8 +1532,8 @@
       ],
       "Semester II": [
         "ZHAO Jin",
-        "Grp L1: Fri 12:00-14:00 COM1-VCRM",
-        "Exam: 06 MAY 2025 09:00-11:00"
+        "Grp L1: Fri 12:00-14:00 LT18",
+        "Exam: 04 MAY 2026 13:00-15:00"
       ]
     },
     {
@@ -1693,7 +1547,21 @@
       ],
       "Semester II": [
         "Anand BHOJAN",
-        "Grp L1: Fri 10:00-12:00 LT16"
+        "Grp L1: Fri 10:00-12:00 LT9"
+      ]
+    },
+    {
+      "Course Code": "CS3249",
+      "Course Title": [
+        "User Interface Development",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "LEE Yi-Chieh",
+        "Grp L1: Mon 16:00-18:00 COM1-0212"
+      ],
+      "Semester II": [
+        "-"
       ]
     },
     {
@@ -1705,7 +1573,7 @@
       "Semester I": [
         "LEE Wee Sun",
         "Grp L1: Wed 12:00-14:00 LT19",
-        "Exam: 04 DEC 2024 13:00-15:00"
+        "Exam: 02 DEC 2025 13:00-15:00"
       ],
       "Semester II": [
         "LEONG Tze Yun",
@@ -1721,12 +1589,26 @@
       "Semester I": [
         "Harold SOH Soon Hong",
         "Grp L1: Fri 12:00-14:00 LT19",
-        "Exam: 04 DEC 2024 09:00-11:00"
+        "Exam: 02 DEC 2025 09:00-11:00"
       ],
       "Semester II": [
         "LOW Kian Hsiang",
         "Grp L1: Mon 12:00-14:00 LT15",
-        "Exam: 05 MAY 2025 13:00-15:00"
+        "Exam: 04 MAY 2026 13:00-15:00"
+      ]
+    },
+    {
+      "Course Code": "CS3268",
+      "Course Title": [
+        "Responsible AI: From Algorithms to Impact",
+        "Units = -"
+      ],
+      "Semester I": [
+        "Akshay NARAYAN",
+        "Grp L1: Tue 12:00-14:00 COM1-0212"
+      ],
+      "Semester II": [
+        "-"
       ]
     },
     {
@@ -1764,11 +1646,12 @@
         "Units = 4"
       ],
       "Semester I": [
-        "JIANG KAN",
+        "Umang MATHUR",
         "Grp L1: Thu 09:00-12:00 LT15"
       ],
       "Semester II": [
-        "-"
+        "DONG Jin Song",
+        "Grp L1: Thu 09:00-12:00 COM3-MPH"
       ]
     },
     {
@@ -1780,7 +1663,7 @@
       "Semester I": [
         "Ilya SERGEY",
         "Grp L1: Mon 15:00-18:00 LT18",
-        "Exam: 03 DEC 2024 17:00-19:00"
+        "Exam: 27 NOV 2025 09:00-11:00"
       ],
       "Semester II": [
         "-"
@@ -1796,7 +1679,7 @@
         "-"
       ],
       "Semester II": [
-        "HENZ, Martin J",
+        "Michael D. ADAMS",
         "Grp L1: Thu 14:00-16:00 LT12"
       ]
     },
@@ -1808,13 +1691,13 @@
       ],
       "Semester I": [
         "Ganesh NEELAKANTA IYER",
-        "Grp L1: Mon 14:00-16:00 LT14",
-        "Exam: 03 DEC 2024 13:00-15:00"
+        "Grp L1: Mon 14:00-16:00 LT16",
+        "Exam: 02 DEC 2025 17:00-19:00"
       ],
       "Semester II": [
         "Ganesh NEELAKANTA IYER",
         "Grp L1: Mon 12:00-14:00 LT19",
-        "Exam: 05 MAY 2025 17:00-19:00"
+        "Exam: 05 MAY 2026 09:00-11:00"
       ]
     },
     {
@@ -1830,7 +1713,7 @@
         "Anders Jacobsen SKANDERUP",
         "Niranjan NAGARAJAN",
         "Grp L1: Tue 11:00-14:00 COM1-0212",
-        "Exam: 03 MAY 2025 09:00-11:00"
+        "Exam: 28 APR 2026 17:00-19:00"
       ]
     },
     {
@@ -1860,7 +1743,7 @@
         "Ambuj VARSHNEY",
         "Jingxian WANG",
         "Grp L1: Tue 18:30-20:30 LT8",
-        "Exam: 05 MAY 2025 09:00-11:00"
+        "Exam: 30 APR 2026 17:00-19:00"
       ]
     },
     {
@@ -1871,22 +1754,7 @@
       ],
       "Semester I": [
         "Trevor E. CARLSON",
-        "Grp L1: Tue 14:00-16:00 LT19"
-      ],
-      "Semester II": [
-        "-"
-      ]
-    },
-    {
-      "Course Code": "CS4224",
-      "Course Title": [
-        "Distributed Databases",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "CHAN Chee Yong",
-        "Grp L1: Mon 18:30-20:30 LT15",
-        "Exam: 02 DEC 2024 09:00-11:00"
+        "Grp L1: Tue 14:00-16:00 COM1-VCRM"
       ],
       "Semester II": [
         "-"
@@ -1901,14 +1769,14 @@
       "Semester I": [
         "Bryan HOOI Kuen-Yew",
         "AI Xin",
-        "Grp L1: Fri 18:30-20:30 LT11",
-        "Exam: 27 NOV 2024 09:00-11:00"
+        "Grp L1: Fri 18:30-20:30 LT27",
+        "Exam: 29 NOV 2025 09:00-11:00"
       ],
       "Semester II": [
         "HE Bingsheng",
         "AI Xin",
-        "Grp L1: Thu 18:30-20:30 LT11",
-        "Exam: 28 APR 2025 17:00-19:00"
+        "Grp L1: Thu 18:30-20:30 UT-AUD1",
+        "Exam: 29 APR 2026 09:00-11:00"
       ]
     },
     {
@@ -1920,7 +1788,7 @@
       "Semester I": [
         "MA Tianbai, Richard",
         "Grp L1: Fri 12:00-14:00 LT17",
-        "Exam: 04 DEC 2024 09:00-11:00"
+        "Exam: 28 NOV 2025 09:00-11:00"
       ],
       "Semester II": [
         "-"
@@ -1936,7 +1804,7 @@
         "-"
       ],
       "Semester II": [
-        "Prashant Nalini VASUDEVAN",
+        "Rahul JAIN",
         "Grp L1: Thu 15:00-17:00 COM1-VCRM"
       ]
     },
@@ -1952,7 +1820,7 @@
       "Semester II": [
         "YU Haifeng",
         "Grp L1: Wed 18:30-20:30 LT19",
-        "Exam: 05 MAY 2025 17:00-19:00"
+        "Exam: 04 MAY 2026 17:00-19:00"
       ]
     },
     {
@@ -1962,9 +1830,9 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Divesh AGGARWAL",
+        "Diptarka CHAKRABORTY",
         "Grp L1: Thu 12:00-14:00 COM1-0212",
-        "Exam: 03 DEC 2024 17:00-19:00"
+        "Exam: 24 NOV 2025 17:00-19:00"
       ],
       "Semester II": [
         "-"
@@ -1978,8 +1846,8 @@
       ],
       "Semester I": [
         "Prashant Nalini VASUDEVAN",
-        "Grp L1: Wed 12:00-14:00 LT14",
-        "Exam: 30 NOV 2024 13:00-15:00"
+        "Grp L1: Wed 12:00-14:00 LT18",
+        "Exam: 27 NOV 2025 17:00-19:00"
       ],
       "Semester II": [
         "-"
@@ -1992,7 +1860,8 @@
         "Units = 4"
       ],
       "Semester I": [
-        "-"
+        "Prasanna Karthik VAIRAM",
+        "Grp L1: Tue 18:30-20:30 LT8"
       ],
       "Semester II": [
         "Prasanna Karthik VAIRAM",
@@ -2007,8 +1876,8 @@
       ],
       "Semester I": [
         "YAP Hock Chuan, Roland",
-        "Grp L1: Tue 18:30-20:30 LT16",
-        "Exam: 25 NOV 2024 09:00-11:00"
+        "Grp L1: Mon 18:30-20:30 LT15",
+        "Exam: 01 DEC 2025 17:00-19:00"
       ],
       "Semester II": [
         "-"
@@ -2029,20 +1898,6 @@
       ]
     },
     {
-      "Course Code": "CS4242",
-      "Course Title": [
-        "Social Media Computing",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "-"
-      ],
-      "Semester II": [
-        "CHUA Tat Seng",
-        "Grp L1: Mon 18:30-20:30 COM1-VCRM"
-      ]
-    },
-    {
       "Course Code": "CS4243",
       "Course Title": [
         "Computer Vision and Pattern Recognition",
@@ -2051,12 +1906,12 @@
       "Semester I": [
         "Amirhassan MONAJEMI",
         "Grp L1: Thu 16:00-18:00 LT19",
-        "Exam: 29 NOV 2024 09:00-11:00"
+        "Exam: 28 NOV 2025 09:00-11:00"
       ],
       "Semester II": [
-        "Amirhassan MONAJEMI",
+        "YAO Yingjie Angela",
         "Grp L1: Tue 14:00-16:00 LT19",
-        "Exam: 07 MAY 2025 09:00-11:00"
+        "Exam: 06 MAY 2026 17:00-19:00"
       ]
     },
     {
@@ -2067,13 +1922,12 @@
       ],
       "Semester I": [
         "LEONG Tze Yun",
-        "Muhammad Rizki Aulia Rahman MAULANA",
-        "Grp L1: Wed 18:30-20:30 LT9"
+        "Grp L1: Wed 18:30-20:30 LT16"
       ],
       "Semester II": [
-        "Akshay NARAYAN",
         "LING Chun Kai",
-        "Grp L1: Wed 18:30-20:30 LT17"
+        "Muhammad Rizki Aulia Rahman MAULANA",
+        "Grp L1: Wed 18:30-20:30 LT13"
       ]
     },
     {
@@ -2089,7 +1943,7 @@
         "LOW Kok Lim",
         "Grp L1: Mon 14:00-16:00 LT15",
         "Fri 16:00-17:00 LT15",
-        "Exam: 03 MAY 2025 09:00-11:00"
+        "Exam: 27 APR 2026 09:00-11:00"
       ]
     },
     {
@@ -2100,15 +1954,15 @@
       ],
       "Semester I": [
         "NG Hwee Tou",
-        "Grp L1: Fri 09:00-12:00 LT16",
-        "Exam: 04 DEC 2024 17:00-18:30"
+        "Grp L1: Fri 09:00-12:00 UTSRC-LT53",
+        "Exam: 02 DEC 2025 09:00-10:30"
       ],
       "Semester II": [
         "KAN Min-Yen",
         "Christian Von Der Weth",
         "Grp L1: Fri 09:00-12:00 LT19",
-        "Grp L2: Mon 18:30-21:30 LT8",
-        "Exam: 29 APR 2025 09:00-11:00"
+        "Grp L2: Mon 18:30-21:30 LT16",
+        "Exam: 02 MAY 2026 13:00-15:00"
       ]
     },
     {
@@ -2140,17 +1994,31 @@
       ]
     },
     {
+      "Course Code": "CS4268",
+      "Course Title": [
+        "Quantum Computing",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Divesh AGGARWAL",
+        "Grp L1: Thu 12:00-14:00 COM1-VCRM"
+      ]
+    },
+    {
       "Course Code": "CS4269",
       "Course Title": [
         "Fundamentals of Logic in Computer Science",
         "Units = 4"
       ],
       "Semester I": [
-        "Umang MATHUR",
-        "Grp L1: Tue 15:00-18:00 LT12"
+        "-"
       ],
       "Semester II": [
-        "-"
+        "Umang MATHUR",
+        "Grp L1: Wed 18:30-21:30 LT15"
       ]
     },
     {
@@ -2165,7 +2033,7 @@
       "Semester II": [
         "LEE Gim Hee",
         "Grp L1: Wed 18:30-21:30 LT18",
-        "Exam: 05 MAY 2025 09:00-11:00"
+        "Exam: 25 APR 2026 13:00-15:00"
       ]
     },
     {
@@ -2176,7 +2044,7 @@
       ],
       "Semester I": [
         "Lin SHAO",
-        "Grp L1: Tue 18:30-20:30 LT9"
+        "Grp L1: Tue 18:30-20:30 LT16"
       ],
       "Semester II": [
         "-"
@@ -2194,7 +2062,7 @@
       "Semester II": [
         "WONG Lim Soon",
         "Grp L1: Thu 14:00-16:00 COM3-02-60",
-        "Exam: 30 APR 2025 09:00-11:00"
+        "Exam: 05 MAY 2026 13:00-15:00"
       ]
     },
     {
@@ -2236,7 +2104,7 @@
       ],
       "Semester II": [
         "Joxan JAFFAR",
-        "Grp L1: Tue 18:30-20:30 COM3-01-21"
+        "Grp L1: Tue 18:30-20:30 LT13"
       ]
     },
     {
@@ -2247,7 +2115,7 @@
       ],
       "Semester I": [
         "YU Haifeng",
-        "Grp L1: Thu 18:30-20:30 LT10"
+        "Grp L1: Thu 18:30-20:30 LT9"
       ],
       "Semester II": [
         "Jialin LI",
@@ -2261,7 +2129,8 @@
         "Units = 4"
       ],
       "Semester I": [
-        "-"
+        "Anandha GOPALAN",
+        "Grp L1: Tue 18:30-20:30 I3-AUD"
       ],
       "Semester II": [
         "Anandha GOPALAN",
@@ -2292,25 +2161,10 @@
       "Semester I": [
         "CHAN Mun Choon",
         "Grp L1: Mon 18:30-20:30 LT18",
-        "Exam: 26 NOV 2024 17:00-19:00"
+        "Exam: 24 NOV 2025 09:00-11:00"
       ],
       "Semester II": [
         "-"
-      ]
-    },
-    {
-      "Course Code": "CS5230",
-      "Course Title": [
-        "Computational Complexity",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "-"
-      ],
-      "Semester II": [
-        "STEPHAN, Frank Christian",
-        "Grp L1: Mon 18:30-20:30 SR_LT19",
-        "Exam: 06 MAY 2025 17:00-19:00"
       ]
     },
     {
@@ -2328,6 +2182,21 @@
       ]
     },
     {
+      "Course Code": "CS5232",
+      "Course Title": [
+        "Formal Specification and Design Techniques",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Ilya SERGEY",
+        "Grp L1: Wed 10:00-12:00 COM1-0212",
+        "Exam: 29 APR 2026 17:00-19:00"
+      ]
+    },
+    {
       "Course Code": "CS5233",
       "Course Title": [
         "Simulation and Modelling Techniques",
@@ -2339,7 +2208,7 @@
       "Semester II": [
         "TAN Soon Huat, Gary",
         "Grp L1: Wed 18:30-20:30 COM3-01-23",
-        "Exam: 06 MAY 2025 09:00-11:00"
+        "Exam: 04 MAY 2026 17:00-19:00"
       ]
     },
     {
@@ -2349,7 +2218,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Diptarka CHAKRABORTY",
+        "CHEN Yu",
         "Grp L1: Thu 18:30-20:30 LT18"
       ],
       "Semester II": [
@@ -2392,11 +2261,12 @@
       ],
       "Semester I": [
         "Yang YOU",
+        "Kenji KAWAGUCHI",
         "Grp L1: Tue 18:30-20:30 COM1-0206"
       ],
       "Semester II": [
         "BRESSON Xavier",
-        "Grp L1: Mon 18:30-20:30 LT13"
+        "Grp L1: Mon 18:30-20:30 LT8"
       ]
     },
     {
@@ -2410,7 +2280,7 @@
       ],
       "Semester II": [
         "Christian Von Der Weth",
-        "Grp L1: Wed 18:30-20:30 LT9"
+        "Grp L1: Wed 18:30-20:30 LT17"
       ]
     },
     {
@@ -2425,7 +2295,7 @@
       "Semester II": [
         "Weng-Fai WONG",
         "Grp L1: Mon 18:30-20:30 LT19",
-        "Exam: 05 MAY 2025 17:00-19:00"
+        "Exam: 28 APR 2026 17:00-19:00"
       ]
     },
     {
@@ -2439,7 +2309,6 @@
       ],
       "Semester II": [
         "Yang YOU",
-        "Michael Shieh",
         "Grp L1: Fri 18:30-20:30 LT19"
       ]
     },
@@ -2467,9 +2336,9 @@
         "-"
       ],
       "Semester II": [
-        "Jonathan Mark SCARLETT",
-        "Grp L1: Fri 18:30-21:30 LT14",
-        "Exam: 06 MAY 2025 17:00-19:00"
+        "Yi-Jun CHANG",
+        "Grp L1: Fri 18:30-21:30 LT16",
+        "Exam: 30 APR 2026 17:00-19:00"
       ]
     },
     {
@@ -2480,8 +2349,7 @@
       ],
       "Semester I": [
         "BRESSON Xavier",
-        "Grp L1: Wed 18:30-20:30 LT19",
-        "Exam: 25 NOV 2024 17:00-19:00"
+        "Grp L1: Wed 18:30-20:30 LT19"
       ],
       "Semester II": [
         "-"
@@ -2498,7 +2366,7 @@
       ],
       "Semester II": [
         "LIANG Zhenkai",
-        "Grp L1: Mon 18:30-20:30 LT16"
+        "Grp L1: Mon 18:30-20:30 LT13"
       ]
     },
     {
@@ -2509,25 +2377,11 @@
       ],
       "Semester I": [
         "Xiaokui XIAO",
-        "Grp L1: Wed 18:30-20:30 LT17",
-        "Exam: 29 NOV 2024 09:00-11:00"
+        "Grp L1: Wed 18:30-20:30 LT8",
+        "Exam: 24 NOV 2025 09:00-11:00"
       ],
       "Semester II": [
         "-"
-      ]
-    },
-    {
-      "Course Code": "CS5330",
-      "Course Title": [
-        "Randomized Algorithms",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "-"
-      ],
-      "Semester II": [
-        "Yi-Jun CHANG",
-        "Grp L1: Wed 18:30-20:30 COM3-01-21"
       ]
     },
     {
@@ -2556,7 +2410,7 @@
       "Semester II": [
         "Kenji KAWAGUCHI",
         "Grp L1: Fri 18:30-21:30 LT18",
-        "Exam: 08 MAY 2025 17:00-19:00"
+        "Exam: 27 APR 2026 17:00-19:00"
       ]
     },
     {
@@ -2568,11 +2422,25 @@
       "Semester I": [
         "LEE Gim Hee",
         "Grp L1: Mon 18:30-20:30 LT17",
-        "Exam: 04 DEC 2024 09:00-11:00"
+        "Exam: 26 NOV 2025 17:00-19:00"
       ],
       "Semester II": [
         "Harold SOH Soon Hong",
         "Grp L1: Tue 18:30-20:30 LT19"
+      ]
+    },
+    {
+      "Course Code": "CS5343",
+      "Course Title": [
+        "Advanced Computer Animation",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "WANG Bohan",
+        "Grp L1: Fri 10:00-12:00 LT18"
       ]
     },
     {
@@ -2586,7 +2454,7 @@
         "Grp L1: Mon 18:30-20:30 LT19"
       ],
       "Semester II": [
-        "LEE Mong Li, Janice",
+        "TUNG Kum Hoe Anthony",
         "Grp L1: Mon 18:30-20:30 COM1-0206"
       ]
     },
@@ -2600,8 +2468,22 @@
         "-"
       ],
       "Semester II": [
-        "Bimlesh WADHWA",
+        "LEE Yi-Chieh",
         "Grp L1: Thu 18:30-20:30 LT18"
+      ]
+    },
+    {
+      "Course Code": "CS5421",
+      "Course Title": [
+        "Database Applications Design and Tuning",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "LU Yao",
+        "Grp L1: Fri 18:30-20:30 LT15"
       ]
     },
     {
@@ -2617,22 +2499,7 @@
         "Ambuj VARSHNEY",
         "Jingxian WANG",
         "Grp L1: Tue 18:30-20:30 LT8",
-        "Exam: 05 MAY 2025 09:00-11:00"
-      ]
-    },
-    {
-      "Course Code": "CS5424",
-      "Course Title": [
-        "Distributed Databases",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "CHAN Chee Yong",
-        "Grp L1: Mon 18:30-20:30 LT15",
-        "Exam: 02 DEC 2024 09:00-11:00"
-      ],
-      "Semester II": [
-        "-"
+        "Exam: 30 APR 2026 17:00-19:00"
       ]
     },
     {
@@ -2644,14 +2511,14 @@
       "Semester I": [
         "Bryan HOOI Kuen-Yew",
         "AI Xin",
-        "Grp L1: Fri 18:30-20:30 LT11",
-        "Exam: 27 NOV 2024 09:00-11:00"
+        "Grp L1: Fri 18:30-20:30 LT27",
+        "Exam: 29 NOV 2025 09:00-11:00"
       ],
       "Semester II": [
         "HE Bingsheng",
         "AI Xin",
-        "Grp L1: Thu 18:30-20:30 LT11",
-        "Exam: 28 APR 2025 17:00-19:00"
+        "Grp L1: Thu 18:30-20:30 UT-AUD1",
+        "Exam: 29 APR 2026 09:00-11:00"
       ]
     },
     {
@@ -2664,7 +2531,7 @@
         "-"
       ],
       "Semester II": [
-        "Prashant Nalini VASUDEVAN",
+        "Rahul JAIN",
         "Grp L1: Thu 15:00-17:00 COM1-VCRM"
       ]
     },
@@ -2676,8 +2543,8 @@
       ],
       "Semester I": [
         "YAP Hock Chuan, Roland",
-        "Grp L1: Tue 18:30-20:30 LT16",
-        "Exam: 25 NOV 2024 09:00-11:00"
+        "Grp L1: Mon 18:30-20:30 LT15",
+        "Exam: 01 DEC 2025 17:00-19:00"
       ],
       "Semester II": [
         "-"
@@ -2691,13 +2558,12 @@
       ],
       "Semester I": [
         "LEONG Tze Yun",
-        "Muhammad Rizki Aulia Rahman MAULANA",
-        "Grp L1: Wed 18:30-20:30 LT9"
+        "Grp L1: Wed 18:30-20:30 LT16"
       ],
       "Semester II": [
-        "Akshay NARAYAN",
         "LING Chun Kai",
-        "Grp L1: Wed 18:30-20:30 LT17"
+        "Muhammad Rizki Aulia Rahman MAULANA",
+        "Grp L1: Wed 18:30-20:30 LT13"
       ]
     },
     {
@@ -2721,11 +2587,11 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Umang MATHUR",
-        "Grp L1: Tue 15:00-18:00 LT12"
+        "-"
       ],
       "Semester II": [
-        "-"
+        "Umang MATHUR",
+        "Grp L1: Wed 18:30-21:30 LT15"
       ]
     },
     {
@@ -2740,7 +2606,7 @@
       "Semester II": [
         "LEE Gim Hee",
         "Grp L1: Wed 18:30-21:30 LT18",
-        "Exam: 05 MAY 2025 09:00-11:00"
+        "Exam: 25 APR 2026 13:00-15:00"
       ]
     },
     {
@@ -2751,7 +2617,7 @@
       ],
       "Semester I": [
         "Lin SHAO",
-        "Grp L1: Tue 18:30-20:30 LT9"
+        "Grp L1: Tue 18:30-20:30 LT16"
       ],
       "Semester II": [
         "-"
@@ -2786,20 +2652,6 @@
       ]
     },
     {
-      "Course Code": "CS6203",
-      "Course Title": [
-        "Advanced Topics in Database Systems",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "OOI Beng Chin",
-        "Grp L1: Fri 12:00-14:00 COM1-VCRM"
-      ],
-      "Semester II": [
-        "-"
-      ]
-    },
-    {
       "Course Code": "CS6204",
       "Course Title": [
         "Advanced Topics in Networking",
@@ -2823,7 +2675,7 @@
         "-"
       ],
       "Semester II": [
-        "LEE Yi-Chieh",
+        "E Jane Little",
         "Grp L1: Wed 11:00-13:00 COM1-VCRM"
       ]
     },
@@ -2852,7 +2704,20 @@
         "Grp L1: Wed 14:00-16:00 COM1-VCRM"
       ],
       "Semester II": [
-        "Reza SHOKRI",
+        "-"
+      ]
+    },
+    {
+      "Course Code": "CS6212",
+      "Course Title": [
+        "Topics in Media",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Mike SHOU",
         "Grp L1: Fri 16:00-18:00 COM1-VCRM"
       ]
     },
@@ -2867,7 +2732,7 @@
       ],
       "Semester II": [
         "Abhik ROYCHOUDHURY",
-        "Grp L1: Fri 14:00-16:00 COM1-VCRM"
+        "Grp L1: Thu 10:00-12:00 COM1-VCRM"
       ]
     },
     {
@@ -2881,7 +2746,8 @@
         "Grp L1: Wed 10:00-12:00 COM1-0212"
       ],
       "Semester II": [
-        "-"
+        "Michael Shieh",
+        "Grp L1: Fri 14:00-16:00 COM1-VCRM"
       ]
     },
     {
@@ -2891,39 +2757,25 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Umang MATHUR",
-        "Grp L1: Mon 11:00-13:00 COM1-VCRM"
-      ],
-      "Semester II": [
-        "-"
-      ]
-    },
-    {
-      "Course Code": "CS6220",
-      "Course Title": [
-        "Advanced Topics in Data Mining",
-        "Units = 4"
-      ],
-      "Semester I": [
         "-"
       ],
       "Semester II": [
-        "TUNG Kum Hoe Anthony",
-        "Grp L1: Thu 10:00-12:00 COM1-VCRM"
-      ]
-    },
-    {
-      "Course Code": "CS6222",
-      "Course Title": [
-        "Advanced Topics in Computational Biology",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "-"
-      ],
-      "Semester II": [
-        "Yang ZHANG",
+        "Olivier DANVY",
         "Grp L1: Mon 16:00-18:00 COM1-VCRM"
+      ]
+    },
+    {
+      "Course Code": "CS6218",
+      "Course Title": [
+        "Principles of Prog. Languages & Software Engineering",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "DONG Jin Song",
+        "Grp L1: Tue 16:00-18:00 COM1-VCRM"
       ]
     },
     {
@@ -2947,39 +2799,11 @@
         "Units = 4"
       ],
       "Semester I": [
-        "ZHANG Jiaheng",
-        "Grp L1: Mon 16:00-18:00 SR_LT19"
+        "YAP Hock Chuan, Roland",
+        "Grp L1: Mon 12:00-14:00 COM1-VCRM"
       ],
       "Semester II": [
         "-"
-      ]
-    },
-    {
-      "Course Code": "CS6234",
-      "Course Title": [
-        "Advanced Algorithms",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "Divesh AGGARWAL",
-        "Grp L1: Tue 14:00-16:00 SR_LT19"
-      ],
-      "Semester II": [
-        "-"
-      ]
-    },
-    {
-      "Course Code": "CS6235",
-      "Course Title": [
-        "Advanced Topics in Theoretical Computer Science",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "-"
-      ],
-      "Semester II": [
-        "CHEN Yu",
-        "Grp L1: Tue 16:00-18:00 COM1-VCRM"
       ]
     },
     {
@@ -2997,6 +2821,20 @@
       ]
     },
     {
+      "Course Code": "CS6241",
+      "Course Title": [
+        "Advanced Topics in Computer Graphics",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "WANG Bohan",
+        "Grp L1: Mon 10:00-12:00 COM1-VCRM"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
       "Course Code": "CS6244",
       "Course Title": [
         "Advanced Topics in Robotics",
@@ -3008,20 +2846,6 @@
       "Semester II": [
         "David HSU",
         "Grp L1: Fri 10:00-12:00 COM1-VCRM"
-      ]
-    },
-    {
-      "Course Code": "CS6280",
-      "Course Title": [
-        "Topics in Computer Science: Deep Learning with Language Applications",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "Michael Shieh",
-        "Grp L1: Tue 10:00-12:00 COM1-VCRM"
-      ],
-      "Semester II": [
-        "-"
       ]
     },
     {
@@ -3063,7 +2887,7 @@
       ],
       "Semester II": [
         "Nicholas Mac Gregor GARCIA",
-        "Grp L1: Fri 18:00-21:00 COM4SR31"
+        "Grp L1: Tue 18:30-21:30 COM4SR31"
       ]
     },
     {
@@ -3119,7 +2943,20 @@
       ],
       "Semester II": [
         "Shashank Shekhar TRIPATHI",
-        "Grp L1: Thu 18:00-21:00 LT14"
+        "Grp L1: Thu 18:00-21:00 LT15"
+      ]
+    },
+    {
+      "Course Code": "FT5012",
+      "Course Title": [
+        "Risk, Security and Compliance in Banking and Finance",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "Grp L1: Tue 18:30-21:30 COM3-01-23"
+      ],
+      "Semester II": [
+        "-"
       ]
     },
     {
@@ -3131,25 +2968,12 @@
       "Semester I": [
         "LEOW Wee Kheng",
         "Bimlesh WADHWA",
+        "AI Xin",
         "Grp L1:  -"
       ],
       "Semester II": [
-        "-"
-      ]
-    },
-    {
-      "Course Code": "IFS4101",
-      "Course Title": [
-        "Legal Aspects of Information Security",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "-"
-      ],
-      "Semester II": [
-        "Zaid Hamzah",
-        "Grp L1: Tue 15:00-18:00 COM4SR31",
-        "Exam: 06 MAY 2025 17:00-19:00"
+        "AI Xin",
+        "Grp L1:  -"
       ]
     },
     {
@@ -3173,8 +2997,8 @@
         "Units = 8"
       ],
       "Semester I": [
-        "Nitya.Lakshmanan",
-        "Grp L1: Mon 12:00-14:00 SR_LT19"
+        "Ganesh NEELAKANTA IYER",
+        "Grp L1: Tue 16:00-18:00 SR_LT19"
       ],
       "Semester II": [
         "-"
@@ -3183,19 +3007,18 @@
     {
       "Course Code": "IS1108",
       "Course Title": [
-        "Digital Ethics and Data Privacy",
+        "Digital and AI Ethics",
         "Units = 4"
       ],
       "Semester I": [
         "LEE Boon Kee",
         "Grp L1: Thu 09:00-11:00 UT-AUD2",
-        "Grp L2: Thu 09:00-11:00 UT-AUD2",
-        "Grp L3: Thu 09:00-11:00 UT-AUD2"
+        "Grp L2: Thu 09:00-11:00 E-Learn_C"
       ],
       "Semester II": [
         "LEE Boon Kee",
         "Grp L1: Fri 12:00-14:00 LT11",
-        "Grp L2: Fri 12:00-14:00 LT11"
+        "Grp L2: Fri 12:00-14:00 E-Learn_C"
       ]
     },
     {
@@ -3210,47 +3033,13 @@
       ],
       "Semester II": [
         "YANG Lu",
-        "Grp L1: Thu 10:00-12:00 LT9"
-      ]
-    },
-    {
-      "Course Code": "IS2101",
-      "Course Title": [
-        "Business and Technical Communication",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "Grp SG01: Tue 09:00-12:00 COM1-0214",
-        "Grp SG02: Tue 12:00-15:00 COM1-0214",
-        "Grp SG03: Tue 15:00-18:00 COM1-0214",
-        "Grp SG04: Wed 09:00-12:00 AS6-0208",
-        "Grp SG05: Wed 12:00-15:00 AS6-0208",
-        "Grp SG06: Thu 12:00-15:00 COM1-0214",
-        "Grp SG07: Thu 15:00-18:00 COM1-0214",
-        "Grp SG08: Fri 09:00-12:00 COM1-0214",
-        "Grp SG09: Fri 12:00-15:00 COM1-0214"
-      ],
-      "Semester II": [
-        "Grp SG01: Mon 09:00-12:00 AS6-0209",
-        "Grp SG02: Mon 12:00-15:00 AS6-0209",
-        "Grp SG03: Tue 09:00-12:00 AS6-0209",
-        "Grp SG04: Tue 12:00-15:00 AS6-0209",
-        "Grp SG05: Tue 15:00-18:00 AS6-0209",
-        "Grp SG06: Wed 09:00-12:00 AS6-0209",
-        "Grp SG07: Wed 09:00-12:00 CELC-03-06",
-        "Grp SG08: Wed 12:00-15:00 AS6-0209",
-        "Grp SG09: Wed 12:00-15:00 CELC-SR1B",
-        "Grp SG10: Thu 09:00-12:00 AS6-0209",
-        "Grp SG11: Thu 12:00-15:00 AS6-0209",
-        "Grp SG12: Thu 15:00-18:00 AS6-0209",
-        "Grp SG13: Fri 09:00-12:00 AS6-0209",
-        "Grp SG14: Fri 12:00-15:00 AS6-0209"
+        "Grp L1: Thu 10:00-12:00 LT19"
       ]
     },
     {
       "Course Code": "IS2102",
       "Course Title": [
-        "Enterprise Systems Architecture and Design",
+        "Requirements Analysis for Business IT Systems",
         "Units = 4"
       ],
       "Semester I": [
@@ -3262,18 +3051,33 @@
       ]
     },
     {
-      "Course Code": "IS2103",
+      "Course Code": "IS2108",
       "Course Title": [
-        "Enterprise Systems Server-side Design and Development",
+        "Full-stack Software Engineering for AI Solutions I",
         "Units = 4"
       ],
       "Semester I": [
         "TAN Wee Kek",
         "Grp L1: Tue 10:00-12:00 LT15",
-        "Exam: 03 DEC 2024 13:00-15:00"
+        "Exam: 02 DEC 2025 09:00-11:00"
       ],
       "Semester II": [
         "-"
+      ]
+    },
+    {
+      "Course Code": "IS2109",
+      "Course Title": [
+        "AI and Machine Learning Techniques I",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "LI Guijie",
+        "Grp L1: Wed 13:00-15:00 LT15",
+        "Exam: 05 MAY 2026 13:00-15:00"
       ]
     },
     {
@@ -3284,10 +3088,10 @@
       ],
       "Semester I": [
         "Vivek Sundar MAGESH",
-        "Grp L1: Thu 12:00-14:00 UT-AUD2"
+        "Grp L1: Tue 15:00-17:00 UT-AUD1"
       ],
       "Semester II": [
-        "Vivek Sundar MAGESH",
+        "Vivek Magesh",
         "Grp L1: Tue 16:00-18:00 LT11"
       ]
     },
@@ -3300,18 +3104,18 @@
       "Semester I": [
         "Nakyung KYUNG",
         "Grp L1: Mon 14:00-16:00 LT19",
-        "Exam: 25 NOV 2024 17:00-19:00"
+        "Exam: 29 NOV 2025 13:00-15:00"
       ],
       "Semester II": [
         "CHEN Nan",
         "Grp L1: Fri 16:00-18:00 LT19",
-        "Exam: 29 APR 2025 09:00-11:00"
+        "Exam: 28 APR 2026 17:00-19:00"
       ]
     },
     {
       "Course Code": "IS3103",
       "Course Title": [
-        "Information Systems Leadership and Communication",
+        "Digital Transformation and Leadership Communication",
         "Units = 4"
       ],
       "Semester I": [
@@ -3324,9 +3128,24 @@
       ]
     },
     {
-      "Course Code": "IS3106",
+      "Course Code": "IS3107",
       "Course Title": [
-        "Enterprise Systems Interface Design and Development",
+        "Data Engineering",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "LEK Hsiang Hui",
+        "Grp L1: Fri 12:00-14:00 LT18"
+      ],
+      "Semester II": [
+        "ZHAO Yiliang",
+        "Grp L1: Tue 18:30-20:30 I3-AUD"
+      ]
+    },
+    {
+      "Course Code": "IS3108",
+      "Course Title": [
+        "Full-stack Software Engineering for AI Solutions II",
         "Units = 4"
       ],
       "Semester I": [
@@ -3335,22 +3154,7 @@
       "Semester II": [
         "LEK Hsiang Hui",
         "Grp L1: Tue 14:00-16:00 LT18",
-        "Exam: 06 MAY 2025 09:00-11:00"
-      ]
-    },
-    {
-      "Course Code": "IS3107",
-      "Course Title": [
-        "Data Engineering",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "Frank XING",
-        "Grp L1: Fri 12:00-14:00 LT18"
-      ],
-      "Semester II": [
-        "ZHAO Yiliang",
-        "Grp L1: Fri 18:30-20:30 LT16"
+        "Exam: 27 APR 2026 13:00-15:00"
       ]
     },
     {
@@ -3360,12 +3164,12 @@
         "Units = 4"
       ],
       "Semester I": [
-        "LAI Kok Fung",
-        "Grp L1: Fri 14:00-16:00 COM1-0212",
-        "Exam: 26 NOV 2024 09:00-11:00"
+        "-"
       ],
       "Semester II": [
-        "-"
+        "LAI Kok Fung",
+        "Grp L1: Tue 16:00-18:00 COM1-0204",
+        "Exam: 28 APR 2026 09:00-11:00"
       ]
     },
     {
@@ -3377,7 +3181,7 @@
       "Semester I": [
         "Kisenchand Nathumal Ranai",
         "Grp L1: Thu 09:00-11:00 COM1-0212",
-        "Exam: 03 DEC 2024 09:00-11:00"
+        "Exam: 22 NOV 2025 09:00-11:00"
       ],
       "Semester II": [
         "-"
@@ -3392,7 +3196,7 @@
       "Semester I": [
         "Anand Mohan RAMCHAND",
         "Grp L1: Fri 10:00-12:00 LT15",
-        "Exam: 03 DEC 2024 13:00-15:00"
+        "Exam: 25 NOV 2025 09:00-11:00"
       ],
       "Semester II": [
         "-"
@@ -3409,7 +3213,7 @@
       ],
       "Semester II": [
         "Victor NG",
-        "Grp L1: Thu 09:00-12:00 COM1-0212"
+        "Grp L1: Thu 12:00-15:00 COM1-0204"
       ]
     },
     {
@@ -3427,14 +3231,14 @@
       ]
     },
     {
-      "Course Code": "IS4103",
+      "Course Code": "IS4108",
       "Course Title": [
-        "Information Systems Capstone Project",
+        "AI Solutioning Capstone Project",
         "Units = 8"
       ],
       "Semester I": [
         "TAN Wee Kek",
-        "Grp L1: Mon 12:00-14:00 LT12"
+        "Grp L1: Mon 12:00-14:00 COM1-0212"
       ],
       "Semester II": [
         "LEK Hsiang Hui",
@@ -3452,7 +3256,7 @@
       ],
       "Semester II": [
         "TAN Wee Kek",
-        "Grp L1: Tue 12:00-14:00 COM4-02-01"
+        "Grp L1: Fri 09:00-11:00 COM4-02-01"
       ]
     },
     {
@@ -3463,7 +3267,7 @@
       ],
       "Semester I": [
         "Shashank Shekhar TRIPATHI",
-        "Grp L1: Thu 15:00-18:00 LT17"
+        "Grp L1: Fri 15:00-18:00 LT15"
       ],
       "Semester II": [
         "-"
@@ -3476,12 +3280,12 @@
         "Units = 4"
       ],
       "Semester I": [
-        "LI Xiaofan",
-        "Grp L1: Tue 18:30-21:30 LT17"
+        "Nicholas Mac Gregor GARCIA",
+        "Grp L1: Tue 18:30-21:30 LT9"
       ],
       "Semester II": [
         "Nicholas Mac Gregor GARCIA",
-        "Grp L1: Thu 18:30-21:30 LT17"
+        "Grp L1: Thu 18:30-21:30 LT16"
       ]
     },
     {
@@ -3496,7 +3300,7 @@
       "Semester II": [
         "YANG Lu",
         "Grp L1: Wed 12:00-14:00 COM1-0204",
-        "Exam: 08 MAY 2025 17:00-19:00"
+        "Exam: 04 MAY 2026 17:00-19:00"
       ]
     },
     {
@@ -3511,7 +3315,7 @@
       "Semester II": [
         "WANG QIUHONG",
         "Grp L1: Tue 09:00-12:00 COM4SR31",
-        "Exam: 05 MAY 2025 09:00-11:00"
+        "Exam: 29 APR 2026 17:00-19:00"
       ]
     },
     {
@@ -3538,9 +3342,10 @@
         "-"
       ],
       "Semester II": [
+        "External",
         "EE Kiam Keong",
         "Grp L1: Fri 18:30-20:30 COM1-0212",
-        "Exam: 30 APR 2025 13:00-15:00"
+        "Exam: 05 MAY 2026 09:00-11:00"
       ]
     },
     {
@@ -3552,11 +3357,9 @@
       "Semester I": [
         "WANG QIUHONG",
         "Grp L1: Tue 14:00-16:00 COM1-0204",
-        "Exam: 03 DEC 2024 17:00-19:00"
+        "Exam: 27 NOV 2025 17:00-19:00"
       ],
-      "Semester II": [
-        "-"
-      ]
+      "Semester II": []
     },
     {
       "Course Code": "IS4241",
@@ -3568,23 +3371,22 @@
         "-"
       ],
       "Semester II": [
-        "HENG Cheng Suang",
+        "Kyung Nakyung",
         "Grp L1: Wed 10:00-12:00 COM3-MPH",
-        "Exam: 05 MAY 2025 13:00-15:00"
+        "Exam: 29 APR 2026 13:00-15:00"
       ]
     },
     {
-      "Course Code": "IS4242",
+      "Course Code": "IS4243",
       "Course Title": [
-        "Intelligent Systems and Techniques",
+        "Digital Transformation Consulting",
         "Units = 4"
       ],
       "Semester I": [
-        "Aditya KARANAM",
-        "Grp L1: Tue 16:00-18:00 COM1-0212"
+        "-"
       ],
       "Semester II": [
-        "-"
+        "External teaching staff"
       ]
     },
     {
@@ -3595,8 +3397,8 @@
       ],
       "Semester I": [
         "Nicholas Mac Gregor GARCIA",
-        "Grp L1: Wed 10:00-12:00 COM4SR32",
-        "Exam: 30 NOV 2024 09:00-11:00"
+        "Grp L1: Mon 09:00-11:00 COM4SR32",
+        "Exam: 22 NOV 2025 13:00-15:00"
       ],
       "Semester II": [
         "-"
@@ -3610,7 +3412,7 @@
       ],
       "Semester I": [
         "LIM Shi Ying",
-        "Grp L1: Mon 09:00-12:00 COM1-0204"
+        "Grp L1: Wed 09:00-12:00 COM4SR32"
       ],
       "Semester II": [
         "-"
@@ -3627,7 +3429,7 @@
       ],
       "Semester II": [
         "FOONG Sew Bun",
-        "Grp L1: Fri 10:00-13:00 COM1-0212"
+        "Grp L1: Fri 11:00-14:00 COM1-0204"
       ]
     },
     {
@@ -3641,8 +3443,8 @@
       ],
       "Semester II": [
         "LEE Boon Kee",
-        "Grp L1: Mon 14:00-16:00 LT14",
-        "Exam: 03 MAY 2025 09:00-11:00"
+        "Grp L1: Mon 14:00-16:00 LT16",
+        "Exam: 05 MAY 2026 13:00-15:00"
       ]
     },
     {
@@ -3666,11 +3468,11 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Nicholas Mac Gregor GARCIA",
+        "LI Xiaofan",
         "Grp L1: Tue 12:00-14:00 LT18"
       ],
       "Semester II": [
-        "LI Xiaofan",
+        "Nicholas Mac Gregor GARCIA",
         "Grp L1: Fri 14:00-16:00 LT18"
       ]
     },
@@ -3685,7 +3487,66 @@
       ],
       "Semester II": [
         "JIN Chen",
-        "Grp L1: Thu 18:30-20:30 COM1-VCRM"
+        "Grp L1: Mon 09:00-11:00 COM1-0204"
+      ]
+    },
+    {
+      "Course Code": "IS4400",
+      "Course Title": [
+        "Human-AI Interaction",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "CUI Wei",
+        "Grp L1: Tue 12:00-14:00 COM1-0204",
+        "Exam: 04 MAY 2026 09:00-11:00"
+      ]
+    },
+    {
+      "Course Code": "IS4401",
+      "Course Title": [
+        "Generative AI and Business Applications",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "YEO Wee Kiang",
+        "Grp L1: Mon 16:00-18:00 LT11",
+        "Exam: 01 DEC 2025 09:00-11:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Course Code": "IS4402",
+      "Course Title": [
+        "Machine Learning with Unstructured Data",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "LEE Jiho",
+        "Grp L1: Tue 14:00-16:00 COM1-0204",
+        "Exam: 28 APR 2026 09:00-11:00"
+      ]
+    },
+    {
+      "Course Code": "IS5002",
+      "Course Title": [
+        "Digital Transformation",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "TAN Chuan Hoo",
+        "Grp L1: Wed 18:30-20:30 LT14"
       ]
     },
     {
@@ -3699,8 +3560,8 @@
       ],
       "Semester II": [
         "Varun KARAMSHETTY",
-        "Grp L1: Mon 18:30-20:30 COM4SR31",
-        "Exam: 08 MAY 2025 17:00-19:00"
+        "Grp L1: Mon 18:30-20:30 COM1-0210",
+        "Exam: 25 APR 2026 13:00-15:00"
       ]
     },
     {
@@ -3710,26 +3571,12 @@
         "Units = 4"
       ],
       "Semester I": [
+        "-"
+      ],
+      "Semester II": [
         "HENG Cheng Suang",
-        "Grp L1: Wed 18:30-20:30 COM3-MPH",
-        "Exam: 27 NOV 2024 13:00-15:00"
-      ],
-      "Semester II": [
-        "-"
-      ]
-    },
-    {
-      "Course Code": "IS5006",
-      "Course Title": [
-        "Human-Centred Intelligent Systems",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "-"
-      ],
-      "Semester II": [
-        "Suranga NANAYAKKARA",
-        "Grp L1: Thu 18:30-20:30 COM1-0212"
+        "Grp L1: Tue 18:30-20:30 COM3-MPH",
+        "Exam: 30 APR 2026 17:00-19:00"
       ]
     },
     {
@@ -3757,7 +3604,7 @@
       ],
       "Semester II": [
         "Vincent LOY Jitchen",
-        "Grp L1: Tue 18:30-20:30 LT9"
+        "Grp L1: Tue 18:30-20:30 LT14"
       ]
     },
     {
@@ -3772,6 +3619,20 @@
       "Semester II": [
         "Thomas CHEVRIER",
         "Grp L1: Tue 18:30-20:30 COM1-0204"
+      ]
+    },
+    {
+      "Course Code": "IS5010",
+      "Course Title": [
+        "AI Ethics and Governance",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "Jungpil HAHN",
+        "Grp L1: Mon 18:30-20:30 COM3-MPH"
+      ],
+      "Semester II": [
+        "-"
       ]
     },
     {
@@ -3799,7 +3660,7 @@
         "Grp L1: Fri 18:30-20:30 LT15"
       ],
       "Semester II": [
-        "Stanley KOK",
+        "Prakash Chandra SUKHWAL",
         "Grp L1: Mon 18:30-20:30 COM3-01-21"
       ]
     },
@@ -3856,7 +3717,7 @@
       ],
       "Semester II": [
         "TAN Wee Kek",
-        "Grp L1: Tue 12:00-14:00 COM4-02-01"
+        "Grp L1: Fri 09:00-11:00 COM4-02-01"
       ]
     },
     {
@@ -3888,6 +3749,20 @@
       ]
     },
     {
+      "Course Code": "IS6002",
+      "Course Title": [
+        "Quantitative Methods for IS Research",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "TAN Chuan Hoo",
+        "Grp L1: Mon 15:00-18:00 COM1-VCRM"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
       "Course Code": "IS6003",
       "Course Title": [
         "Contemporary Theories for IS Research",
@@ -3895,7 +3770,7 @@
       ],
       "Semester I": [
         "TEO Hock Hai",
-        "Grp L1: Tue 15:00-18:00 COM1-VCRM"
+        "Grp L1: Tue 10:00-13:00 COM1-VCRM"
       ],
       "Semester II": [
         "-"
@@ -3926,21 +3801,7 @@
       ],
       "Semester II": [
         "QIAO Dandan",
-        "Grp L1: Thu 15:00-18:00 COM3-B1-10"
-      ]
-    },
-    {
-      "Course Code": "IS6101",
-      "Course Title": [
-        "Topics in Machine Learning and Optimization",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "VAIBHAV Rajan",
-        "Grp L1: Mon 15:00-18:00 COM1-VCRM"
-      ],
-      "Semester II": [
-        "-"
+        "Grp L1: Thu 15:00-18:00 COM1-0209"
       ]
     },
     {
@@ -3952,12 +3813,12 @@
       "Semester I": [
         "Prabhu NATARAJAN",
         "Grp L1: Mon 10:00-12:00 E-Learn_C",
-        "Exam: 26 NOV 2024 09:00-11:00"
+        "Exam: 25 NOV 2025 17:00-19:00"
       ],
       "Semester II": [
         "Prabhu NATARAJAN",
         "Grp L1: Fri 18:30-20:30 E-Learn_C",
-        "Exam: 29 APR 2025 09:00-11:00"
+        "Exam: 30 APR 2026 09:00-11:00"
       ]
     },
     {
@@ -3982,7 +3843,7 @@
       ],
       "Semester I": [
         "LEONG Wing Lup, Ben",
-        "Grp L1: Wed 18:30-20:30 COM1-VCRM"
+        "Grp L1: Tue 18:30-20:30 COM1-VCRM"
       ],
       "Semester II": [
         "-"
@@ -3997,25 +3858,12 @@
       "Semester I": [
         "Anand Mohan RAMCHAND",
         "Grp L1: Wed 10:00-12:00 LT18",
-        "Exam: 03 DEC 2024 17:00-19:00"
+        "Exam: 27 NOV 2025 17:00-19:00"
       ],
       "Semester II": [
         "Anand Mohan RAMCHAND",
         "Grp L1: Wed 10:00-12:00 LT19",
-        "Exam: 07 MAY 2025 13:00-15:00"
-      ]
-    },
-    {
-      "Course Code": "TS1003",
-      "Course Title": [
-        "Introduction to Computational Thinking and Problem Solving (CTPS) - Special",
-        "Units = -"
-      ],
-      "Semester I": [
-        "-"
-      ],
-      "Semester II": [
-        "Daren LER"
+        "Exam: 05 MAY 2026 09:00-11:00"
       ]
     }
   ]
