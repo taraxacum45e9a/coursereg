@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "4 Aug - 6 Dec 2025",
     "Semester II": "12 Jan - 9 May 2026",
-    "last_modified": "2025-07-02T16:00:17"
+    "last_modified": "2025-07-03T23:00:13"
   },
   "schedule": [
     {
@@ -3076,7 +3076,7 @@
       ],
       "Semester II": [
         "LI Guijie",
-        "Grp L1: Wed 13:00-15:00 LT15",
+        "Grp L1: Fri 12:00-14:00 LT19",
         "Exam: 05 MAY 2026 13:00-15:00"
       ]
     },
@@ -3386,7 +3386,8 @@
         "-"
       ],
       "Semester II": [
-        "External teaching staff"
+        "External teaching staff",
+        "Grp L1: Mon 18:30-21:30 COM3-01-23"
       ]
     },
     {
