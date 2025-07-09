@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "4 Aug - 6 Dec 2025",
     "Semester II": "12 Jan - 9 May 2026",
-    "last_modified": "2025-07-08T12:00:17"
+    "last_modified": "2025-07-09T12:00:17"
   },
   "schedule": [
     {
@@ -434,15 +434,6 @@
         "Grp L1: Tue 09:00-12:00 COM3-01-19",
         "Grp L2: Tue 14:00-17:00 COM3-01-19"
       ]
-    },
-    {
-      "Course Code": "CP1008",
-      "Course Title": [
-        "Learning with Generative AI Tools",
-        "Units = 2"
-      ],
-      "Semester I": [],
-      "Semester II": []
     },
     {
       "Course Code": "CP2106",
@@ -965,11 +956,11 @@
         "Fri 12:00-15:00 BIZ2-0301",
         "Fri 16:00-18:00 I3-AUD",
         "Grp LG26: Wed 12:00-15:00 BIZ2-0301",
+        "Fri 16:00-18:00 I3-AUD",
         "Fri 14:00-15:00 COM1-0210",
-        "Fri 16:00-18:00 I3-AUD",
         "Grp LG27: Mon 12:00-15:00 BIZ2-0303",
-        "Fri 16:00-18:00 I3-AUD",
         "Fri 15:00-16:00 COM1-0210",
+        "Fri 16:00-18:00 I3-AUD",
         "Grp LG28: Thu 12:00-15:00 BIZ2-0303",
         "Fri 08:00-09:00 COM1-0210",
         "Fri 16:00-18:00 I3-AUD",
@@ -1030,11 +1021,11 @@
         "Fri 12:00-15:00",
         "Fri 16:00-18:00 I3-AUD",
         "Grp LG18: Thu 12:00-15:00 COM2-0108",
-        "Fri 16:00-18:00 I3-AUD",
         "Fri 13:00-14:00 COM3-01-20",
-        "Grp LG19: Thu 09:00-12:00",
         "Fri 16:00-18:00 I3-AUD",
+        "Grp LG19: Thu 09:00-12:00",
         "Fri 11:00-12:00 COM3-01-20",
+        "Fri 16:00-18:00 I3-AUD",
         "Exam: 04 MAY 2026 09:00-11:00"
       ]
     },
@@ -2887,7 +2878,7 @@
         "-"
       ],
       "Semester II": [
-        "Nicholas Mac Gregor GARCIA",
+        "LI Xiaofan",
         "Grp L1: Tue 18:30-21:30 COM4SR31"
       ]
     },
@@ -3344,7 +3335,6 @@
       ],
       "Semester II": [
         "External",
-        "EE Kiam Keong",
         "Grp L1: Fri 18:30-20:30 COM1-0212",
         "Exam: 05 MAY 2026 09:00-11:00"
       ]
@@ -3399,7 +3389,7 @@
       ],
       "Semester I": [
         "Nicholas Mac Gregor GARCIA",
-        "Grp L1: Mon 09:00-11:00 COM4SR32",
+        "Grp L1: Mon 09:00-11:00 COM1-0204",
         "Exam: 22 NOV 2025 13:00-15:00"
       ],
       "Semester II": [
@@ -3515,7 +3505,7 @@
       ],
       "Semester I": [
         "YEO Wee Kiang",
-        "Grp L1: Mon 16:00-18:00 LT11",
+        "Grp L1: Mon 16:00-18:00 COM1-0206",
         "Exam: 01 DEC 2025 09:00-11:00"
       ],
       "Semester II": [
@@ -3674,7 +3664,7 @@
       ],
       "Semester I": [
         "OH Lih Bin",
-        "Grp L1: Tue 18:30-20:30 COM4SR31"
+        "Grp L1: Tue 18:30-20:30 COM1-0204"
       ],
       "Semester II": [
         "-"
