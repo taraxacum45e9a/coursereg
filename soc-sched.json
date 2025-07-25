@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "4 Aug - 6 Dec 2025",
     "Semester II": "12 Jan - 9 May 2026",
-    "last_modified": "2025-07-24T12:00:19"
+    "last_modified": "2025-07-25T12:00:18"
   },
   "schedule": [
     {
@@ -531,7 +531,8 @@
       "Semester I": [
         "LEONG Wai Kay",
         "Conghui HU",
-        "Grp L1: Wed 10:00-12:00 UT-AUD2",
+        "Grp L1: Wed 10:00-12:00 I3-LT38",
+        "Wed 10:00-12:00 UT-AUD2",
         "Exam: 25 NOV 2025 13:00-15:00"
       ],
       "Semester II": [
@@ -1090,7 +1091,8 @@
       "Semester I": [
         "Jialin LI",
         "TAN Keng Yan, Colin",
-        "Grp L1: Wed 12:00-14:00 UT-AUD2",
+        "Grp L1: Wed 12:00-14:00 I3-LT38",
+        "Wed 12:00-14:00 UT-AUD2",
         "Exam: 26 NOV 2025 17:00-19:00"
       ],
       "Semester II": [
@@ -2954,6 +2956,19 @@
       ]
     },
     {
+      "Course Code": "FT5011",
+      "Course Title": [
+        "Deep Learning for Finance",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Stanley KOK"
+      ]
+    },
+    {
       "Course Code": "FT5012",
       "Course Title": [
         "Risk, Security and Compliance in Banking and Finance",
@@ -2980,7 +2995,15 @@
       ],
       "Semester II": [
         "AI Xin",
-        "Grp L1:  -"
+        "Grp L1:  -",
+        "Grp LT01: Wed 10:00-12:00 COM1-0201",
+        "Grp LT02: Wed 12:00-14:00 COM1-0201",
+        "Grp LT03: Thu 10:00-12:00 COM1-0201",
+        "Grp LT04: Thu 12:00-14:00 COM1-0201",
+        "Grp LT05: Thu 14:00-16:00 COM1-0201",
+        "Grp LT06: Thu 16:00-18:00 COM1-0201",
+        "Grp LT07: Fri 14:00-16:00 COM1-0201",
+        "Grp LT08: Fri 16:00-18:00 COM1-0201"
       ]
     },
     {
