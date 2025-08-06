@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "4 Aug - 6 Dec 2025",
     "Semester II": "12 Jan - 9 May 2026",
-    "last_modified": "2025-07-28T12:00:18"
+    "last_modified": "2025-08-06T23:00:14"
   },
   "schedule": [
     {
@@ -101,21 +101,6 @@
         "Shashank Shekhar TRIPATHI",
         "Grp L1: Fri 09:30-12:30 LT17",
         "Grp L2: Fri 15:00-18:00 LT17"
-      ]
-    },
-    {
-      "Course Code": "BT3104",
-      "Course Title": [
-        "Optimization Methods for Business Analytics",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "SETIONO, Rudy",
-        "Grp L1: Mon 14:00-16:00 COM4SR32",
-        "Exam: 22 NOV 2025 09:00-11:00"
-      ],
-      "Semester II": [
-        "-"
       ]
     },
     {
@@ -1763,7 +1748,7 @@
       ],
       "Semester I": [
         "Trevor E. CARLSON",
-        "Grp L1: Tue 14:00-16:00 COM1-VCRM"
+        "Grp L1: Tue 14:00-16:00 LT18"
       ],
       "Semester II": [
         "-"
