@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "4 Aug - 6 Dec 2025",
     "Semester II": "12 Jan - 9 May 2026",
-    "last_modified": "2025-08-08T12:00:18"
+    "last_modified": "2025-08-09T23:00:13"
   },
   "schedule": [
     {
@@ -468,8 +468,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "External teaching staff",
-        "Grp L1: Wed 12:00-15:00 COM4SR31"
+        "External teaching staff"
       ],
       "Semester II": [
         "-"
@@ -805,7 +804,8 @@
         "Grp SG25:  -",
         "Grp SG26:  -",
         "Grp SG27:  -",
-        "Grp SG28:  -"
+        "Grp SG28:  -",
+        "Grp SG29:  -"
       ],
       "Semester II": [
         "Grp SG01:  -",
@@ -1841,7 +1841,7 @@
       "Semester I": [
         "Prashant Nalini VASUDEVAN",
         "Grp L1: Wed 12:00-14:00 LT18",
-        "Exam: 27 NOV 2025 17:00-19:00"
+        "Exam: 27 NOV 2025 17:00-19:30"
       ],
       "Semester II": [
         "-"
@@ -1855,7 +1855,7 @@
       ],
       "Semester I": [
         "Prasanna Karthik VAIRAM",
-        "Grp L1: Tue 18:30-20:30 LT8"
+        "Grp L1: Tue 18:30-20:30 LT18"
       ],
       "Semester II": [
         "Prasanna Karthik VAIRAM",
@@ -2227,7 +2227,7 @@
       ],
       "Semester I": [
         "Cristina CARBUNARU",
-        "Grp L1: Tue 18:30-20:30 LT18"
+        "Grp L1: Tue 18:30-20:30 LT8"
       ],
       "Semester II": [
         "-"
