@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "4 Aug - 6 Dec 2025",
     "Semester II": "12 Jan - 9 May 2026",
-    "last_modified": "2025-08-12T11:10:14"
+    "last_modified": "2025-08-13T23:10:13"
   },
   "schedule": [
     {
@@ -1174,21 +1174,6 @@
         "WONG Lim Soon",
         "Grp L1: Thu 10:00-12:00 COM1-VCRM",
         "Exam: 22 NOV 2025 09:00-11:00"
-      ],
-      "Semester II": [
-        "-"
-      ]
-    },
-    {
-      "Course Code": "CS2251",
-      "Course Title": [
-        "Optimization and Regression",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "Divesh AGGARWAL",
-        "Maciej Lukasz OBREMSKI",
-        "Exam: 01 DEC 2025 17:00-19:00"
       ],
       "Semester II": [
         "-"
@@ -2961,6 +2946,7 @@
         "Units = 4"
       ],
       "Semester I": [
+        "KOK Chun Hong",
         "Grp L1: Tue 18:30-21:30 COM3-01-23"
       ],
       "Semester II": [
@@ -3880,6 +3866,21 @@
         "Anand Mohan RAMCHAND",
         "Grp L1: Wed 10:00-12:00 LT19",
         "Exam: 05 MAY 2026 09:00-11:00"
+      ]
+    },
+    {
+      "Course Code": "MSI5001",
+      "Course Title": [
+        "Introduction to AI: Concepts, Applications, and Evaluation",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "Prabhu NATARAJAN",
+        "Grp L1: Mon 18:30-20:30 COM1-0206",
+        "Exam: 22 NOV 2025 09:00-11:00"
+      ],
+      "Semester II": [
+        "-"
       ]
     }
   ]
