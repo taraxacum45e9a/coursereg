@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "4 Aug - 6 Dec 2025",
     "Semester II": "12 Jan - 9 May 2026",
-    "last_modified": "2025-08-15T17:10:14"
+    "last_modified": "2025-08-16T23:10:13"
   },
   "schedule": [
     {
@@ -459,19 +459,6 @@
       "Semester II": [
         "Victor NG",
         "Grp L1: Mon 18:30-21:30 LT9"
-      ]
-    },
-    {
-      "Course Code": "CP3100",
-      "Course Title": [
-        "Information Systems and Analytics Research Methodology",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "External teaching staff"
-      ],
-      "Semester II": [
-        "-"
       ]
     },
     {
@@ -3345,6 +3332,7 @@
       ],
       "Semester II": [
         "External",
+        "EE Kiam Keong",
         "Grp L1: Fri 18:30-20:30 COM1-0212",
         "Exam: 05 MAY 2026 09:00-11:00"
       ]
