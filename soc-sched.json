@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "4 Aug - 6 Dec 2025",
     "Semester II": "12 Jan - 9 May 2026",
-    "last_modified": "2025-08-19T23:10:13"
+    "last_modified": "2025-08-20T23:10:13"
   },
   "schedule": [
     {
@@ -597,6 +597,7 @@
         "Units = 4"
       ],
       "Semester I": [
+        "WONG Tin Lok",
         "Grp S1: Wed 12:00-14:00 UT-AUD1",
         "Fri 12:00-13:00 UT-AUD1",
         "Exam: 28 NOV 2025 14:30-16:30"
@@ -1842,8 +1843,7 @@
       ],
       "Semester I": [
         "YAP Hock Chuan, Roland",
-        "Grp L1: Mon 18:30-20:30 LT15",
-        "Exam: 01 DEC 2025 17:00-19:00"
+        "Grp L1: Mon 18:30-20:30 LT15"
       ],
       "Semester II": [
         "-"
@@ -2510,8 +2510,7 @@
       ],
       "Semester I": [
         "YAP Hock Chuan, Roland",
-        "Grp L1: Mon 18:30-20:30 LT15",
-        "Exam: 01 DEC 2025 17:00-19:00"
+        "Grp L1: Mon 18:30-20:30 LT15"
       ],
       "Semester II": [
         "-"
@@ -2642,7 +2641,7 @@
         "-"
       ],
       "Semester II": [
-        "Jane E",
+        "E Jane Little",
         "Grp L1: Wed 11:00-13:00 COM1-VCRM"
       ]
     },
@@ -2671,7 +2670,7 @@
         "Grp L1: Wed 14:00-16:00 COM1-VCRM"
       ],
       "Semester II": [
-        "-"
+        "TAN Zhi Xuan"
       ]
     },
     {
@@ -3746,7 +3745,7 @@
       ],
       "Semester I": [
         "TAN Chuan Hoo",
-        "Grp L1: Mon 15:00-18:00 COM1-VCRM"
+        "Grp L1: Mon 15:00-18:00"
       ],
       "Semester II": [
         "-"
