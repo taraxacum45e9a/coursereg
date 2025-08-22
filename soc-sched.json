@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "4 Aug - 6 Dec 2025",
     "Semester II": "12 Jan - 9 May 2026",
-    "last_modified": "2025-08-20T23:10:13"
+    "last_modified": "2025-08-22T11:10:14"
   },
   "schedule": [
     {
@@ -2158,8 +2158,7 @@
       ],
       "Semester II": [
         "Ilya SERGEY",
-        "Grp L1: Wed 10:00-12:00 COM1-0212",
-        "Exam: 29 APR 2026 17:00-19:00"
+        "Grp L1: Wed 10:00-12:00 COM1-0212"
       ]
     },
     {
@@ -2909,7 +2908,7 @@
       ],
       "Semester II": [
         "Shashank Shekhar TRIPATHI",
-        "Grp L1: Thu 18:00-21:00 LT15"
+        "Grp L1: Tue 18:00-21:00 UTSRC-LT52"
       ]
     },
     {
@@ -2922,7 +2921,8 @@
         "-"
       ],
       "Semester II": [
-        "Stanley KOK"
+        "Stanley KOK",
+        "Grp L1: Fri 18:30-21:30 LT14"
       ]
     },
     {
