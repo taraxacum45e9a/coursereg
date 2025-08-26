@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "4 Aug - 6 Dec 2025",
     "Semester II": "12 Jan - 9 May 2026",
-    "last_modified": "2025-08-25T17:10:14"
+    "last_modified": "2025-08-26T17:10:14"
   },
   "schedule": [
     {
@@ -660,6 +660,7 @@
       ],
       "Semester I": [
         "Adi Yoga Sidi PRABAWA",
+        "OOI Wei Tsang",
         "Grp L1: Mon 12:00-14:00 LT16",
         "Exam: 26 NOV 2025 13:00-15:00"
       ],
