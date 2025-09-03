@@ -2,7 +2,7 @@
   "meta": {
     "Special Term (Part I)": "12 May - 21 Jun 2025",
     "Special Term (Part II)": "23 Jun - 2 Aug 2025",
-    "last_modified": "2025-09-02T23:15:04"
+    "last_modified": "2025-09-03T11:15:05"
   },
   "schedule": [
     {
@@ -18,6 +18,21 @@
         "KHOO Siau Cheng",
         "Grp S1: Mon 10:00-12:00 LT18",
         "Tue 10:00-12:00 LT18"
+      ]
+    },
+    {
+      "Course Code": "TCX2005",
+      "Course Title": [
+        "Information Systems, Management and Organisations",
+        "Units = 4"
+      ],
+      "Special Term (Part I)": [
+        "Prakash Chandra SUKHWAL",
+        "Grp L1: Thu 18:30-20:30 LT15",
+        "Exam: 12 JUL 2025 13:00-15:00"
+      ],
+      "Special Term (Part II)": [
+        "-"
       ]
     }
   ]
