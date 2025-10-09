@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "4 Aug - 6 Dec 2025",
     "Semester II": "12 Jan - 9 May 2026",
-    "last_modified": "2025-10-08T11:10:16"
+    "last_modified": "2025-10-09T23:10:15"
   },
   "schedule": [
     {
@@ -21,7 +21,7 @@
         "TAN Swee Lin, Sharon",
         "SOW Jin Sze, Samantha",
         "Grp L1: Thu 16:00-18:00 LT16",
-        "Exam: 30 APR 2026 13:00-15:30"
+        "Exam: 29 APR 2026 17:00-19:30"
       ]
     },
     {
@@ -1709,7 +1709,7 @@
         "-"
       ],
       "Semester II": [
-        "LU Yao",
+        "Adi Yoga Sidi PRABAWA",
         "Grp L1: Fri 18:30-20:30 LT15"
       ]
     },
@@ -1894,6 +1894,19 @@
         "YAO Yingjie Angela",
         "Grp L1: Tue 14:00-16:00 LT19",
         "Exam: 06 MAY 2026 17:00-19:00"
+      ]
+    },
+    {
+      "Course Code": "CS4245",
+      "Course Title": [
+        "Machine Learning Systems",
+        "Units = -"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "LU Yao"
       ]
     },
     {
@@ -2464,7 +2477,7 @@
         "-"
       ],
       "Semester II": [
-        "LU Yao",
+        "Adi Yoga Sidi PRABAWA",
         "Grp L1: Fri 18:30-20:30 LT15"
       ]
     },
