@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "4 Aug - 6 Dec 2025",
     "Semester II": "12 Jan - 9 May 2026",
-    "last_modified": "2025-11-03T11:10:17"
+    "last_modified": "2025-11-04T11:10:18"
   },
   "schedule": [
     {
@@ -68,7 +68,7 @@
       ],
       "Semester II": [
         "NG Teck Khim",
-        "Grp L1: Tue 16:00-18:00 LT15",
+        "Grp L1: Tue 16:00-18:00 COM1-0206",
         "Exam: 28 APR 2026 13:00-15:00"
       ]
     },
@@ -99,8 +99,8 @@
       ],
       "Semester II": [
         "Shashank Shekhar TRIPATHI",
-        "Grp L1: Fri 09:30-12:30 LT17",
-        "Grp L2: Fri 15:00-18:00 LT17"
+        "Grp L1: Fri 09:30-12:30 COM1-0206",
+        "Grp L2: Fri 15:00-18:00 COM1-0206"
       ]
     },
     {
@@ -204,7 +204,7 @@
         "-"
       ],
       "Semester II": [
-        "Vivek Magesh",
+        "Vivek Sundar MAGESH",
         "Grp L1: Thu 15:00-18:00 COM1-0204"
       ]
     },
@@ -472,7 +472,7 @@
       ],
       "Semester II": [
         "Victor NG",
-        "Grp L1: Mon 18:30-21:30 LT9"
+        "Grp L1: Mon 18:30-21:30 I3-LT38"
       ]
     },
     {
@@ -1108,8 +1108,7 @@
       ],
       "Semester II": [
         "Nitya.Lakshmanan",
-        "Grp L1: Thu 10:00-12:00 LT8",
-        "Grp L2: Thu 10:00-12:00 E-Learn_C",
+        "Grp L1: Thu 10:00-12:00 I3-LT38",
         "Exam: 30 APR 2026 17:00-19:00"
       ]
     },
@@ -1124,7 +1123,7 @@
       ],
       "Semester II": [
         "NG Teck Khim",
-        "Grp L1: Tue 10:00-12:00 LT15",
+        "Grp L1: Tue 10:00-12:00 COM1-0206",
         "Exam: 04 MAY 2026 17:00-19:00"
       ]
     },
@@ -1146,8 +1145,8 @@
         "Muhammad Rizki Aulia Rahman MAULANA",
         "Patrick REBENTROST",
         "Conghui HU",
-        "Grp L1: Tue 16:00-18:00 LT17",
-        "Grp L2: Tue 10:00-12:00 LT17",
+        "Grp L1: Tue 16:00-18:00 I3-LT38",
+        "Grp L2: Tue 10:00-12:00 I3-LT38",
         "Exam: 02 MAY 2026 13:00-15:00"
       ]
     },
@@ -1239,7 +1238,7 @@
       ],
       "Semester II": [
         "Cristina CARBUNARU",
-        "Grp L1: Tue 12:00-14:00 LT16",
+        "Grp L1: Tue 12:00-14:00 I3-LT38",
         "Exam: 05 MAY 2026 13:00-15:00"
       ]
     },
@@ -1388,7 +1387,7 @@
       "Semester II": [
         "ZHANG Jiaheng",
         "LIANG Zhenkai",
-        "Grp L1: Tue 16:00-18:00 LT19"
+        "Grp L1: Tue 16:00-18:00 LT15"
       ]
     },
     {
@@ -1402,7 +1401,7 @@
       ],
       "Semester II": [
         "Jonathan Mark SCARLETT",
-        "Grp L1: Mon 14:00-16:00 LT12",
+        "Grp L1: Mon 14:00-16:00 COM1-0206",
         "Exam: 25 APR 2026 09:00-11:00"
       ]
     },
@@ -1499,8 +1498,8 @@
       "Semester II": [
         "LEE Wee Sun",
         "WANG Ye",
-        "Grp L1: Mon 14:00-16:00 LT19",
-        "Thu 12:00-13:00 LT16",
+        "Grp L1: Mon 14:00-16:00 I3-LT38",
+        "Thu 12:00-13:00 I3-LT38",
         "Exam: 30 APR 2026 17:00-19:00"
       ]
     },
@@ -1530,7 +1529,7 @@
       ],
       "Semester II": [
         "Anand BHOJAN",
-        "Grp L1: Fri 10:00-12:00 LT9"
+        "Grp L1: Fri 10:00-12:00 LT17"
       ]
     },
     {
@@ -1663,7 +1662,7 @@
       ],
       "Semester II": [
         "Michael D. ADAMS",
-        "Grp L1: Thu 14:00-16:00 LT12"
+        "Grp L1: Thu 14:00-16:00 COM1-0206"
       ]
     },
     {
@@ -1892,7 +1891,7 @@
       ],
       "Semester II": [
         "YAO Yingjie Angela",
-        "Grp L1: Tue 14:00-16:00 LT19",
+        "Grp L1: Tue 14:00-16:00 LT15",
         "Exam: 06 MAY 2026 17:00-19:00"
       ]
     },
@@ -1922,7 +1921,7 @@
       "Semester II": [
         "LING Chun Kai",
         "Muhammad Rizki Aulia Rahman MAULANA",
-        "Grp L1: Wed 18:30-20:30 LT13"
+        "Grp L1: Wed 18:30-20:30 I3-LT38"
       ]
     },
     {
@@ -2331,7 +2330,7 @@
       ],
       "Semester II": [
         "Yi-Jun CHANG",
-        "Grp L1: Fri 18:30-21:30 LT16",
+        "Grp L1: Fri 18:30-21:30 COM1-0206",
         "Exam: 30 APR 2026 17:00-19:00"
       ]
     },
@@ -2557,7 +2556,7 @@
       "Semester II": [
         "LING Chun Kai",
         "Muhammad Rizki Aulia Rahman MAULANA",
-        "Grp L1: Wed 18:30-20:30 LT13"
+        "Grp L1: Wed 18:30-20:30 I3-LT38"
       ]
     },
     {
@@ -3101,7 +3100,7 @@
         "Grp L1: Tue 15:00-17:00 UT-AUD1"
       ],
       "Semester II": [
-        "Vivek Magesh",
+        "Vivek Sundar MAGESH",
         "Grp L1: Tue 16:00-18:00 LT11"
       ]
     },
@@ -3295,7 +3294,7 @@
       ],
       "Semester II": [
         "Nicholas Mac Gregor GARCIA",
-        "Grp L1: Thu 18:30-21:30 LT16"
+        "Grp L1: Thu 18:30-21:30 I3-LT38"
       ]
     },
     {
@@ -3381,7 +3380,8 @@
         "-"
       ],
       "Semester II": [
-        "Kyung Nakyung",
+        "External",
+        "Nakyung KYUNG",
         "Grp L1: Wed 10:00-12:00 COM1-0206",
         "Exam: 29 APR 2026 13:00-15:00"
       ]
@@ -3396,7 +3396,7 @@
         "-"
       ],
       "Semester II": [
-        "External teaching staff",
+        "Ivan NG",
         "Grp L1: Mon 18:30-21:30 COM3-01-23"
       ]
     },
@@ -3454,7 +3454,7 @@
       ],
       "Semester II": [
         "LEE Boon Kee",
-        "Grp L1: Mon 14:00-16:00 LT16",
+        "Grp L1: Mon 14:00-16:00 LT19",
         "Exam: 05 MAY 2026 13:00-15:00"
       ]
     },
@@ -3843,7 +3843,7 @@
       ],
       "Semester II": [
         "Adi Yoga Sidi PRABAWA",
-        "Grp L1: Tue 12:00-14:00 LT18"
+        "Grp L1: Tue 12:00-14:00 COM1-0206"
       ]
     },
     {
