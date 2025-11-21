@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "4 Aug - 6 Dec 2025",
     "Semester II": "12 Jan - 9 May 2026",
-    "last_modified": "2025-11-19T23:10:16"
+    "last_modified": "2025-11-21T11:10:17"
   },
   "schedule": [
     {
@@ -99,7 +99,7 @@
       ],
       "Semester II": [
         "Shashank Shekhar TRIPATHI",
-        "Grp L1: Fri 09:30-12:30 COM1-0206",
+        "Grp L1: Fri 09:00-12:00 COM1-0206",
         "Grp L2: Fri 15:00-18:00 COM1-0206"
       ]
     },
@@ -984,7 +984,7 @@
         "Grp LG04: Mon 15:00-18:00 BIZ2-0302",
         "Thu 15:00-16:00 COM3-01-20",
         "Fri 16:00-18:00 I3-LT38",
-        "Grp LG05: Tue 09:00-12:00 BIZ2-0301",
+        "Grp LG05: Tue 09:00-12:00 BIZ2-0302",
         "Thu 08:00-09:00 COM3-01-20",
         "Fri 16:00-18:00 I3-LT38",
         "Grp LG06: Tue 12:00-15:00 BIZ2-0302",
@@ -3084,7 +3084,7 @@
       ],
       "Semester II": [
         "LI Gujie",
-        "Grp L1: Wed 12:00-14:00 COM1-0206",
+        "Grp L1: Fri 12:00-14:00 COM1-0206",
         "Exam: 05 MAY 2026 13:00-15:00"
       ]
     },
