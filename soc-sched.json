@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "4 Aug - 6 Dec 2025",
     "Semester II": "12 Jan - 9 May 2026",
-    "last_modified": "2025-12-07T23:10:15"
+    "last_modified": "2025-12-08T17:10:17"
   },
   "schedule": [
     {
@@ -1894,19 +1894,6 @@
       ]
     },
     {
-      "Course Code": "CS4245",
-      "Course Title": [
-        "Machine Learning Systems",
-        "Units = -"
-      ],
-      "Semester I": [
-        "-"
-      ],
-      "Semester II": [
-        "LU Yao"
-      ]
-    },
-    {
       "Course Code": "CS4246",
       "Course Title": [
         "AI Planning and Decision Making",
@@ -1983,6 +1970,19 @@
       ],
       "Semester II": [
         "-"
+      ]
+    },
+    {
+      "Course Code": "CS4262",
+      "Course Title": [
+        "Machine Learning Systems",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "LU Yao"
       ]
     },
     {
@@ -2572,6 +2572,19 @@
       ]
     },
     {
+      "Course Code": "CS5462",
+      "Course Title": [
+        "Machine Learning Systems",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "LU Yao"
+      ]
+    },
+    {
       "Course Code": "CS5469",
       "Course Title": [
         "Fundamentals of Logic in Computer Science",
@@ -2838,6 +2851,34 @@
       "Semester II": [
         "David HSU",
         "Grp L1: Fri 10:00-12:00 COM1-VCRM"
+      ]
+    },
+    {
+      "Course Code": "CS6281",
+      "Course Title": [
+        "Topics in Computer Science: Inference Algorithms in Deep Generative Models",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Anji LIU",
+        "Grp L1: Wed 16:00-18:00 COM1-VCRM"
+      ]
+    },
+    {
+      "Course Code": "CS6282",
+      "Course Title": [
+        "Topics in Computer Science: AI meets Science - Science-Inspired AI and AI for Science",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "BIAN Yatao",
+        "Grp L1: Fri 12:00-14:00 COM1-VCRM"
       ]
     },
     {
@@ -3366,21 +3407,6 @@
         "Exam: 27 NOV 2025 17:00-19:00"
       ],
       "Semester II": []
-    },
-    {
-      "Course Code": "IS4241",
-      "Course Title": [
-        "Social Media Network Analysis",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "-"
-      ],
-      "Semester II": [
-        "Nakyung KYUNG",
-        "Grp L1: Wed 10:00-12:00 LT18",
-        "Exam: 29 APR 2026 13:00-15:00"
-      ]
     },
     {
       "Course Code": "IS4243",
