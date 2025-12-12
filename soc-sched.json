@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "4 Aug - 6 Dec 2025",
     "Semester II": "12 Jan - 9 May 2026",
-    "last_modified": "2025-12-11T23:10:15"
+    "last_modified": "2025-12-12T11:10:17"
   },
   "schedule": [
     {
@@ -502,7 +502,7 @@
       ],
       "Semester II": [
         "ZHAO Jin",
-        "Grp S1: Tue 10:00-12:00 LT18",
+        "Grp S1: Tue 10:00-12:00 COM3-01-20",
         "Exam: 29 APR 2026 09:00-11:00"
       ]
     },
@@ -661,7 +661,7 @@
       "Semester II": [
         "CHIA Wai Kit, Henry",
         "CHIN Wei Ngan",
-        "Grp L1: Mon 12:00-14:00 COM1-0206",
+        "Grp L1: Mon 12:00-14:00 LT19",
         "Grp L2: Tue 12:00-14:00 LT19",
         "Exam: 29 APR 2026 13:00-15:00"
       ]
@@ -1513,7 +1513,7 @@
       ],
       "Semester II": [
         "ZHAO Jin",
-        "Grp L1: Fri 12:00-14:00 LT18",
+        "Grp L1: Fri 12:00-14:00 COM1-0204",
         "Exam: 04 MAY 2026 13:00-15:00"
       ]
     },
@@ -1677,7 +1677,7 @@
       ],
       "Semester II": [
         "Ganesh NEELAKANTA IYER",
-        "Grp L1: Mon 12:00-14:00 LT19",
+        "Grp L1: Mon 12:00-14:00 COM1-0206",
         "Exam: 05 MAY 2026 09:00-11:00"
       ]
     },
@@ -1983,7 +1983,8 @@
         "-"
       ],
       "Semester II": [
-        "LU Yao"
+        "LU Yao",
+        "Grp L1: Thu 18:30-20:30 COM3-MPH"
       ]
     },
     {
@@ -2582,7 +2583,8 @@
         "-"
       ],
       "Semester II": [
-        "LU Yao"
+        "LU Yao",
+        "Grp LG1: Thu 18:30-20:30 COM3-MPH"
       ]
     },
     {
@@ -3036,7 +3038,7 @@
       ],
       "Semester II": [
         "Hugh ANDERSON",
-        "Grp L1: Thu 14:00-16:00 COM1-0210"
+        "Grp L1: Thu 14:00-16:00 COM3-01-22"
       ]
     },
     {
