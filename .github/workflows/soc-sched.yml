@@ -9,19 +9,25 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
+
     steps:
       - uses: actions/checkout@v6
+
+      - uses: actions/checkout@v6
+        with:
+          path: repo
+          ref: soc-sched
+
       - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: "pip"
+
       - run: pip install -r requirements.txt
-      - run: |
-          gh repo clone $GITHUB_REPOSITORY repo
-          git -C repo checkout soc-sched
-          ./update-sched.sh
-          git -C repo push https://oauth2:$GH_TOKEN@github.com/$GITHUB_REPOSITORY
-        env:
-          GH_TOKEN: ${{ github.token }}
+
+      - run: ./update-sched.sh
+
+      - run: git -C repo push
