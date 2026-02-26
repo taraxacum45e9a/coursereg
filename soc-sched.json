@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "4 Aug - 6 Dec 2025",
     "Semester II": "12 Jan - 9 May 2026",
-    "last_modified": "2026-01-27T11:10:17"
+    "last_modified": "2026-02-26T23:10:16"
   },
   "schedule": [
     {
@@ -1232,7 +1232,7 @@
     {
       "Course Code": "CS3211",
       "Course Title": [
-        "Parallel and Concurrent Programming",
+        "Concurrent Programming",
         "Units = 4"
       ],
       "Semester I": [
