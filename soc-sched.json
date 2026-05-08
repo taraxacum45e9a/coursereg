@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "4 Aug - 6 Dec 2025",
     "Semester II": "12 Jan - 9 May 2026",
-    "last_modified": "2026-05-07T11:10:16"
+    "last_modified": "2026-05-08T17:10:16"
   },
   "schedule": [
     {
@@ -763,7 +763,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Weng-Fai Wong",
+        "Weng-Fai WONG",
         "Anandha GOPALAN",
         "Tan Tuck Choy",
         "Grp L1: Tue 16:00-18:00 UT-AUD2",
@@ -843,7 +843,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Christian Von Der Weth",
+        "Christian VON DER WETH",
         "Adi Yoga Sidi Prabawa",
         "Grp L1: Tue 12:00-14:00 LT8",
         "Exam: 26 NOV 2025 09:00-11:00"
@@ -864,14 +864,14 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Damith Chatura Rajapakse",
+        "Damith Chatura RAJAPAKSE",
         "Michael D. ADAMS",
         "Prabhu NATARAJAN",
         "Grp L1: Fri 16:00-18:00 I3-LT38",
         "Exam: 29 NOV 2025 09:00-10:30"
       ],
       "Semester II": [
-        "Damith Chatura Rajapakse",
+        "Damith Chatura RAJAPAKSE",
         "Ganesh NEELAKANTA IYER",
         "Grp L1: Fri 16:00-18:00 I3-LT38",
         "Exam: 04 MAY 2026 09:00-10:30"
@@ -884,7 +884,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Damith Chatura Rajapakse",
+        "Damith Chatura RAJAPAKSE",
         "Michael D. ADAMS",
         "Prabhu NATARAJAN",
         "Grp LG01: Mon 09:00-12:00 BIZ2-0301",
@@ -974,7 +974,7 @@
         "Exam: 29 NOV 2025 09:00-10:30"
       ],
       "Semester II": [
-        "Damith Chatura Rajapakse",
+        "Damith Chatura RAJAPAKSE",
         "Ganesh NEELAKANTA IYER",
         "Grp LG01: Mon 09:00-12:00 BIZ2-0301",
         "Wed 08:00-09:00 COM3-01-20",
@@ -1603,7 +1603,7 @@
         "-"
       ],
       "Semester II": [
-        "Damith Chatura Rajapakse",
+        "Damith Chatura RAJAPAKSE",
         "Grp L1: Mon 12:00-14:00 COM1-0212"
       ]
     },
@@ -1617,7 +1617,7 @@
         "-"
       ],
       "Semester II": [
-        "Damith Chatura Rajapakse",
+        "Damith Chatura RAJAPAKSE",
         "Grp L1: Thu 14:00-16:00 COM1-0212"
       ]
     },
@@ -1940,7 +1940,7 @@
       ],
       "Semester II": [
         "KAN Min-Yen",
-        "Christian Von Der Weth",
+        "Christian VON DER WETH",
         "Grp L1: Fri 09:00-12:00 LT19",
         "Grp L2: Mon 18:30-21:30 LT16",
         "Exam: 02 MAY 2026 13:00-15:00"
@@ -2139,7 +2139,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Christian Von Der Weth",
+        "Christian VON DER WETH",
         "Grp L1: Fri 18:30-20:30 LT17"
       ],
       "Semester II": [
@@ -2273,7 +2273,7 @@
         "-"
       ],
       "Semester II": [
-        "Christian Von Der Weth",
+        "Christian VON DER WETH",
         "Grp L1: Wed 18:30-20:30 LT17"
       ]
     },
@@ -2287,7 +2287,7 @@
         "-"
       ],
       "Semester II": [
-        "Weng-Fai Wong",
+        "Weng-Fai WONG",
         "Grp L1: Mon 18:30-20:30 LT19",
         "Exam: 28 APR 2026 17:00-19:00"
       ]
