@@ -1,8 +1,8 @@
 {
   "meta": {
-    "Special Term (Part I)": "12 May - 21 Jun 2025",
-    "Special Term (Part II)": "23 Jun - 2 Aug 2025",
-    "last_modified": "2026-07-13T11:15:06"
+    "Special Term (Part I)": "10 May - 19 Jun 2027",
+    "Special Term (Part II)": "21 Jun - 31 Jul 2027",
+    "last_modified": "2026-07-14T11:15:06"
   },
   "schedule": [
     {
@@ -15,9 +15,22 @@
         "-"
       ],
       "Special Term (Part II)": [
-        "KHOO Siau Cheng",
-        "Grp S1: Mon 10:00-12:00 LT18",
-        "Tue 10:00-12:00 LT18"
+        "Grp S1: Mon 18:00-20:00 LT14",
+        "Mon 10:00-12:00 LT14"
+      ]
+    },
+    {
+      "Course Code": "TCX2003",
+      "Course Title": [
+        "Database Systems and Management",
+        "Units = 4"
+      ],
+      "Special Term (Part I)": [
+        "JIANG KAN",
+        "Grp L1: Mon 19:00-21:00 LT16"
+      ],
+      "Special Term (Part II)": [
+        "-"
       ]
     },
     {
@@ -28,8 +41,21 @@
       ],
       "Special Term (Part I)": [
         "Prakash Chandra SUKHWAL",
-        "Grp L1: Thu 18:30-20:30 LT15",
-        "Exam: 12 JUL 2025 13:00-15:00"
+        "Grp L1: Tue 18:30-20:30 LT16"
+      ],
+      "Special Term (Part II)": [
+        "-"
+      ]
+    },
+    {
+      "Course Code": "TCX2006",
+      "Course Title": [
+        "Introduction to AI and Machine Learning",
+        "Units = 4"
+      ],
+      "Special Term (Part I)": [
+        "Han Liang Wee Eric",
+        "Grp L1: Sat 10:30-12:30 LT15"
       ],
       "Special Term (Part II)": [
         "-"
