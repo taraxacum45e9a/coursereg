@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "3 Aug - 5 Dec 2026",
     "Semester II": "11 Jan - 8 May 2027",
-    "last_modified": "2026-07-21T11:10:17"
+    "last_modified": "2026-07-22T13:10:15"
   },
   "schedule": [
     {
@@ -80,7 +80,7 @@
       ],
       "Semester I": [
         "JIN Chen",
-        "Grp L1: Wed 12:00-14:00 COM1-0212",
+        "Grp L1: Wed 12:00-14:00 LT19",
         "Exam: 30 NOV 2026 09:00-11:00"
       ],
       "Semester II": [
@@ -1445,7 +1445,7 @@
       ],
       "Semester I": [
         "Akshay NARAYAN",
-        "Grp L1: Thu 14:00-16:00 I3-LT38",
+        "Grp L1: Thu 14:00-16:00 COM1-0206",
         "Exam: 28 NOV 2026 13:00-14:30"
       ],
       "Semester II": [
@@ -1557,7 +1557,7 @@
       ],
       "Semester I": [
         "Prateek Saxena",
-        "Grp L1: Thu 12:00-14:00 I3-LT38"
+        "Grp L1: Thu 12:00-14:00 COM1-0206"
       ],
       "Semester II": [
         "Liang Zhenkai",
@@ -1787,7 +1787,7 @@
       ],
       "Semester I": [
         "Umang MATHUR",
-        "Grp L1: Wed 12:00-15:00 LT19"
+        "Grp L1: Wed 12:00-15:00 COM1-0212"
       ],
       "Semester II": [
         "Dong Jin Song",
@@ -2032,7 +2032,7 @@
       ],
       "Semester I": [
         "Yap Hock Chuan, Roland",
-        "Grp L1: Mon 18:30-20:30 COM1-0212"
+        "Grp L1: Mon 18:30-20:30 LT15"
       ],
       "Semester II": [
         "-"
@@ -2789,7 +2789,7 @@
       ],
       "Semester I": [
         "Yap Hock Chuan, Roland",
-        "Grp L1: Mon 18:30-20:30 COM1-0212"
+        "Grp L1: Mon 18:30-20:30 LT15"
       ],
       "Semester II": [
         "-"
@@ -3425,11 +3425,11 @@
       ],
       "Semester I": [
         "Oh Lih Bin",
-        "Grp L1: Thu 12:00-15:00 COM1-0206"
+        "Grp L1: Thu 12:00-15:00 I3-LT38"
       ],
       "Semester II": [
         "Oh Lih Bin",
-        "Grp L1: Thu 15:00-18:00 COM1-0206"
+        "Grp L1: Thu 15:00-18:00 LT17"
       ]
     },
     {
@@ -3631,7 +3631,7 @@
       ],
       "Semester I": [
         "YANG Lu",
-        "Grp L1: Wed 09:00-12:00 COM1-0212"
+        "Grp L1: Wed 09:00-12:00 COM1-0206"
       ],
       "Semester II": [
         "-"
