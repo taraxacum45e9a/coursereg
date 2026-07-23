@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "3 Aug - 5 Dec 2026",
     "Semester II": "11 Jan - 8 May 2027",
-    "last_modified": "2026-07-22T13:10:15"
+    "last_modified": "2026-07-23T15:10:17"
   },
   "schedule": [
     {
@@ -565,11 +565,11 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Qizhe XIE",
-        "Grp L1: Wed 12:00-14:00 COM3-01-21"
+        "-"
       ],
       "Semester II": [
-        "-"
+        "Qizhe XIE",
+        "Grp L1: Tue 12:00-14:00 COM3-01-21"
       ]
     },
     {
@@ -2059,12 +2059,12 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Amirhassan Monajemi",
+        "Angela Yao",
         "Grp L1: Wed 12:00-14:00 LT16",
         "Exam: 01 DEC 2026 17:00-19:00"
       ],
       "Semester II": [
-        "Angela Yao",
+        "Amirhassan Monajemi",
         "Grp L1: Thu 16:00-18:00 LT15",
         "Exam: 04 MAY 2027 13:00-15:00"
       ]
@@ -3144,7 +3144,7 @@
       ],
       "Semester I": [
         "Foong Sew Bun",
-        "Grp L1: Thu 18:30-21:30 COM3-01-23"
+        "Grp L1: Thu 18:30-21:30 COM1-0204"
       ],
       "Semester II": [
         "-"
@@ -3965,7 +3965,7 @@
       ],
       "Semester I": [
         "Varun KARAMSHETTY",
-        "Grp L1: Mon 18:30-20:30 COM4SR31"
+        "Grp L1: Mon 18:30-20:30 COM1-0212"
       ],
       "Semester II": [
         "Prakash Chandra SUKHWAL",
