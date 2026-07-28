@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "3 Aug - 5 Dec 2026",
     "Semester II": "11 Jan - 8 May 2027",
-    "last_modified": "2026-07-27T23:10:16"
+    "last_modified": "2026-07-28T13:10:16"
   },
   "schedule": [
     {
@@ -155,7 +155,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Shalinda Adikari",
+        "Shalinda ADIKARI",
         "Grp L1: Thu 09:00-12:00 COM4SR31"
       ],
       "Semester II": [
@@ -184,13 +184,13 @@
         "Units = 8"
       ],
       "Semester I": [
-        "Shalinda Adikari",
+        "Shalinda ADIKARI",
         "SETIONO, Rudy",
         "Anand Mohan RAMCHAND",
         "Grp L1: Fri 09:00-12:00 LT13"
       ],
       "Semester II": [
-        "Shalinda Adikari",
+        "Shalinda ADIKARI",
         "TAN Swee Lin, Sharon",
         "Grp L1: Wed 12:00-15:00 LT18"
       ]
@@ -568,7 +568,7 @@
         "-"
       ],
       "Semester II": [
-        "Qizhe Xie",
+        "Qizhe XIE",
         "Grp L1: Tue 12:00-14:00 COM3-01-21"
       ]
     },
@@ -652,7 +652,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Nitya LAKSHMANAN",
+        "Nitya.Lakshmanan",
         "Ashish Deepak DANDEKAR",
         "Grp L1: Wed 10:00-12:00 LT27",
         "Exam: 25 NOV 2026 09:00-11:00"
@@ -878,38 +878,10 @@
       ],
       "Semester I": [
         "LAM Wanli, Aileen",
-        "Grp LG01:  -",
-        "Grp LG02:  -",
-        "Grp LG03:  -",
-        "Grp LG04:  -",
-        "Grp LG05:  -",
-        "Grp LG06:  -",
-        "Grp LG07:  -",
-        "Grp LG08:  -",
-        "Grp LG09:  -",
-        "Grp LG10:  -",
-        "Grp LG11:  -",
-        "Grp LG12:  -",
-        "Grp LG13:  -",
-        "Grp LG14:  -",
-        "Grp LG15:  -",
-        "Grp LG16:  -",
-        "Grp LG17:  -",
-        "Grp LG18:  -",
-        "Grp LG19:  -",
-        "Grp LG20:  -",
-        "Grp LG21:  -",
-        "Grp LG22:  -",
-        "Grp LG23:  -",
-        "Grp LG24:  -",
-        "Grp LG25:  -",
-        "Grp LG26:  -",
+        "Grp L01:  -",
         "Grp LG27:  -",
-        "-",
         "Grp LG28:  -",
-        "-",
-        "Grp LG29:  -",
-        "-"
+        "Grp LG29:  -"
       ],
       "Semester II": [
         "Grp SG01:  -",
@@ -940,7 +912,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Christian Von Der WETH",
+        "Christian VON DER WETH",
         "Adi Yoga Sidi PRABAWA",
         "Grp L1: Mon 16:00-18:00 LT11",
         "Exam: 28 NOV 2026 13:00-15:00"
@@ -1234,13 +1206,13 @@
       ],
       "Semester I": [
         "CHANG Ee-Chien",
-        "Nitya LAKSHMANAN",
+        "Nitya.Lakshmanan",
         "Grp L1: Thu 14:00-16:00 LT8",
         "Grp L2: Thu 14:00-16:00 E-Learn_C",
         "Exam: 01 DEC 2026 09:00-11:00"
       ],
       "Semester II": [
-        "Nitya LAKSHMANAN",
+        "Nitya.Lakshmanan",
         "Grp L1: Thu 10:00-12:00 I3-LT38",
         "Grp L2: Thu 10:00-12:00 E-Learn_C",
         "Exam: 04 MAY 2027 09:00-11:00"
@@ -2114,7 +2086,7 @@
         "Exam: 01 DEC 2026 09:00-10:30"
       ],
       "Semester II": [
-        "Christian Von Der WETH",
+        "Christian VON DER WETH",
         "Yang YOU",
         "Grp L1: Tue 15:00-18:00 LT19",
         "Grp L2: Mon 09:00-12:00 LT18",
@@ -2359,7 +2331,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Christian Von Der WETH",
+        "Christian VON DER WETH",
         "Grp L1: Fri 18:30-20:30 I3-LT38"
       ],
       "Semester II": [
@@ -2495,7 +2467,7 @@
         "-"
       ],
       "Semester II": [
-        "Christian Von Der WETH",
+        "Christian VON DER WETH",
         "Grp L1: Wed 18:30-20:30 LT19"
       ]
     },
@@ -2524,7 +2496,7 @@
         "-"
       ],
       "Semester II": [
-        "Qizhe Xie",
+        "Qizhe XIE",
         "Grp L1: Fri 18:30-20:30 LT18"
       ]
     },
@@ -3531,7 +3503,7 @@
         "-"
       ],
       "Semester II": [
-        "Shalinda Adikari",
+        "Shalinda ADIKARI",
         "Grp L1: Thu 09:00-11:00 COM3-01-23"
       ]
     },
@@ -3911,7 +3883,7 @@
         "-"
       ],
       "Semester II": [
-        "Vincent LOY JITCHEN",
+        "Vincent LOY Jitchen",
         "Grp L1: Fri 18:30-20:30 LT14"
       ]
     },
@@ -4184,6 +4156,21 @@
         "Prabhu NATARAJAN",
         "Grp L1: Tue 18:30-20:30 COM3-MPH",
         "Exam: 21 NOV 2026 13:00-15:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Course Code": "TIC2001",
+      "Course Title": [
+        "Data Structures and Algorithms",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "TAN Sun Teck",
+        "Grp L1: Mon 19:00-21:00 COM4SR33",
+        "Exam: 23 NOV 2026 09:00-11:00"
       ],
       "Semester II": [
         "-"
