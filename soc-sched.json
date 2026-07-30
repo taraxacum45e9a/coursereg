@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "3 Aug - 5 Dec 2026",
     "Semester II": "11 Jan - 8 May 2027",
-    "last_modified": "2026-07-29T23:10:13"
+    "last_modified": "2026-07-30T13:10:13"
   },
   "schedule": [
     {
@@ -921,8 +921,8 @@
         "Xiaokui XIAO",
         "Bryan HOOI Kuen-Yew",
         "Adi Yoga Sidi PRABAWA",
-        "Grp L1: Mon 12:00-14:00 E-Learn_C",
-        "Mon 12:00-14:00 I3-LT38",
+        "Grp L1: Mon 12:00-14:00 I3-LT38",
+        "Grp L2: Mon 12:00-14:00 E-Learn_C",
         "Exam: 28 APR 2027 17:00-19:00"
       ]
     },
@@ -1187,8 +1187,9 @@
       "Semester I": [
         "Jialin LI",
         "TAN Keng Yan, Colin",
-        "Grp L1: Wed 12:00-14:00 I3-LT38",
-        "Wed 12:00-14:00 E-Learn_C",
+        "Grp L1: Wed 12:00-14:00 E-Learn_C",
+        "Wed 12:00-14:00 I3-LT38",
+        "Grp L2: Wed 12:00-14:00 E-Learn_C",
         "Exam: 27 NOV 2026 09:00-11:00"
       ],
       "Semester II": [
