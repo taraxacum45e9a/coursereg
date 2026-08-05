@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "3 Aug - 5 Dec 2026",
     "Semester II": "11 Jan - 8 May 2027",
-    "last_modified": "2026-08-05T13:10:10"
+    "last_modified": "2026-08-05T23:10:09"
   },
   "schedule": [
     {
@@ -187,6 +187,7 @@
         "Shalinda ADIKARI",
         "SETIONO, Rudy",
         "Anand Mohan RAMCHAND",
+        "OH Hyelim",
         "Grp L1: Fri 09:00-12:00 LT13"
       ],
       "Semester II": [
@@ -485,20 +486,6 @@
       "Semester II": [
         "Victor NG",
         "Grp L1: Tue 09:00-12:00 LT9"
-      ]
-    },
-    {
-      "Course Code": "CP3100",
-      "Course Title": [
-        "Information Systems and Analytics Research Methodology",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "External teaching staff",
-        "Grp L1: Mon 15:00-18:00 COM4-02-01"
-      ],
-      "Semester II": [
-        "-"
       ]
     },
     {
