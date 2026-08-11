@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "3 Aug - 5 Dec 2026",
     "Semester II": "11 Jan - 8 May 2027",
-    "last_modified": "2026-08-10T23:10:09"
+    "last_modified": "2026-08-11T13:10:11"
   },
   "schedule": [
     {
@@ -1561,7 +1561,8 @@
       ],
       "Semester I": [
         "Bimlesh WADHWA",
-        "Grp L1: Thu 08:00-10:00 LT14"
+        "Grp L1: Thu 08:00-10:00 COM1-0210",
+        "Thu 08:00-10:00 LT14"
       ],
       "Semester II": [
         "Bimlesh WADHWA",
