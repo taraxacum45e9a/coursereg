@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "3 Aug - 5 Dec 2026",
     "Semester II": "11 Jan - 8 May 2027",
-    "last_modified": "2026-10-04T23:10:14"
+    "last_modified": "2026-10-05T18:10:11"
   },
   "schedule": [
     {
@@ -287,7 +287,7 @@
     {
       "Course Code": "BT4301",
       "Course Title": [
-        "Business Analytics Solutions Development and Deployment",
+        "Data and AI Operations Engineering",
         "Units = 4"
       ],
       "Semester I": [
@@ -484,7 +484,6 @@
         "-"
       ],
       "Semester II": [
-        "Victor NG",
         "Grp L1: Tue 09:00-12:00 LT9"
       ]
     },
