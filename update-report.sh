@@ -6,7 +6,8 @@ export TZ=Asia/Singapore
 
 set -ex
 
-cat <<EOF | wget --no-verbose -i -
+# A missing report (e.g. a round not yet published) must not abort the rest
+cat <<EOF | wget --no-verbose -i - || true
 https://nus.edu.sg/coursereg/docs/DemandAllocationRptGD_R0.pdf
 https://nus.edu.sg/coursereg/docs/DemandAllocationRptGD_R1.pdf
 https://nus.edu.sg/coursereg/docs/DemandAllocationRptGD_R2.pdf
@@ -22,6 +23,7 @@ https://nus.edu.sg/coursereg/docs/VacancyRpt_R2.pdf
 https://nus.edu.sg/coursereg/docs/VacancyRpt_R3.pdf
 EOF
 
+shopt -s nullglob
 for file in *.pdf; do
     DATE=$(date -r $file -Is)
     if [ -f $DIR/$file ] && cmp -s $file $DIR/$file; then
