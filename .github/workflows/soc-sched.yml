@@ -6,6 +6,12 @@ on:
     - cron: "30 17 * * *" # 01:30 Asia/Singapore
     - cron: "30 5 * * *" # 13:30 Asia/Singapore
 
+env:
+  GIT_AUTHOR_NAME: github-actions[bot]
+  GIT_AUTHOR_EMAIL: github-actions[bot]@users.noreply.github.com
+  GIT_COMMITTER_NAME: github-actions[bot]
+  GIT_COMMITTER_EMAIL: github-actions[bot]@users.noreply.github.com
+
 jobs:
   build:
     runs-on: ubuntu-latest

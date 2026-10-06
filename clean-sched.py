@@ -2,6 +2,7 @@
 import datetime
 import json
 import re
+import sys
 import unicodedata
 from pathlib import Path
 
@@ -15,7 +16,7 @@ def drop_empty_lines(text: list[str]) -> list[str]:
 def extract_mtime(html: str) -> datetime.datetime:
     mo = re.search(r"Last Modified on: (\d+ \w+ \d+ \d+:\d+:\d+)", html)
     if not mo:
-        print(html)
+        print(html, file=sys.stderr)
         raise ValueError("Could not find last modified date")
 
     mtime = datetime.datetime.strptime(mo.group(1), "%d %B %Y %H:%M:%S")
@@ -56,22 +57,17 @@ def parse_table(table: BeautifulSoup):
     return meta, sched
 
 
-def clean_sched(path: Path, html: str) -> str:
-    mtime = extract_mtime(html)
-    print(mtime)
-
+def clean_sched(html: str) -> dict:
     soup = BeautifulSoup(html, "html.parser")
     meta, sched = parse_table(soup.find("table"))
-    with open(path.with_suffix(".json"), "w") as f:
-        meta["last_modified"] = mtime.isoformat()
-        json.dump({"meta": meta, "schedule": sched}, f, indent=2)
+    meta["last_modified"] = extract_mtime(html).isoformat()
+    return {"meta": meta, "schedule": sched}
 
 
 if __name__ == "__main__":
-    from sys import argv
+    src, dst = map(Path, sys.argv[1:3])
+    assert src.is_file(), "Invalid file path {}".format(src)
 
-    path = Path(argv[1])
-    assert path.is_file(), "Invalid file path {}".format(path)
-
-    with path.open() as f:
-        clean_sched(path, f.read())
+    data = clean_sched(src.read_text())
+    dst.write_text(json.dumps(data, indent=2))
+    print(data["meta"]["last_modified"])
