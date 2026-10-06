@@ -15,8 +15,8 @@ jobs:
       - uses: actions/checkout@v6
       - run: |
           gh repo clone $GITHUB_REPOSITORY repo
-          git -C repo config user.name "GitHub Actions"
-          git -C repo config user.email "$USER@$HOST"
+          git -C repo config user.name "github-actions[bot]"
+          git -C repo config user.email "github-actions[bot]@users.noreply.github.com"
           git -C repo checkout coursereg-report
           ./update-report.sh
           git -C repo push https://oauth2:$GH_TOKEN@github.com/$GITHUB_REPOSITORY
