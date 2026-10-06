@@ -6,19 +6,27 @@ on:
     - cron: "30 16 * * *" # 00:30 Asia/Singapore
     - cron: "30 4 * * *" # 12:30 Asia/Singapore
 
+env:
+  GIT_AUTHOR_NAME: github-actions[bot]
+  GIT_AUTHOR_EMAIL: github-actions[bot]@users.noreply.github.com
+  GIT_COMMITTER_NAME: github-actions[bot]
+  GIT_COMMITTER_EMAIL: github-actions[bot]@users.noreply.github.com
+
 jobs:
   build:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
+
     steps:
       - uses: actions/checkout@v6
-      - run: |
-          gh repo clone $GITHUB_REPOSITORY repo
-          git -C repo config user.name "github-actions[bot]"
-          git -C repo config user.email "github-actions[bot]@users.noreply.github.com"
-          git -C repo checkout coursereg-report
-          ./update-report.sh
-          git -C repo push https://oauth2:$GH_TOKEN@github.com/$GITHUB_REPOSITORY
-        env:
-          GH_TOKEN: ${{ github.token }}
+
+      - uses: actions/checkout@v6
+        with:
+          path: repo
+          ref: coursereg-report
+
+      - run: ./update-report.sh
+
+      - run: git -C repo push
