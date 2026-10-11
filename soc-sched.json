@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "3 Aug - 5 Dec 2026",
     "Semester II": "11 Jan - 8 May 2027",
-    "last_modified": "2026-10-10T23:10:11"
+    "last_modified": "2026-10-11T17:10:12"
   },
   "schedule": [
     {
@@ -852,6 +852,7 @@
       ],
       "Semester II": [
         "TAN Tuck Choy",
+        "JIANG Wenqi",
         "Grp L1: Mon 10:00-12:00 LT11",
         "Exam: 27 APR 2027 17:00-19:00"
       ]
@@ -1270,6 +1271,7 @@
       "Semester II": [
         "Prabhu NATARAJAN",
         "Akshay NARAYAN",
+        "Anis Bin Yusof",
         "Grp L1: Fri 16:00-18:00 LT19",
         "Exam: 03 MAY 2027 09:00-10:30"
       ]
@@ -1461,6 +1463,7 @@
       "Semester II": [
         "Steven HALIM",
         "CHEN Yu",
+        "Rucha Ravi KULKARNI",
         "Grp L1: Wed 10:00-12:00 LT11",
         "Exam: 24 APR 2027 09:00-11:30"
       ]
@@ -3229,10 +3232,11 @@
       ],
       "Semester I": [
         "Hugh ANDERSON",
+        "Anis Bin Yusof",
         "Grp L1: Thu 14:00-16:00 COM4SR31"
       ],
       "Semester II": [
-        "-"
+        "Anis Bin Yusof"
       ]
     },
     {
