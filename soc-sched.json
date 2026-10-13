@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "3 Aug - 5 Dec 2026",
     "Semester II": "11 Jan - 8 May 2027",
-    "last_modified": "2026-10-12T23:10:11"
+    "last_modified": "2026-10-13T18:10:13"
   },
   "schedule": [
     {
@@ -3236,7 +3236,8 @@
         "Grp L1: Thu 14:00-16:00 COM4SR31"
       ],
       "Semester II": [
-        "Anis Bin Yusof"
+        "Anis Bin Yusof",
+        "Grp L1: Thu 14:00-16:00 COM4SR31"
       ]
     },
     {
