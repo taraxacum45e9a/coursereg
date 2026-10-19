@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "3 Aug - 5 Dec 2026",
     "Semester II": "11 Jan - 8 May 2027",
-    "last_modified": "2026-10-18T23:10:15"
+    "last_modified": "2026-10-19T17:10:13"
   },
   "schedule": [
     {
@@ -942,6 +942,7 @@
       "Semester I": [
         "Damith Chatura RAJAPAKSE",
         "Michael D. ADAMS",
+        "Anis Bin Yusof",
         "Grp LG01: Mon 10:00-12:00 LT17",
         "Mon 14:00-16:00 BIZ2-0301",
         "Wed 09:00-10:00 COM3-01-20",
@@ -1265,6 +1266,7 @@
       "Semester I": [
         "Akshay NARAYAN",
         "Prabhu NATARAJAN",
+        "Anis Bin Yusof",
         "Grp L1: Fri 16:00-18:00 LT12",
         "Exam: 30 NOV 2026 17:00-18:30"
       ],
@@ -3206,20 +3208,6 @@
       "Semester II": [
         "AI Xin",
         "Grp L1:  -"
-      ]
-    },
-    {
-      "Course Code": "IFS4101",
-      "Course Title": [
-        "Legal Aspects of Information Security",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "-"
-      ],
-      "Semester II": [
-        "CHANG Ee-Chien",
-        "Grp L1: Tue 15:00-18:00 COM4SR31"
       ]
     },
     {
