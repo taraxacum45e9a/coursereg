@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "3 Aug - 5 Dec 2026",
     "Semester II": "11 Jan - 8 May 2027",
-    "last_modified": "2026-11-20T23:10:12"
+    "last_modified": "2026-11-21T17:10:12"
   },
   "schedule": [
     {
@@ -735,7 +735,6 @@
       ],
       "Semester II": [
         "CHIA Wai Kit, Henry",
-        "CHIN Wei Ngan",
         "Grp L1: Mon 12:00-14:00 LT19",
         "Grp L2: Mon 12:00-14:00 LT18",
         "Exam: 27 APR 2027 09:00-11:00"
@@ -756,6 +755,7 @@
       "Semester II": [
         "Boyd ANDERSON",
         "Ashish Deepak DANDEKAR",
+        "CHIN Wei Ngan",
         "Grp L1: Mon 12:00-14:00 E-Learn_C",
         "Exam: 27 APR 2027 09:00-11:00"
       ]
